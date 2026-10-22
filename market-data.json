@@ -2213,120 +2213,120 @@
     ]
   },
   "kofia": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "source": "KOFIA",
     "rows": [
       {
         "code": "3006",
         "name": "KTB 1Y",
-        "yield": 3.688,
-        "previous": 3.692,
-        "change_bp": -0.4
+        "yield": 3.685,
+        "previous": 3.688,
+        "change_bp": -0.3
       },
       {
         "code": "3019",
         "name": "KTB 2Y",
-        "yield": 3.782,
-        "previous": 3.797,
-        "change_bp": -1.5
+        "yield": 3.784,
+        "previous": 3.782,
+        "change_bp": 0.2
       },
       {
         "code": "3000",
         "name": "KTB 3Y",
-        "yield": 3.822,
-        "previous": 3.84,
-        "change_bp": -1.8
+        "yield": 3.84,
+        "previous": 3.822,
+        "change_bp": 1.8
       },
       {
         "code": "3007",
         "name": "KTB 5Y",
-        "yield": 3.965,
-        "previous": 3.99,
-        "change_bp": -2.5
+        "yield": 3.983,
+        "previous": 3.965,
+        "change_bp": 1.8
       },
       {
         "code": "3013",
         "name": "KTB 10Y",
-        "yield": 4.16,
-        "previous": 4.176,
-        "change_bp": -1.6
+        "yield": 4.152,
+        "previous": 4.16,
+        "change_bp": -0.8
       },
       {
         "code": "3014",
         "name": "KTB 20Y",
-        "yield": 4.197,
-        "previous": 4.179,
-        "change_bp": 1.8
+        "yield": 4.21,
+        "previous": 4.197,
+        "change_bp": 1.3
       },
       {
         "code": "3017",
         "name": "KTB 30Y",
-        "yield": 4.251,
-        "previous": 4.264,
-        "change_bp": -1.3
+        "yield": 4.239,
+        "previous": 4.251,
+        "change_bp": -1.2
       },
       {
         "code": "3018",
         "name": "KTB 50Y",
-        "yield": 4.28,
-        "previous": 4.292,
-        "change_bp": -1.2
+        "yield": 4.274,
+        "previous": 4.28,
+        "change_bp": -0.6
       },
       {
         "code": "3008",
         "name": "National Housing Bond Type 1 5Y",
-        "yield": 4.232,
-        "previous": 4.253,
-        "change_bp": -2.1
+        "yield": 4.245,
+        "previous": 4.232,
+        "change_bp": 1.3
       },
       {
         "code": "3015",
         "name": "MSB 91D",
-        "yield": 3.167,
-        "previous": 3.169,
-        "change_bp": -0.2
+        "yield": 3.17,
+        "previous": 3.167,
+        "change_bp": 0.3
       },
       {
         "code": "3016",
         "name": "MSB 1Y",
-        "yield": 3.565,
+        "yield": 3.568,
         "previous": 3.565,
-        "change_bp": 0.0
+        "change_bp": 0.3
       },
       {
         "code": "3003",
         "name": "MSB 2Y",
-        "yield": 3.792,
-        "previous": 3.81,
-        "change_bp": -1.8
+        "yield": 3.791,
+        "previous": 3.792,
+        "change_bp": -0.1
       },
       {
         "code": "3002",
         "name": "KEPCO 3Y",
-        "yield": 4.256,
-        "previous": 4.271,
-        "change_bp": -1.5
+        "yield": 4.263,
+        "previous": 4.256,
+        "change_bp": 0.7
       },
       {
         "code": "3009",
         "name": "Corporate AA- 3Y",
-        "yield": 4.515,
-        "previous": 4.534,
-        "change_bp": -1.9
+        "yield": 4.524,
+        "previous": 4.515,
+        "change_bp": 0.9
       },
       {
         "code": "3004",
         "name": "KDB 1Y",
-        "yield": 3.952,
-        "previous": 3.941,
-        "change_bp": 1.1
+        "yield": 3.958,
+        "previous": 3.952,
+        "change_bp": 0.6
       },
       {
         "code": "3010",
         "name": "Corporate BBB- 3Y",
-        "yield": 10.324,
-        "previous": 10.338,
-        "change_bp": -1.4
+        "yield": 10.33,
+        "previous": 10.324,
+        "change_bp": 0.6
       },
       {
         "code": "4000",
@@ -2338,8 +2338,8 @@
       {
         "code": "5000",
         "name": "CP 91D",
-        "yield": 3.71,
-        "previous": 3.7,
+        "yield": 3.72,
+        "previous": 3.71,
         "change_bp": 1.0
       }
     ]
