@@ -2169,6 +2169,49 @@
     "sessions": 5,
     "ON_TN_change": "n.m."
   },
+  "news": {
+    "generated_at": "2026-10-27T09:22:14.047209+09:00",
+    "window_start": "2026-10-26T09:22:14.047209+09:00",
+    "window_end": "2026-10-27T09:22:14.047209+09:00",
+    "headline_coverage": "complete",
+    "items": [
+      {
+        "id": "20261027061105645",
+        "title": "KTB Futures Fall in Overnight Session Amid Subdued Trading Volume",
+        "summary": "Three-year KTB futures closed 4 ticks lower at 103.21 and 10-year futures fell 21 ticks to 107.29 in overnight trading. The declines occurred amid light trading volume while US Treasury yields showed mixed movements.",
+        "published_at": "2026-10-27T06:11:04+09:00",
+        "source": "Infomax"
+      },
+      {
+        "id": "20261027091942663",
+        "title": "MOFE Gauges Market Expectations for November Treasury Bond Issuance Volume",
+        "summary": "The Ministry of Finance and Economy (MOFE) stated on October 27 that competitive Treasury bond issuance volume for November remains undecided as it assesses market expectations. Market participants expect competitive issuance to be around or below 12 trillion won.",
+        "published_at": "2026-10-27T09:19:41+09:00",
+        "source": "Infomax"
+      },
+      {
+        "id": "20261026113207691",
+        "title": "South Korea Sells 2.2 Trillion Won of Five-Year Treasury Bonds",
+        "summary": "The government auctioned 2.2 trillion won of 5-year Treasury bonds on October 26 at a weighted average yield of 3.935%. Total bids reached 6.339 trillion won, yielding a bid-to-cover ratio of 288.1%.",
+        "published_at": "2026-10-26T11:32:06+09:00",
+        "source": "Infomax"
+      },
+      {
+        "id": "20261026164118291",
+        "title": "South Korean IRS Yields Decline Across Tenors With Bull Steepening",
+        "summary": "Interest rate swap rates fell across major tenors on October 26, led by foreigner receiving interest in the 1.5-to-2-year sector. The 1-year IRS rate dropped 3.25 basis points to 3.5550%, while the 10-year rate fell 4.00 basis points.",
+        "published_at": "2026-10-26T16:41:17+09:00",
+        "source": "Infomax"
+      },
+      {
+        "id": "20261027084651534",
+        "title": "South Korea Q3 GDP Growth Beats Expectations at 1.0 Percent Quarter-on-Quarter",
+        "summary": "The Bank of Korea announced that preliminary real GDP grew 1.0% quarter-on-quarter in the third quarter, exceeding consensus despite a 0.2% drop in private consumption. Strong government consumption and facility investment supported overall domestic growth.",
+        "published_at": "2026-10-27T08:46:50+09:00",
+        "source": "Infomax"
+      }
+    ]
+  },
   "kofia": {
     "date": "2026-10-26",
     "source": "KOFIA",
