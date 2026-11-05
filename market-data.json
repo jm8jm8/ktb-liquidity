@@ -2366,126 +2366,126 @@
     "rows": [
       {
         "code": "3006",
-        "name": "KTB 1Y",
+        "name": "KTB 1y",
         "yield": 3.578,
         "previous": 3.584,
         "change_bp": -0.6
       },
       {
         "code": "3019",
-        "name": "KTB 2Y",
+        "name": "KTB 2y",
         "yield": 3.687,
         "previous": 3.701,
         "change_bp": -1.4
       },
       {
         "code": "3000",
-        "name": "KTB 3Y",
+        "name": "KTB 3y",
         "yield": 3.714,
         "previous": 3.736,
         "change_bp": -2.2
       },
       {
         "code": "3007",
-        "name": "KTB 5Y",
+        "name": "KTB 5y",
         "yield": 3.837,
         "previous": 3.87,
         "change_bp": -3.3
       },
       {
         "code": "3013",
-        "name": "KTB 10Y",
+        "name": "KTB10y",
         "yield": 3.968,
         "previous": 4.001,
         "change_bp": -3.3
       },
       {
         "code": "3014",
-        "name": "KTB 20Y",
+        "name": "KTB 20y",
         "yield": 4.047,
         "previous": 4.08,
         "change_bp": -3.3
       },
       {
         "code": "3017",
-        "name": "KTB 30Y",
+        "name": "KTB 30y",
         "yield": 4.053,
         "previous": 4.089,
         "change_bp": -3.6
       },
       {
         "code": "3018",
-        "name": "KTB 50Y",
+        "name": "KTB 50y",
         "yield": 4.076,
         "previous": 4.115,
         "change_bp": -3.9
       },
       {
         "code": "3008",
-        "name": "National Housing Bond Type 1 5Y",
+        "name": "NHB1 5y",
         "yield": 4.072,
         "previous": 4.107,
         "change_bp": -3.5
       },
       {
         "code": "3015",
-        "name": "MSB 91D",
+        "name": "MSB 91d",
         "yield": 3.182,
         "previous": 3.185,
         "change_bp": -0.3
       },
       {
         "code": "3016",
-        "name": "MSB 1Y",
+        "name": "MSB 1y",
         "yield": 3.476,
         "previous": 3.48,
         "change_bp": -0.4
       },
       {
         "code": "3003",
-        "name": "MSB 2Y",
+        "name": "MSB 2y",
         "yield": 3.707,
         "previous": 3.717,
         "change_bp": -1.0
       },
       {
         "code": "3002",
-        "name": "KEPCO 3Y",
+        "name": "KEPCO 3y",
         "yield": 4.152,
         "previous": 4.174,
         "change_bp": -2.2
       },
       {
         "code": "3009",
-        "name": "Corporate AA- 3Y",
+        "name": "Corp 3y-non AA-",
         "yield": 4.4,
         "previous": 4.422,
         "change_bp": -2.2
       },
       {
         "code": "3004",
-        "name": "KDB 1Y",
+        "name": "KDB 1y",
         "yield": 3.912,
         "previous": 3.924,
         "change_bp": -1.2
       },
       {
         "code": "3010",
-        "name": "Corporate BBB- 3Y",
+        "name": "Corp 3y-non BBB-",
         "yield": 10.224,
         "previous": 10.245,
         "change_bp": -2.1
       },
       {
         "code": "4000",
-        "name": "CD 91D",
+        "name": "CD 91d",
         "yield": 3.34,
         "previous": 3.35,
         "change_bp": -1.0
       },
       {
         "code": "5000",
-        "name": "CP 91D",
+        "name": "CP 91d",
         "yield": 3.83,
         "previous": 3.82,
         "change_bp": 1.0
