@@ -2105,7 +2105,7 @@
     "ON": {
       "tenor": "ON",
       "date": "2026-11-09",
-      "value": -0.5418,
+      "value": -0.5428,
       "change_from": null,
       "change_bp": null,
       "change_display": "n.m.",
@@ -2114,7 +2114,7 @@
     "TN": {
       "tenor": "TN",
       "date": "2026-11-09",
-      "value": -0.8127,
+      "value": -0.8141,
       "change_from": null,
       "change_bp": null,
       "change_display": "n.m.",
@@ -2123,51 +2123,51 @@
     "1W": {
       "tenor": "1W",
       "date": "2026-11-09",
-      "value": -0.6579,
+      "value": -0.6591,
       "change_from": "2026-11-02",
-      "change_bp": 8.78
+      "change_bp": 8.66
     },
     "1M": {
       "tenor": "1M",
       "date": "2026-11-09",
-      "value": -0.7619,
+      "value": -0.7632,
       "change_from": "2026-11-02",
-      "change_bp": 0.6399999999999961
+      "change_bp": 0.5099999999999993
     },
     "2M": {
       "tenor": "2M",
       "date": "2026-11-09",
-      "value": -0.8216,
+      "value": -0.823,
       "change_from": "2026-11-02",
-      "change_bp": 0.08000000000000229
+      "change_bp": -0.05999999999999339
     },
     "3M": {
       "tenor": "3M",
       "date": "2026-11-09",
-      "value": -0.8834,
+      "value": -0.8849,
       "change_from": "2026-11-02",
-      "change_bp": -4.34
+      "change_bp": -4.4900000000000055
     },
     "6M": {
       "tenor": "6M",
       "date": "2026-11-09",
-      "value": -0.913,
+      "value": -0.9146,
       "change_from": "2026-11-02",
-      "change_bp": 3.0899999999999928
+      "change_bp": 2.9299999999999993
     },
     "9M": {
       "tenor": "9M",
       "date": "2026-11-09",
-      "value": -0.9824,
+      "value": -0.9841,
       "change_from": "2026-11-02",
-      "change_bp": 4.069999999999984
+      "change_bp": 3.8999999999999924
     },
     "1Y": {
       "tenor": "1Y",
       "date": "2026-11-09",
-      "value": -1.0243,
+      "value": -1.026,
       "change_from": "2026-11-02",
-      "change_bp": 3.069999999999995
+      "change_bp": 2.8999999999999915
     }
   },
   "crs": [
