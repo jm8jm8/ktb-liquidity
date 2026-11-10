@@ -2256,6 +2256,129 @@
     "sessions": 5,
     "ON_TN_change": "n.m."
   },
+  "news": {
+    "generated_at": "2026-11-11T04:31:41.438927+09:00",
+    "window_start": "2026-11-10T04:31:41.438927+09:00",
+    "window_end": "2026-11-11T04:31:41.438927+09:00",
+    "headline_coverage": "complete",
+    "items": [
+      {
+        "id": "20261110164716418",
+        "published_at": "2026-11-10T16:47:15+09:00",
+        "source": "Infomax",
+        "title": "Korea Treasury Bonds Rally and Yield Curve Flattens Despite Strong Equities",
+        "title_ko": "증시 호조에도 국고채 금리 하락 및 커브 플래트닝",
+        "summary": "Korea Treasury bond yields fell on November 10, with medium-to-short-term yields edging down and long-term yields dropping more sharply to flatten the curve. The benchmark 3-year KTB yield fell 0.6 bp to 3.633 percent, while the 10-year yield declined 1.3 bp to 3.850 percent by the market close. 3-year and 10-year KTB futures rose 2 ticks and 9 ticks to settle at 103.83 and 109.48, respectively. Foreign investors net-purchased 11,296 contracts of 3-year KTB futures and 2,284 contracts of 10-year KTB futures. Early session weakness driven by sharp overnight gains in US and domestic equities was fully reversed as foreign buying persisted throughout the day.",
+        "summary_ko": "10일 국고채 금리는 중단기물이 소폭 내리고 장기물이 더 큰 폭으로 하락하면서 수익률곡선이 평탄해졌다. 마감 기준 국고채 3년물 지표금리는 전장 대비 0.6bp 하락한 3.633%, 10년물은 1.3bp 하락한 3.850%를 기록했다. 3년 국채선물과 10년 국채선물은 각각 2틱, 9틱 오른 103.83과 109.48로 장을 마쳤다. 외국인 투자자는 3년 국채선물 11,296계약, 10년 국채선물 2,284계약을 각각 순매수했다. 뉴욕증시와 국내 반도체주의 급등세로 장 초반 약세 압력을 받았으나 외국인의 꾸준한 매수세 유입으로 강세 반전했다.",
+        "sentences": [
+          "Korea Treasury bond yields fell on November 10, with medium-to-short-term yields edging down and long-term yields dropping more sharply to flatten the curve.",
+          "The benchmark 3-year KTB yield fell 0.6 bp to 3.633 percent, while the 10-year yield declined 1.3 bp to 3.850 percent by the market close.",
+          "3-year and 10-year KTB futures rose 2 ticks and 9 ticks to settle at 103.83 and 109.48, respectively.",
+          "Foreign investors net-purchased 11,296 contracts of 3-year KTB futures and 2,284 contracts of 10-year KTB futures.",
+          "Early session weakness driven by sharp overnight gains in US and domestic equities was fully reversed as foreign buying persisted throughout the day."
+        ],
+        "sentences_ko": [
+          "10일 국고채 금리는 중단기물이 소폭 내리고 장기물이 더 큰 폭으로 하락하면서 수익률곡선이 평탄해졌다.",
+          "마감 기준 국고채 3년물 지표금리는 전장 대비 0.6bp 하락한 3.633%, 10년물은 1.3bp 하락한 3.850%를 기록했다.",
+          "3년 국채선물과 10년 국채선물은 각각 2틱, 9틱 오른 103.83과 109.48로 장을 마쳤다.",
+          "외국인 투자자는 3년 국채선물 11,296계약, 10년 국채선물 2,284계약을 각각 순매수했다.",
+          "뉴욕증시와 국내 반도체주의 급등세로 장 초반 약세 압력을 받았으나 외국인의 꾸준한 매수세 유입으로 강세 반전했다."
+        ]
+      },
+      {
+        "id": "20261110164141193",
+        "published_at": "2026-11-10T16:41:40+09:00",
+        "source": "Infomax",
+        "title": "BOK Board Members Stress Reviewing Past Rate Hikes Before Further Tightening",
+        "title_ko": "대다수 금통위원, 추가 인상 시기 결정 전 두 차례 인상 효과 점검 강조",
+        "summary": "A majority of Bank of Korea monetary policy board members stated in the October meeting minutes that the timing of any additional rate hikes should be decided after assessing the impact of the two previous consecutive increases. One board member noted that robust nominal growth could heighten overall demand pressure and prolong high core inflation, requiring close monitoring of policy transmission lags. Another member suggested that holding the base rate steady provided economic agents time to adapt while anchoring expectations for the future policy path. Another participant highlighted that tightening financial conditions and housing loan pressures warrant maintaining a restrictive stance while judging further adjustments according to economic and financial developments. Another member cautioned that policymakers must carefully balance the necessity of tighter monetary policy against the needs of sectors lagging behind the broader economic boom.",
+        "summary_ko": "한국은행이 공개한 10월 금융통화위원회 의사록에 따르면 대다수 금통위원은 두 차례 연속 인상 효과를 점검한 뒤 추가 인상 시기를 결정해야 한다고 주장했다. 한 위원은 명목성장률 확대에 따른 수요 압력과 근원물가 장기화 가능성을 지적하며 통화정책 파급효과를 면밀히 점검해야 한다고 설명했다. 다른 위원은 금리동결이 경제주체들에게 적응 시간을 제공하고 향후 정책 경로 기대를 안정시키는 데 도움이 된다고 언급했다. 또 다른 위원은 긴축적 금융 여건과 주택담보대출 압력을 감안해 긴축 기조를 유지하면서 경제 상황에 따라 추가 인상 시기를 판단해야 한다고 덧붙였다. 일부 위원은 경기 호황에서 소외된 부문을 고려해 적절한 균형을 모색해야 한다는 의견을 제시했다.",
+        "sentences": [
+          "A majority of Bank of Korea monetary policy board members stated in the October meeting minutes that the timing of any additional rate hikes should be decided after assessing the impact of the two previous consecutive increases.",
+          "One board member noted that robust nominal growth could heighten overall demand pressure and prolong high core inflation, requiring close monitoring of policy transmission lags.",
+          "Another member suggested that holding the base rate steady provided economic agents time to adapt while anchoring expectations for the future policy path.",
+          "Another participant highlighted that tightening financial conditions and housing loan pressures warrant maintaining a restrictive stance while judging further adjustments according to economic and financial developments.",
+          "Another member cautioned that policymakers must carefully balance the necessity of tighter monetary policy against the needs of sectors lagging behind the broader economic boom."
+        ],
+        "sentences_ko": [
+          "한국은행이 공개한 10월 금융통화위원회 의사록에 따르면 대다수 금통위원은 두 차례 연속 인상 효과를 점검한 뒤 추가 인상 시기를 결정해야 한다고 주장했다.",
+          "한 위원은 명목성장률 확대에 따른 수요 압력과 근원물가 장기화 가능성을 지적하며 통화정책 파급효과를 면밀히 점검해야 한다고 설명했다.",
+          "다른 위원은 금리동결이 경제주체들에게 적응 시간을 제공하고 향후 정책 경로 기대를 안정시키는 데 도움이 된다고 언급했다.",
+          "또 다른 위원은 긴축적 금융 여건과 주택담보대출 압력을 감안해 긴축 기조를 유지하면서 경제 상황에 따라 추가 인상 시기를 판단해야 한다고 덧붙였다.",
+          "일부 위원은 경기 호황에서 소외된 부문을 고려해 적절한 균형을 모색해야 한다는 의견을 제시했다."
+        ]
+      },
+      {
+        "id": "20261110165256545",
+        "published_at": "2026-11-10T16:52:55+09:00",
+        "source": "Infomax",
+        "title": "IRS Rates Rise Across Tenors as Foreign Investors Focus on 1-Year Receiving",
+        "title_ko": "IRS 금리 단기 중심 상승…외국인 1년물 중심 매도세",
+        "summary": "Interest rate swap yields increased across short-term tenors in the Seoul bond market on November 10. The 1-year IRS rate rose 4.00 bp to 3.5350 percent by late afternoon, while the 5-year rate edged up 0.50 bp to 3.6300 percent. Dealers noted that sustained receiving from foreign investors in the medium-to-long-term sectors was countered by heavy paying in the 1-year sector late in the session. Cross-currency swap SOFR rates showed slight increases or flat movement, with the 1-year rate up 1.00 bp to 3.2900 percent. The 1-year swap basis reversal gap widened by 3.00 bp to -24.50 bp, whereas the 5-year gap narrowed by 0.50 bp to -47.00 bp.",
+        "summary_ko": "10일 서울 채권시장에서 금리스와프(IRS) 금리는 단기 구간을 중심으로 일제히 상승했다. 오후 4시 29분 기준 1년 IRS 금리는 전 거래일 대비 4.00bp 오른 3.5350%, 5년 금리는 0.50bp 상승한 3.6300%를 기록했다. 딜러들은 외국인의 중단기 및 장기 구간 매수세가 이어진 가운데 장 후반 1년 구간 매도가 집중되면서 커브 플래트닝이 나타났다고 전했다. 통화스왑(CRS SOFR) 금리는 단기 및 중기 구간을 중심으로 소폭 상승하거나 보합세를 보였으며 1년물은 1.00bp 오른 3.2900%를 나타냈다. 스왑 베이시스 역전 폭은 1년 구간이 3.00bp 확대된 -24.50bp, 5년 구간이 0.50bp 축소된 -47.00bp를 기록했다.",
+        "sentences": [
+          "Interest rate swap yields increased across short-term tenors in the Seoul bond market on November 10.",
+          "The 1-year IRS rate rose 4.00 bp to 3.5350 percent by late afternoon, while the 5-year rate edged up 0.50 bp to 3.6300 percent.",
+          "Dealers noted that sustained receiving from foreign investors in the medium-to-long-term sectors was countered by heavy paying in the 1-year sector late in the session.",
+          "Cross-currency swap SOFR rates showed slight increases or flat movement, with the 1-year rate up 1.00 bp to 3.2900 percent.",
+          "The 1-year swap basis reversal gap widened by 3.00 bp to -24.50 bp, whereas the 5-year gap narrowed by 0.50 bp to -47.00 bp."
+        ],
+        "sentences_ko": [
+          "10일 서울 채권시장에서 금리스와프(IRS) 금리는 단기 구간을 중심으로 일제히 상승했다.",
+          "오후 4시 29분 기준 1년 IRS 금리는 전 거래일 대비 4.00bp 오른 3.5350%, 5년 금리는 0.50bp 상승한 3.6300%를 기록했다.",
+          "딜러들은 외국인의 중단기 및 장기 구간 매수세가 이어진 가운데 장 후반 1년 구간 매도가 집중되면서 커브 플래트닝이 나타났다고 전했다.",
+          "통화스왑(CRS SOFR) 금리는 단기 및 중기 구간을 중심으로 소폭 상승하거나 보합세를 보였으며 1년물은 1.00bp 오른 3.2900%를 나타냈다.",
+          "스왑 베이시스 역전 폭은 1년 구간이 3.00bp 확대된 -24.50bp, 5년 구간이 0.50bp 축소된 -47.00bp를 기록했다."
+        ]
+      },
+      {
+        "id": "20261110102429024",
+        "published_at": "2026-11-10T10:24:28+09:00",
+        "source": "Infomax",
+        "title": "Korean Issuers Expand Wontang Bond Issuance to Target Hong Kong Liquidity",
+        "title_ko": "한국물 시장, 홍콩 유동성 겨냥 완탕본드 조달 열기 지속",
+        "summary": "Korean public institutions continue to expand non-dollar foreign currency issuance by tapping the Hong Kong dollar public bond market, known as Wontang bonds. Korea Water Resources Corp initiated roadshows for a green Wontang bond issuance this week, marking the first green public Hong Kong dollar bond by a domestic issuer. Export-Import Bank of Korea and Korea Housing Finance Corp previously issued public Wontang bonds of 4 billion and 2 billion Hong Kong dollars, respectively, capitalizing on favorable pricing and investor demand. Private placement Hong Kong dollar issuances also surged, reaching 30.6 billion Hong Kong dollars equivalent to 3.9192 billion US dollars between January and November 9. Issuers are increasingly diversifying funding sources into alternative currency markets like Hong Kong to navigate growing volatility and manage annual supply burdens in mainstream dollar markets.",
+        "summary_ko": "공모 한국물 시장의 달러채 조달이 마무리 국면에 접어든 가운데 홍콩달러 표시 공모 채권인 완탕본드 발행 열기가 지속되고 있다. 한국수자원공사는 이번 주 국내 발행사 최초로 그린본드 형태의 완탕본드 발행을 위한 로드쇼에 돌입했다. 앞서 한국수출입은행과 한국주택금융공사가 각각 40억 홍콩달러와 20억 홍콩달러 규모의 공모 완탕본드를 성공적으로 발행한 바 있다. 올해 1월 1일부터 11월 9일까지 사모 홍콩달러 채권 발행 규모도 306억 홍콩달러에 달하며 급성장세를 기록했다. 주요 발행사들은 글로벌 금융시장 변동성을 피해 조달 저변을 다각화하기 위해 친숙한 홍콩달러 시장을 적극 활용하고 있다.",
+        "sentences": [
+          "Korean public institutions continue to expand non-dollar foreign currency issuance by tapping the Hong Kong dollar public bond market, known as Wontang bonds.",
+          "Korea Water Resources Corp initiated roadshows for a green Wontang bond issuance this week, marking the first green public Hong Kong dollar bond by a domestic issuer.",
+          "Export-Import Bank of Korea and Korea Housing Finance Corp previously issued public Wontang bonds of 4 billion and 2 billion Hong Kong dollars, respectively, capitalizing on favorable pricing and investor demand.",
+          "Private placement Hong Kong dollar issuances also surged, reaching 30.6 billion Hong Kong dollars equivalent to 3.9192 billion US dollars between January and November 9.",
+          "Issuers are increasingly diversifying funding sources into alternative currency markets like Hong Kong to navigate growing volatility and manage annual supply burdens in mainstream dollar markets."
+        ],
+        "sentences_ko": [
+          "공모 한국물 시장의 달러채 조달이 마무리 국면에 접어든 가운데 홍콩달러 표시 공모 채권인 완탕본드 발행 열기가 지속되고 있다.",
+          "한국수자원공사는 이번 주 국내 발행사 최초로 그린본드 형태의 완탕본드 발행을 위한 로드쇼에 돌입했다.",
+          "앞서 한국수출입은행과 한국주택금융공사가 각각 40억 홍콩달러와 20억 홍콩달러 규모의 공모 완탕본드를 성공적으로 발행한 바 있다.",
+          "올해 1월 1일부터 11월 9일까지 사모 홍콩달러 채권 발행 규모도 306억 홍콩달러에 달하며 급성장세를 기록했다.",
+          "주요 발행사들은 글로벌 금융시장 변동성을 피해 조달 저변을 다각화하기 위해 친숙한 홍콩달러 시장을 적극 활용하고 있다."
+        ]
+      },
+      {
+        "id": "20261110115129195",
+        "published_at": "2026-11-10T11:51:28+09:00",
+        "source": "Infomax",
+        "title": "MOFE to Revise Price Stability Act to Increase Rewards for Unfair Trade Reporting",
+        "title_ko": "재정경제부, 물가안정법 개정 추진…신고포상금 인상으로 감시 강화",
+        "summary": "Huh Jang, 2nd Vice Minister of the Ministry of Finance and Economy (MOFE), announced on November 10 that the government will push to revise the Price Stability Act to increase reward bounties for reporting unfair trade practices. Speaking at the National Assembly Budget and Accounts Committee, Huh stated that higher rewards will strengthen public price monitoring capabilities and stabilize everyday living conditions. Opposition lawmakers criticized the reduction in next year's budget for the Price Watch Center and pointed out that the decades-old legislation requires a thorough overhaul. Huh acknowledged that the center's budget was adjusted during deliberations while emphasizing that the upcoming legislative amendment aims to prioritize vulnerable livelihoods. Minister of Finance and Economy counterpart officials noted that while budget execution has decreased due to fewer special price surveys, additional budget needs will be reviewed given the shared consensus on proactive inflation response.",
+        "summary_ko": "허장 재정경제부 2차관은 10일 불공정 행위 신고 포상금을 늘리는 방향으로 물가안정법 개정을 추진하겠다고 밝혔다. 허 차관은 국회 예산결산특별위원회 경제부처 심사에서 물가 감시 기능을 강화하고 서민생활을 안정시키기 위해 법 개정안을 제출할 예정이라고 설명했다. 의원들은 내년 물가감시센터 예산이 감액된 이유를 지적하며 수십 년 된 물가안정법을 현 상황에 맞게 정비해야 한다고 질타했다. 허 차관은 예산 조정 과정의 아쉬움을 언급하면서도 서민생활 안정을 위해 법 개정을 차질 없이 추진하겠다고 강조했다. 기획예산처 장관은 특별물가조사 건수 감소로 불용액이 발생해 예산이 조정되었으나 물가 인상 대응을 위한 예산 추가 필요성을 적극 검토하겠다고 밝혔다.",
+        "sentences": [
+          "Huh Jang, 2nd Vice Minister of the Ministry of Finance and Economy (MOFE), announced on November 10 that the government will push to revise the Price Stability Act to increase reward bounties for reporting unfair trade practices.",
+          "Speaking at the National Assembly Budget and Accounts Committee, Huh stated that higher rewards will strengthen public price monitoring capabilities and stabilize everyday living conditions.",
+          "Opposition lawmakers criticized the reduction in next year's budget for the Price Watch Center and pointed out that the decades-old legislation requires a thorough overhaul.",
+          "Huh acknowledged that the center's budget was adjusted during deliberations while emphasizing that the upcoming legislative amendment aims to prioritize vulnerable livelihoods.",
+          "Minister of Finance and Economy counterpart officials noted that while budget execution has decreased due to fewer special price surveys, additional budget needs will be reviewed given the shared consensus on proactive inflation response."
+        ],
+        "sentences_ko": [
+          "허장 재정경제부 2차관은 10일 불공정 행위 신고 포상금을 늘리는 방향으로 물가안정법 개정을 추진하겠다고 밝혔다.",
+          "허 차관은 국회 예산결산특별위원회 경제부처 심사에서 물가 감시 기능을 강화하고 서민생활을 안정시키기 위해 법 개정안을 제출할 예정이라고 설명했다.",
+          "의원들은 내년 물가감시센터 예산이 감액된 이유를 지적하며 수십 년 된 물가안정법을 현 상황에 맞게 정비해야 한다고 질타했다.",
+          "허 차관은 예산 조정 과정의 아쉬움을 언급하면서도 서민생활 안정을 위해 법 개정을 차질 없이 추진하겠다고 강조했다.",
+          "기획예산처 장관은 특별물가조사 건수 감소로 불용액이 발생해 예산이 조정되었으나 물가 인상 대응을 위한 예산 추가 필요성을 적극 검토하겠다고 밝혔다."
+        ]
+      }
+    ]
+  },
   "kofia": {
     "date": "2026-11-10",
     "source": "KOFIA",
