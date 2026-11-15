@@ -2257,7 +2257,7 @@
     "ON_TN_change": "n.m."
   },
   "news": {
-    "generated_at": "2026-11-15T21:11:30.908587+09:00",
+    "generated_at": "2026-11-15T21:12:51.190103+09:00",
     "window_start": "2026-11-13T04:30:00+09:00",
     "window_end": "2026-11-14T04:30:00+09:00",
     "headline_coverage": "complete",
@@ -2266,27 +2266,27 @@
         "id": "20261113164016375",
         "published_at": "2026-11-13T16:40:15+09:00",
         "source": "Infomax",
-        "title": "Korean Treasury Bonds Climb as US Yields Surge and Foreign Investors Net Sell Futures",
+        "title": "KTB Yields Rise as US Rates Jump and Foreign Investors Sell Futures",
         "title_ko": "미 금리 급등 및 외국인 선물 순매도 속 국고채 금리 상승",
-        "summary": "Korea Treasury bond yields rose across the board on November 13, tracking a sharp overnight surge in US Treasury yields. The 3-year KTB yield finished 3.0bp higher at 3.759% while the 10-year yield climbed 6.4bp to 4.001%, crossing the 4% threshold for the first time in eight sessions. Foreign investors net sold 40 contracts of 3-year KTB futures and 3,254 contracts of 10-year KTB futures. Cleveland Fed President Beth Hammack and Chicago Fed President Austan Goolsbee delivered hawkish remarks overnight regarding persistent inflation pressures. Meanwhile, the Ministry of Finance and Economy auctioned 700 billion won of 50-year KTBs at a yield of 4.040% with total bids reaching 1.120 trillion won. Market participants are closely watching the upcoming US October producer price index release and awaiting the November monetary policy meeting. Interest rate swap and cross-currency swap rates pushed higher across most tenors alongside the broader debt market sell-off.",
-        "summary_ko": "국고채 금리는 간밤 미국 국채 금리의 급등세를 반영하여 11월 13일 전 구간에서 상승했다. 국고채 3년물 최종호가 수익률은 3.0bp 오른 3.759%, 10년물은 6.4bp 오른 4.001%를 기록하며 지난 3일 이후 8거래일 만에 4%선을 웃돌았다. 외국인 투자자는 3년 국채선물을 40계약, 10년 국채선물을 3천254계약 각각 순매도했다. 베스 해맥 클리블랜드 연은 총재와 오스탄 굴스비 시카고 연은 총재는 간밤 인플레이션 압력의 지속성에 대해 매파적인 발언을 내놓았다. 한편 재정경제부는 이날 7천억원 규모의 국고채 50년물 입찰을 금리 4.040%에 낙찰시켰으며, 응찰 규모는 1조1천200억원을 기록했다. 시장 참가자들은 미국의 10월 생산자물가지수 발표를 주시하며 11월 금융통화위원회 대기 장세를 이어갔다. 금리스와프와 통화스왑 금리도 광범위한 채권시장 약세 흐름 속에서 대부분의 만기 구간에서 상승했다.",
+        "summary": "Korea Treasury bond yields rose across the board on November 13, tracking a sharp overnight surge in US Treasury yields. The 3-year KTB yield finished 3.0bp higher at 3.759% while the 10-year yield climbed 6.4bp to 4.001%, crossing the 4% threshold for the first time in eight sessions. Foreign investors net sold 40 contracts of 3-year KTB futures and 3,254 contracts of 10-year KTB futures. Cleveland Fed President Beth Hammack and Chicago Fed President Austan Goolsbee delivered hawkish remarks overnight regarding persistent inflation pressures. A 50-year KTB auction awarded 700 billion won at a yield of 4.040%, with bids totaling 1.120 trillion won. Market participants are closely watching the upcoming US October producer price index release and awaiting the November monetary policy meeting. The KOSPI closed 0.98% lower at 5,290.53, while US Treasury yields declined by up to 2bp during Asian trading.",
+        "summary_ko": "국고채 금리는 간밤 미국 국채 금리의 급등세를 반영하여 11월 13일 전 구간에서 상승했다. 국고채 3년물 최종호가 수익률은 3.0bp 오른 3.759%, 10년물은 6.4bp 오른 4.001%를 기록하며 지난 3일 이후 8거래일 만에 4%선을 웃돌았다. 외국인 투자자는 3년 국채선물을 40계약, 10년 국채선물을 3천254계약 각각 순매도했다. 베스 해맥 클리블랜드 연은 총재와 오스탄 굴스비 시카고 연은 총재는 간밤 인플레이션 압력의 지속성에 대해 매파적인 발언을 내놓았다. 이날 국고채 50년물 입찰에서는 7천억원이 금리 4.040%에 낙찰됐으며, 응찰 규모는 1조1천200억원이었다. 시장 참가자들은 미국의 10월 생산자물가지수 발표를 주시하며 11월 금융통화위원회 대기 장세를 이어갔다. 코스피는 전장 대비 0.98% 내린 5,290.53으로 마감했으며, 아시아장에서 미국 국채 금리는 0~2bp 하락했다.",
         "sentences": [
           "Korea Treasury bond yields rose across the board on November 13, tracking a sharp overnight surge in US Treasury yields.",
           "The 3-year KTB yield finished 3.0bp higher at 3.759% while the 10-year yield climbed 6.4bp to 4.001%, crossing the 4% threshold for the first time in eight sessions.",
           "Foreign investors net sold 40 contracts of 3-year KTB futures and 3,254 contracts of 10-year KTB futures.",
           "Cleveland Fed President Beth Hammack and Chicago Fed President Austan Goolsbee delivered hawkish remarks overnight regarding persistent inflation pressures.",
-          "Meanwhile, the Ministry of Finance and Economy auctioned 700 billion won of 50-year KTBs at a yield of 4.040% with total bids reaching 1.120 trillion won.",
+          "A 50-year KTB auction awarded 700 billion won at a yield of 4.040%, with bids totaling 1.120 trillion won.",
           "Market participants are closely watching the upcoming US October producer price index release and awaiting the November monetary policy meeting.",
-          "Interest rate swap and cross-currency swap rates pushed higher across most tenors alongside the broader debt market sell-off."
+          "The KOSPI closed 0.98% lower at 5,290.53, while US Treasury yields declined by up to 2bp during Asian trading."
         ],
         "sentences_ko": [
           "국고채 금리는 간밤 미국 국채 금리의 급등세를 반영하여 11월 13일 전 구간에서 상승했다.",
           "국고채 3년물 최종호가 수익률은 3.0bp 오른 3.759%, 10년물은 6.4bp 오른 4.001%를 기록하며 지난 3일 이후 8거래일 만에 4%선을 웃돌았다.",
           "외국인 투자자는 3년 국채선물을 40계약, 10년 국채선물을 3천254계약 각각 순매도했다.",
           "베스 해맥 클리블랜드 연은 총재와 오스탄 굴스비 시카고 연은 총재는 간밤 인플레이션 압력의 지속성에 대해 매파적인 발언을 내놓았다.",
-          "한편 재정경제부는 이날 7천억원 규모의 국고채 50년물 입찰을 금리 4.040%에 낙찰시켰으며, 응찰 규모는 1조1천200억원을 기록했다.",
+          "이날 국고채 50년물 입찰에서는 7천억원이 금리 4.040%에 낙찰됐으며, 응찰 규모는 1조1천200억원이었다.",
           "시장 참가자들은 미국의 10월 생산자물가지수 발표를 주시하며 11월 금융통화위원회 대기 장세를 이어갔다.",
-          "금리스와프와 통화스왑 금리도 광범위한 채권시장 약세 흐름 속에서 대부분의 만기 구간에서 상승했다."
+          "코스피는 전장 대비 0.98% 내린 5,290.53으로 마감했으며, 아시아장에서 미국 국채 금리는 0~2bp 하락했다."
         ]
       },
       {
@@ -2295,12 +2295,12 @@
         "source": "Infomax",
         "title": "Korea Land and Housing Corp Issues First-Ever 30-Year Japanese Yen Private Placement",
         "title_ko": "한국토지주택공사, 국내 최초 30년 만기 엔화 사모채 발행",
-        "summary": "Korea Land and Housing Corporation (LH) priced a 10 billion yen private placement bond carrying a 30-year maturity and a 4.10% coupon rate. This transaction marks the first time a Korean paper has been issued in a 30-year Japanese yen format. Nomuro Securities acted as the sole bookrunner for the foreign currency debt issuance. LH has expanded its offshore funding channels this year by issuing debt across diverse foreign currencies including Swiss francs, Australian dollars, and euros. The issuance allows the state-backed issuer to diversify its maturity profile and secure long-term capital while mitigating domestic market supply burdens.",
+        "summary": "Korea Land and Housing Corporation (LH) priced a 10 billion yen private placement bond carrying a 30-year maturity and a 4.10% issue yield. This was the first 30-year yen-denominated bond transaction by a Korean issuer. Nomura Securities acted as the sole bookrunner for the foreign currency debt issuance. LH has expanded its offshore funding channels this year by issuing debt across diverse foreign currencies including Swiss francs, Australian dollars, and euros. The issuance allows the state-backed issuer to diversify its maturity profile and secure long-term capital while mitigating domestic market supply burdens.",
         "summary_ko": "한국토지주택공사(LH)는 만기 30년, 발행 금리 4.10%로 100억엔 규모의 사모 채권 발행 프라이싱을 마쳤다. 이번 거래는 한국물이 30년 만기 엔화 채권 형태로 발행된 최초의 사례이다. 노무라증권이 이번 외화채 발행의 단독 주관 업무를 맡았다. LH는 올해 스위스프랑, 호주달러, 유로화 등 다양한 통화를 통해 해외 채권 발행을 이어가며 조달 채널을 다변화했다. 이번 발행을 통해 공공기관 발행사인 LH는 만기 구조를 다변화하고 장기 자금을 확보하는 동시에 국내 채권시장 수급 부담을 완화했다.",
         "sentences": [
-          "Korea Land and Housing Corporation (LH) priced a 10 billion yen private placement bond carrying a 30-year maturity and a 4.10% coupon rate.",
-          "This transaction marks the first time a Korean paper has been issued in a 30-year Japanese yen format.",
-          "Nomuro Securities acted as the sole bookrunner for the foreign currency debt issuance.",
+          "Korea Land and Housing Corporation (LH) priced a 10 billion yen private placement bond carrying a 30-year maturity and a 4.10% issue yield.",
+          "This was the first 30-year yen-denominated bond transaction by a Korean issuer.",
+          "Nomura Securities acted as the sole bookrunner for the foreign currency debt issuance.",
           "LH has expanded its offshore funding channels this year by issuing debt across diverse foreign currencies including Swiss francs, Australian dollars, and euros.",
           "The issuance allows the state-backed issuer to diversify its maturity profile and secure long-term capital while mitigating domestic market supply burdens."
         ],
