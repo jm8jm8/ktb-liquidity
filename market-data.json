@@ -2256,6 +2256,39 @@
     "sessions": 5,
     "ON_TN_change": "n.m."
   },
+  "news": {
+    "generated_at": "2026-11-15T14:35:29.788663+09:00",
+    "window_start": "2026-11-14T14:35:29.788663+09:00",
+    "window_end": "2026-11-15T14:35:29.788663+09:00",
+    "headline_coverage": "complete",
+    "items": [
+      {
+        "id": "20261115130001808",
+        "published_at": "2026-11-15T13:00:01+09:00",
+        "source": "Infomax",
+        "title": "Korean Treasury Bond Yields Rise Amid Foreign Futures Net Purchases and Upcoming Macro Releases",
+        "title_ko": "국고채 금리 상승 속 외국인 국채선물 순매수와 주요 경제지표 발표 주시",
+        "summary": "During the week of November 9 to 13, the 3-year KTB yield rose 13.5 bp to 3.75%, while the 10-year KTB yield jumped 14.2 bp to 3.997%, steepening the yield spread to 24.7 bp. Foreign investors recorded net purchases of 12,947 3-year KTB futures contracts and 2,334 10-year KTB futures contracts over the week. Market caution spread after the Fair Trade Commission announced sanctions on 15 primary dealers for KTB auction collusion, imposing over 1.6 trillion won in fines and referring 7 firms for prosecution. The International Monetary Fund (IMF) will release the results of its annual consultation with the Ministry of Finance and Economy (MOFE) on November 17. The Korea Development Institute (KDI) and the Bank of Korea (BOK) will release key reports on November 18, including KDI's second-half economic outlook and BOK's preliminary third-quarter household credit data. On November 19 after market close, the Ministry of Finance and Economy (MOFE) is scheduled to release its November non-competitive underwriting issuance plan for primary dealers.",
+        "summary_ko": "지난 11월 9일부터 13일까지 한 주간 국고채 3년물 금리는 13.5bp 상승한 3.75%, 10년물 금리는 14.2bp 급등한 3.997%를 기록해 금리 스프레드가 24.7bp로 가팔라졌다. 외국인은 한 주간 3년 국채선물 1만2천947계약, 10년 국채선물 2천334계약을 순매수했다. 공정거래위원회가 국고채 입찰 담합으로 15개 국고채전문딜러에 총 1조6천억원이 넘는 과징금을 부과하고 7개사를 고발하기로 결정하면서 시장 경계감이 확산했다. 국제통화기금(IMF)은 재정경제부(MOFE) 등과의 연례협의 결과를 11월 17일 발표할 예정이다. 한국개발연구원(KDI)과 한국은행(BOK)은 11월 18일 각각 하반기 경제전망과 3분기 가계신용 잠정치를 공개한다. 재정경제부(MOFE)는 11월 19일 장 마감 이후 11월 국고채전문딜러 대상 비경쟁인수 발행계획을 공개할 예정이다.",
+        "sentences": [
+          "During the week of November 9 to 13, the 3-year KTB yield rose 13.5 bp to 3.75%, while the 10-year KTB yield jumped 14.2 bp to 3.997%, steepening the yield spread to 24.7 bp.",
+          "Foreign investors recorded net purchases of 12,947 3-year KTB futures contracts and 2,334 10-year KTB futures contracts over the week.",
+          "Market caution spread after the Fair Trade Commission announced sanctions on 15 primary dealers for KTB auction collusion, imposing over 1.6 trillion won in fines and referring 7 firms for prosecution.",
+          "The International Monetary Fund (IMF) will release the results of its annual consultation with the Ministry of Finance and Economy (MOFE) on November 17.",
+          "The Korea Development Institute (KDI) and the Bank of Korea (BOK) will release key reports on November 18, including KDI's second-half economic outlook and BOK's preliminary third-quarter household credit data.",
+          "On November 19 after market close, the Ministry of Finance and Economy (MOFE) is scheduled to release its November non-competitive underwriting issuance plan for primary dealers."
+        ],
+        "sentences_ko": [
+          "지난 11월 9일부터 13일까지 한 주간 국고채 3년물 금리는 13.5bp 상승한 3.75%, 10년물 금리는 14.2bp 급등한 3.997%를 기록해 금리 스프레드가 24.7bp로 가팔라졌다.",
+          "외국인은 한 주간 3년 국채선물 1만2천947계약, 10년 국채선물 2천334계약을 순매수했다.",
+          "공정거래위원회가 국고채 입찰 담합으로 15개 국고채전문딜러에 총 1조6천억원이 넘는 과징금을 부과하고 7개사를 고발하기로 결정하면서 시장 경계감이 확산했다.",
+          "국제통화기금(IMF)은 재정경제부(MOFE) 등과의 연례협의 결과를 11월 17일 발표할 예정이다.",
+          "한국개발연구원(KDI)과 한국은행(BOK)은 11월 18일 각각 하반기 경제전망과 3분기 가계신용 잠정치를 공개한다.",
+          "재정경제부(MOFE)는 11월 19일 장 마감 이후 11월 국고채전문딜러 대상 비경쟁인수 발행계획을 공개할 예정이다."
+        ]
+      }
+    ]
+  },
   "kofia": {
     "date": "2026-11-13",
     "source": "KOFIA",
