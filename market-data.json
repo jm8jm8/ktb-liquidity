@@ -2256,6 +2256,118 @@
     "sessions": 5,
     "ON_TN_change": "n.m."
   },
+  "news": {
+    "generated_at": "2026-11-17T07:24:14.976585+09:00",
+    "window_start": "2026-11-16T04:30:00+09:00",
+    "window_end": "2026-11-17T04:30:00+09:00",
+    "headline_coverage": "complete",
+    "items": [
+      {
+        "id": "20261116164554564",
+        "published_at": "2026-11-16T16:45:53+09:00",
+        "source": "Infomax",
+        "title": "KTB Yields Fall Across Maturities as Semiconductor Equity Decline Prompts Yield Curve Flattening",
+        "title_ko": "반도체주 급락에 국고채 금리 하락…10년물 2.0bp 내리며 커브 플래트닝",
+        "summary": "On November 16, Korea Treasury bond yields declined across all maturities, with long-term yields falling more sharply to flatten the yield curve. The final benchmark yield for 3-year KTBs dropped 1.6 basis points to 3.743 percent, while the 10-year KTB yield fell 2.0 basis points to 3.981 percent. In the futures market, the 3-year KTB futures contract gained 6 ticks to close at 103.48, supported by foreign net purchases of 2,961 contracts. The 10-year KTB futures contract rose 25 ticks to 108.35, where foreign investors registered net purchases of 6,027 contracts. During morning trading, the 10-year KTB pre-issuance auction awarded 1.1 trillion won at 3.940 percent, while the main issuance auction awarded 1.1 trillion won at 3.985 percent, showing solid demand despite regulatory sanctions on primary dealers. Yields extended their decline in the afternoon as a sharp drop in semiconductor equities and foreign futures net buying strengthened bond market momentum.",
+        "summary_ko": "11월 16일 국고채 금리는 일제히 하락하였으며, 장기 금리가 더 큰 폭으로 내리면서 수익률곡선이 완만해졌다. 국고채 3년물 최종호가 수익률은 전장 대비 1.6bp 하락한 3.743%를 기록했고, 10년물 금리는 2.0bp 내린 3.981%로 마감했다. 3년 국채선물은 외국인이 2,961계약 순매수하며 전장 대비 6틱 상승한 103.48로 거래를 마쳤다. 10년 국채선물은 외국인이 6,027계약 순매수함에 따라 25틱 오른 108.35를 나타냈다. 오전 장중 진행된 국고채 10년물 선매출 입찰에서는 1조1,000억 원이 3.940%에 낙찰되었고, 본매출 입찰에서도 1조1,000억 원이 3.985%에 낙찰되며 공정거래위원회의 PD 제재 여파 속에서도 견조한 수요를 보였다. 오후 들어 반도체주의 급락과 외국인의 국채선물 순매수가 더해지면서 채권 금리의 하락 폭이 확대되었다.",
+        "sentences": [
+          "On November 16, Korea Treasury bond yields declined across all maturities, with long-term yields falling more sharply to flatten the yield curve.",
+          "The final benchmark yield for 3-year KTBs dropped 1.6 basis points to 3.743 percent, while the 10-year KTB yield fell 2.0 basis points to 3.981 percent.",
+          "In the futures market, the 3-year KTB futures contract gained 6 ticks to close at 103.48, supported by foreign net purchases of 2,961 contracts.",
+          "The 10-year KTB futures contract rose 25 ticks to 108.35, where foreign investors registered net purchases of 6,027 contracts.",
+          "During morning trading, the 10-year KTB pre-issuance auction awarded 1.1 trillion won at 3.940 percent, while the main issuance auction awarded 1.1 trillion won at 3.985 percent, showing solid demand despite regulatory sanctions on primary dealers.",
+          "Yields extended their decline in the afternoon as a sharp drop in semiconductor equities and foreign futures net buying strengthened bond market momentum."
+        ],
+        "sentences_ko": [
+          "11월 16일 국고채 금리는 일제히 하락하였으며, 장기 금리가 더 큰 폭으로 내리면서 수익률곡선이 완만해졌다.",
+          "국고채 3년물 최종호가 수익률은 전장 대비 1.6bp 하락한 3.743%를 기록했고, 10년물 금리는 2.0bp 내린 3.981%로 마감했다.",
+          "3년 국채선물은 외국인이 2,961계약 순매수하며 전장 대비 6틱 상승한 103.48로 거래를 마쳤다.",
+          "10년 국채선물은 외국인이 6,027계약 순매수함에 따라 25틱 오른 108.35를 나타냈다.",
+          "오전 장중 진행된 국고채 10년물 선매출 입찰에서는 1조1,000억 원이 3.940%에 낙찰되었고, 본매출 입찰에서도 1조1,000억 원이 3.985%에 낙찰되며 공정거래위원회의 PD 제재 여파 속에서도 견조한 수요를 보였다.",
+          "오후 들어 반도체주의 급락과 외국인의 국채선물 순매수가 더해지면서 채권 금리의 하락 폭이 확대되었다."
+        ]
+      },
+      {
+        "id": "20261116103459800",
+        "published_at": "2026-11-16T10:34:59+09:00",
+        "source": "Infomax",
+        "title": "MOFE to Hold Individual Meetings with Primary Dealers Following FTC Sanctions",
+        "title_ko": "재경부, 공정위 제재 이후 PD사 개별 면담 추진",
+        "summary": "The Ministry of Finance and Economy (MOFE) will hold individual relay meetings with primary dealers starting mid-to-late this week, according to bond market sources on November 16. The meetings aim to proactively inspect market conditions amid concerns that Korea Treasury bond (KTB) auctions could contract following sanctions by the Fair Trade Commission. MOFE plans to listen to feedback and operational difficulties faced by primary dealers during the auction process. Market observers noted that sanction impacts could alter bidding strategies, potentially reducing bid volumes and pushing winning yields higher if dealers become passive. While shifts in competition among primary dealers could dampen auction momentum, no distinct changes have been detected in actual auctions so far. A bond dealer mentioned that market sentiment surrounding the 10-year pre-issuance KTB auction was positive. The dealer added that participation by mid-to-lower ranked primary dealers in main issuance auctions will be an important factor to watch.",
+        "summary_ko": "11월 16일 채권시장에 따르면 재정경제부(MOFE)는 이번 주 중·후반부터 국고채 전문딜러(PD)들과 개별 면담을 진행할 예정이다. 이번 면담은 공정거래위원회의 PD 제재 결정 이후 국고채(KTB) 입찰이 위축될 수 있다는 우려에 대응해 시장 상황을 선제적으로 점검하기 위해 마련됐다. 재정경제부는 PD사들로부터 입찰 과정에서의 애로사항과 건의 사항을 청취할 계획이다. 시장에서는 제재 여파로 PD들의 응찰 성향이 소극적으로 변할 경우 응찰 규모가 줄어 낙찰 금리에 상승 압력으로 작용할 수 있다고 관측한다. 우수 PD 지위를 둘러싼 경쟁 구도 변화로 입찰 전반의 활력이 떨어질 수 있다는 관측도 나오나, 아직 실제 입찰에서 뚜렷한 변화는 감지되지 않았다. 한 채권 딜러는 10년물 선매출 입찰 분위기가 좋았다고 전했다. 해당 딜러는 중하위권 PD들이 본매출 입찰 등에 참여하는지 여부가 향후 중요한 요인이 될 것이라고 덧붙였다.",
+        "sentences": [
+          "The Ministry of Finance and Economy (MOFE) will hold individual relay meetings with primary dealers starting mid-to-late this week, according to bond market sources on November 16.",
+          "The meetings aim to proactively inspect market conditions amid concerns that Korea Treasury bond (KTB) auctions could contract following sanctions by the Fair Trade Commission.",
+          "MOFE plans to listen to feedback and operational difficulties faced by primary dealers during the auction process.",
+          "Market observers noted that sanction impacts could alter bidding strategies, potentially reducing bid volumes and pushing winning yields higher if dealers become passive.",
+          "While shifts in competition among primary dealers could dampen auction momentum, no distinct changes have been detected in actual auctions so far.",
+          "A bond dealer mentioned that market sentiment surrounding the 10-year pre-issuance KTB auction was positive.",
+          "The dealer added that participation by mid-to-lower ranked primary dealers in main issuance auctions will be an important factor to watch."
+        ],
+        "sentences_ko": [
+          "11월 16일 채권시장에 따르면 재정경제부(MOFE)는 이번 주 중·후반부터 국고채 전문딜러(PD)들과 개별 면담을 진행할 예정이다.",
+          "이번 면담은 공정거래위원회의 PD 제재 결정 이후 국고채(KTB) 입찰이 위축될 수 있다는 우려에 대응해 시장 상황을 선제적으로 점검하기 위해 마련됐다.",
+          "재정경제부는 PD사들로부터 입찰 과정에서의 애로사항과 건의 사항을 청취할 계획이다.",
+          "시장에서는 제재 여파로 PD들의 응찰 성향이 소극적으로 변할 경우 응찰 규모가 줄어 낙찰 금리에 상승 압력으로 작용할 수 있다고 관측한다.",
+          "우수 PD 지위를 둘러싼 경쟁 구도 변화로 입찰 전반의 활력이 떨어질 수 있다는 관측도 나오나, 아직 실제 입찰에서 뚜렷한 변화는 감지되지 않았다.",
+          "한 채권 딜러는 10년물 선매출 입찰 분위기가 좋았다고 전했다.",
+          "해당 딜러는 중하위권 PD들이 본매출 입찰 등에 참여하는지 여부가 향후 중요한 요인이 될 것이라고 덧붙였다."
+        ]
+      },
+      {
+        "id": "20261116113247403",
+        "published_at": "2026-11-16T11:32:46+09:00",
+        "source": "Infomax",
+        "title": "South Korea Sells KRW 1.1 Trillion of 10-Year KTBs at 3.985 Percent Yield",
+        "title_ko": "국고채 10년물 1.1조 원, 3.985%에 낙찰…응찰률 304.4%",
+        "summary": "South Korea auctioned KRW 1.100 trillion of 10-year Korea Treasury bonds (KTBs) on November 16, 2026, according to Infomax. The auction for KTB 04250-3606 was conducted between 10:40 a.m. and 11:00 a.m. local time, with an original issue date of June 10, 2026. Total bids submitted for the issuance reached KRW 3.348 trillion, representing a bid-to-cover ratio of 304.4 percent. Bidders requested yields ranging between 3.975 percent and 4.045 percent during the bidding process. The entire planned amount of KRW 1.100 trillion was awarded at a uniform rate of 3.985 percent, which served as the minimum, maximum, and weighted average yield. The auction recorded a partial allocation rate of 99.3 percent.",
+        "summary_ko": "연합인포맥스에 따르면 2026년 11월 16일 1조 1,000억 원 규모의 10년 만기 국고채 입찰이 실시되었다. 이번 입찰 대상인 국고04250-3606 종목(발행일 2026년 6월 10일)의 입찰은 오전 10시 40분부터 11시까지 진행되었다. 10년물 입찰에는 총 3조 3,480억 원의 응찰금이 몰려 304.4%의 응찰률을 기록했다. 입찰 응찰 금리 범주는 최저 3.975%에서 최고 4.045% 사이로 집계되었다. 목표 물량인 1조 1,000억 원 전액이 낙찰되었으며 최저, 최고 및 가중평균 낙찰금리는 모두 3.985%를 나타냈다. 해당 10년물 국고채 입찰의 부분낙찰률은 99.3%를 기록했다.",
+        "sentences": [
+          "South Korea auctioned KRW 1.100 trillion of 10-year Korea Treasury bonds (KTBs) on November 16, 2026, according to Infomax.",
+          "The auction for KTB 04250-3606 was conducted between 10:40 a.m. and 11:00 a.m. local time, with an original issue date of June 10, 2026.",
+          "Total bids submitted for the issuance reached KRW 3.348 trillion, representing a bid-to-cover ratio of 304.4 percent.",
+          "Bidders requested yields ranging between 3.975 percent and 4.045 percent during the bidding process.",
+          "The entire planned amount of KRW 1.100 trillion was awarded at a uniform rate of 3.985 percent, which served as the minimum, maximum, and weighted average yield.",
+          "The auction recorded a partial allocation rate of 99.3 percent."
+        ],
+        "sentences_ko": [
+          "연합인포맥스에 따르면 2026년 11월 16일 1조 1,000억 원 규모의 10년 만기 국고채 입찰이 실시되었다.",
+          "이번 입찰 대상인 국고04250-3606 종목(발행일 2026년 6월 10일)의 입찰은 오전 10시 40분부터 11시까지 진행되었다.",
+          "10년물 입찰에는 총 3조 3,480억 원의 응찰금이 몰려 304.4%의 응찰률을 기록했다.",
+          "입찰 응찰 금리 범주는 최저 3.975%에서 최고 4.045% 사이로 집계되었다.",
+          "목표 물량인 1조 1,000억 원 전액이 낙찰되었으며 최저, 최고 및 가중평균 낙찰금리는 모두 3.985%를 나타냈다.",
+          "해당 10년물 국고채 입찰의 부분낙찰률은 99.3%를 기록했다."
+        ]
+      },
+      {
+        "id": "20261116164249731",
+        "published_at": "2026-11-16T16:42:49+09:00",
+        "source": "Infomax",
+        "title": "Korea IRS Rates Fall Across All Tenors in Quiet Session Amid Foreign Receiving",
+        "title_ko": "한국 이자율스왑 금리 전 구간 하락…한산한 장세 속 외국인 오퍼 우위",
+        "summary": "Korea interest rate swap (IRS) rates fell across all tenors in a quiet trading session on November 16, 2026, with longer-tenor rates showing stronger gains. According to the Seoul bond market as of 16:27 local time, the 1-year IRS rate declined 1.00 bp from the previous business day to 3.5900%. The 2-year and 3-year IRS rates both decreased by 1.50 bp, while the 5-year rate fell 2.00 bp to 3.7600%. The 10-year IRS rate dropped 3.50 bp to finish at 3.7950%. A securities firm dealer noted that the market was quiet with a narrow trading range, and foreign participants maintained a generally receiving-dominant stance. Meanwhile, cross-currency swap (CRS) rates declined in the short end but rose in medium-to-long tenors, with the 1-year CRS down 2.00 bp to 3.4000% and the 5-year up 1.00 bp to 3.3100%. The swap basis reversal gap between CRS (SOFR) and IRS narrowed across all tenors except for the 1-year section, which widened by 1.00 bp to -19.00 bp.",
+        "summary_ko": "2026년 11월 16일 서울 채권시장에서 이자율스왑(IRS) 금리가 한산한 장세 속 전 구간에서 하락세를 나타내며 장기물을 중심으로 강세를 보였다. 오후 4시 27분 기준 1년 IRS 금리는 전 거래일 대비 1.00bp 하락한 3.5900%를 기록했다. 2년과 3년 IRS 금리는 각각 1.50bp씩 내렸고, 5년 금리는 2.00bp 하락한 3.7600%를 기록했다. 10년 IRS 금리는 3.50bp 하락한 3.7950%를 나타냈다. 한 증권사 딜러는 이날 장이 한산하고 거래되는 금리 범위도 좁았으며, 이 같은 분위기 속 외국인은 대체로 오퍼 우위인 모습이었다고 전했다. 반면 통화스왑(CRS) 금리는 단기물이 하락했으나 중장기물은 상승세를 보였고, 1년 구간은 2.00bp 내린 3.4000%, 5년은 1.00bp 오른 3.3100%를 기록했다. CRS(SOFR)와 IRS의 차이인 스와프 베이시스 역전 폭은 1년을 제외한 전 구간에서 축소되었으며, 1년 역전 폭은 1.00bp 확대된 -19.00bp를 기록했다.",
+        "sentences": [
+          "Korea interest rate swap (IRS) rates fell across all tenors in a quiet trading session on November 16, 2026, with longer-tenor rates showing stronger gains.",
+          "According to the Seoul bond market as of 16:27 local time, the 1-year IRS rate declined 1.00 bp from the previous business day to 3.5900%.",
+          "The 2-year and 3-year IRS rates both decreased by 1.50 bp, while the 5-year rate fell 2.00 bp to 3.7600%.",
+          "The 10-year IRS rate dropped 3.50 bp to finish at 3.7950%.",
+          "A securities firm dealer noted that the market was quiet with a narrow trading range, and foreign participants maintained a generally receiving-dominant stance.",
+          "Meanwhile, cross-currency swap (CRS) rates declined in the short end but rose in medium-to-long tenors, with the 1-year CRS down 2.00 bp to 3.4000% and the 5-year up 1.00 bp to 3.3100%.",
+          "The swap basis reversal gap between CRS (SOFR) and IRS narrowed across all tenors except for the 1-year section, which widened by 1.00 bp to -19.00 bp."
+        ],
+        "sentences_ko": [
+          "2026년 11월 16일 서울 채권시장에서 이자율스왑(IRS) 금리가 한산한 장세 속 전 구간에서 하락세를 나타내며 장기물을 중심으로 강세를 보였다.",
+          "오후 4시 27분 기준 1년 IRS 금리는 전 거래일 대비 1.00bp 하락한 3.5900%를 기록했다.",
+          "2년과 3년 IRS 금리는 각각 1.50bp씩 내렸고, 5년 금리는 2.00bp 하락한 3.7600%를 기록했다.",
+          "10년 IRS 금리는 3.50bp 하락한 3.7950%를 나타냈다.",
+          "한 증권사 딜러는 이날 장이 한산하고 거래되는 금리 범위도 좁았으며, 이 같은 분위기 속 외국인은 대체로 오퍼 우위인 모습이었다고 전했다.",
+          "반면 통화스왑(CRS) 금리는 단기물이 하락했으나 중장기물은 상승세를 보였고, 1년 구간은 2.00bp 내린 3.4000%, 5년은 1.00bp 오른 3.3100%를 기록했다.",
+          "CRS(SOFR)와 IRS의 차이인 스와프 베이시스 역전 폭은 1년을 제외한 전 구간에서 축소되었으며, 1년 역전 폭은 1.00bp 확대된 -19.00bp를 기록했다."
+        ]
+      }
+    ]
+  },
   "kofia": {
     "date": "2026-11-16",
     "source": "KOFIA",
