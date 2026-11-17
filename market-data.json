@@ -2261,6 +2261,143 @@
     "sessions": 5,
     "ON_TN_change": "n.m."
   },
+  "news": {
+    "generated_at": "2026-11-18T04:33:38.234650+09:00",
+    "window_start": "2026-11-17T04:30:00+09:00",
+    "window_end": "2026-11-18T04:30:00+09:00",
+    "headline_coverage": "complete",
+    "items": [
+      {
+        "id": "20261117165805104",
+        "published_at": "2026-11-17T16:58:04+09:00",
+        "source": "Infomax",
+        "title": "Korea Treasury Bond Yields Fall as Kospi Retreats and Safe-Haven Demand Rises",
+        "title_ko": "코스피 4천선 후퇴 및 안전자산 선호에 국고채 금리 하락 마감",
+        "summary": "Korea Treasury bond yields declined on November 17 as the Kospi retreated to the 4,000 level and safe-haven demand persisted. The 3-year KTB yield fell 1.8 bp to 3.725%, and the 10-year yield dropped 1.5 bp to 3.966%, while the 30-year yield rose 0.5 bp. KTB yields initially edged up in early trading, and bond futures briefly turned weak after opening strong following overnight declines in US Treasury yields. Market caution grew ahead of the Bank of Korea's policy meeting regarding potential upward revisions to South Korea's economic growth forecasts. The International Monetary Fund raised South Korea's 2026 growth forecast from 3.3% to 3.9% and adjusted the next year's forecast to 3.3%. Strong buying in the credit secondary market exerted downward pressure on short- and medium-term KTB yields alongside steepening pressure on the yield curve. Traders noted that foreign investors sold 10-year KTB futures while financial investment firms net sold 3-year KTB futures.",
+        "summary_ko": "17일 코스피가 4천선으로 후퇴하고 안전자산 선호 분위기가 이어진 가운데 국고채 금리가 하락했다. 국고채 3년물 최종호가 수익률은 전장 대비 1.8bp 하락한 3.725%, 10년물은 1.5bp 하락한 3.966%를 나타냈고, 30년물은 0.5bp 올랐다. 국고채 금리는 장 초반 소폭 오름세를 보였고, 국채선물은 간밤 미국 국채 금리 하락에 따라 개장 직후 강세를 보였다가 이내 약세로 돌아섰다. 한국은행의 금융통화위원회를 앞두고 국내 경제성장률 상향 조정 가능성에 대한 시장 참가자들의 경계심이 커졌다. 국제통화기금(IMF)은 우리나라의 올해 성장률 전망치를 3.3%에서 3.9%로 상향하고 내년 성장률 전망치도 3.3%로 조정했다는 소식이 전해졌다. 크레디트 유통시장에서 매수세가 이어지면서 국고채 중단기 금리에 하방 압력을 가했고 커브는 스팁 압력을 받았다는 평가가 나왔다. 시장에서는 외국인이 10년 국채선물을 매도하고 금융투자가 3년 국채선물을 순매도한 것으로 나타났다.",
+        "sentences": [
+          "Korea Treasury bond yields declined on November 17 as the Kospi retreated to the 4,000 level and safe-haven demand persisted.",
+          "The 3-year KTB yield fell 1.8 bp to 3.725%, and the 10-year yield dropped 1.5 bp to 3.966%, while the 30-year yield rose 0.5 bp.",
+          "KTB yields initially edged up in early trading, and bond futures briefly turned weak after opening strong following overnight declines in US Treasury yields.",
+          "Market caution grew ahead of the Bank of Korea's policy meeting regarding potential upward revisions to South Korea's economic growth forecasts.",
+          "The International Monetary Fund raised South Korea's 2026 growth forecast from 3.3% to 3.9% and adjusted the next year's forecast to 3.3%.",
+          "Strong buying in the credit secondary market exerted downward pressure on short- and medium-term KTB yields alongside steepening pressure on the yield curve.",
+          "Traders noted that foreign investors sold 10-year KTB futures while financial investment firms net sold 3-year KTB futures."
+        ],
+        "sentences_ko": [
+          "17일 코스피가 4천선으로 후퇴하고 안전자산 선호 분위기가 이어진 가운데 국고채 금리가 하락했다.",
+          "국고채 3년물 최종호가 수익률은 전장 대비 1.8bp 하락한 3.725%, 10년물은 1.5bp 하락한 3.966%를 나타냈고, 30년물은 0.5bp 올랐다.",
+          "국고채 금리는 장 초반 소폭 오름세를 보였고, 국채선물은 간밤 미국 국채 금리 하락에 따라 개장 직후 강세를 보였다가 이내 약세로 돌아섰다.",
+          "한국은행의 금융통화위원회를 앞두고 국내 경제성장률 상향 조정 가능성에 대한 시장 참가자들의 경계심이 커졌다.",
+          "국제통화기금(IMF)은 우리나라의 올해 성장률 전망치를 3.3%에서 3.9%로 상향하고 내년 성장률 전망치도 3.3%로 조정했다는 소식이 전해졌다.",
+          "크레디트 유통시장에서 매수세가 이어지면서 국고채 중단기 금리에 하방 압력을 가했고 커브는 스팁 압력을 받았다는 평가가 나왔다.",
+          "시장에서는 외국인이 10년 국채선물을 매도하고 금융투자가 3년 국채선물을 순매도한 것으로 나타났다."
+        ]
+      },
+      {
+        "id": "20261117140648813",
+        "published_at": "2026-11-17T14:06:47+09:00",
+        "source": "Infomax",
+        "title": "Citi forecasts unanimous 25bp BOK hike in November",
+        "title_ko": "씨티, 한은 11월 만장일치 25bp 인상 전망",
+        "summary": "Citi forecasts the Bank of Korea will unanimously raise the base rate by 25 basis points on November 26. Chief Economist Kim Jin-wook maintained expectations that the terminal rate will reach 3.50% with additional hikes. Strong third-quarter GDP growth and high core CPI inflation in October reinforce the need for further tightening. The median dot plot of the seven board members is projected to be revised up by 25 basis points to 3.50%. Citi raised its real GDP growth forecasts to 3.8% for this year and 3.3% for next year. Consumer price inflation forecasts for next year were adjusted up to 2.4% for headline CPI and 2.6% for core CPI.",
+        "summary_ko": "씨티는 한국은행이 오는 26일 금융통화위원회에서 기준금리를 만장일치로 25bp 인상할 것으로 전망했다. 김진욱 수석이코노미스트는 최종금리가 3.50%에 이를 것이라는 기존 전망을 유지했다. 3분기 국내총생산 성장률 호조와 10월 높은 근원 소비자물가 상승률이 추가 긴축 필요성을 강화했다. 금통위원 7명의 점도표 중간값은 25bp 상향된 3.50%로 예상됐다. 씨티는 올해와 내년 경제성장률 전망치를 각각 3.8%와 3.3%로 상향 조정했다. 내년 소비자물가와 근원 소비자물가 상승률 전망치는 각각 2.4%와 2.6%로 높여 잡았다.",
+        "sentences": [
+          "Citi forecasts the Bank of Korea will unanimously raise the base rate by 25 basis points on November 26.",
+          "Chief Economist Kim Jin-wook maintained expectations that the terminal rate will reach 3.50% with additional hikes.",
+          "Strong third-quarter GDP growth and high core CPI inflation in October reinforce the need for further tightening.",
+          "The median dot plot of the seven board members is projected to be revised up by 25 basis points to 3.50%.",
+          "Citi raised its real GDP growth forecasts to 3.8% for this year and 3.3% for next year.",
+          "Consumer price inflation forecasts for next year were adjusted up to 2.4% for headline CPI and 2.6% for core CPI."
+        ],
+        "sentences_ko": [
+          "씨티는 한국은행이 오는 26일 금융통화위원회에서 기준금리를 만장일치로 25bp 인상할 것으로 전망했다.",
+          "김진욱 수석이코노미스트는 최종금리가 3.50%에 이를 것이라는 기존 전망을 유지했다.",
+          "3분기 국내총생산 성장률 호조와 10월 높은 근원 소비자물가 상승률이 추가 긴축 필요성을 강화했다.",
+          "금통위원 7명의 점도표 중간값은 25bp 상향된 3.50%로 예상됐다.",
+          "씨티는 올해와 내년 경제성장률 전망치를 각각 3.8%와 3.3%로 상향 조정했다.",
+          "내년 소비자물가와 근원 소비자물가 상승률 전망치는 각각 2.4%와 2.6%로 높여 잡았다."
+        ]
+      },
+      {
+        "id": "20261117115101742",
+        "published_at": "2026-11-17T11:51:01+09:00",
+        "source": "Infomax",
+        "title": "Korea Treasury Bonds Exchange Results Announced by Infomax on November 17",
+        "title_ko": "연합인포맥스가 11월 17일 보도한 국고채 교환 결과",
+        "summary": "Infomax reported Korea Treasury bonds exchange results on November 17, 2026. The exchange auction awarded 0.400 trillion won at a yield of 4.054 percent. Total bidding participation for the Korea Treasury bonds exchange reached 0.769 trillion won. The source data was provided through an Infomax news publication and PDF link. No further macroeconomic indicators or secondary market data were disclosed in the brief.",
+        "summary_ko": "연합인포맥스는 2026년 11월 17일에 국고채 교환 결과를 보도했다. 이번 교환 입찰에서는 4.054%의 수익률로 0.400조 원이 낙찰되었다. 국고채 교환에 대한 전체 응찰 규모는 0.769조 원을 기록했다. 해당 원천 데이터는 연합인포맥스 뉴스 보도와 PDF 링크를 통해 제공되었다. 동 단신에서는 추가적인 거시경제 지표나 유통시장 데이터가 공개되지 않았다.",
+        "sentences": [
+          "Infomax reported Korea Treasury bonds exchange results on November 17, 2026.",
+          "The exchange auction awarded 0.400 trillion won at a yield of 4.054 percent.",
+          "Total bidding participation for the Korea Treasury bonds exchange reached 0.769 trillion won.",
+          "The source data was provided through an Infomax news publication and PDF link.",
+          "No further macroeconomic indicators or secondary market data were disclosed in the brief."
+        ],
+        "sentences_ko": [
+          "연합인포맥스는 2026년 11월 17일에 국고채 교환 결과를 보도했다.",
+          "이번 교환 입찰에서는 4.054%의 수익률로 0.400조 원이 낙찰되었다.",
+          "국고채 교환에 대한 전체 응찰 규모는 0.769조 원을 기록했다.",
+          "해당 원천 데이터는 연합인포맥스 뉴스 보도와 PDF 링크를 통해 제공되었다.",
+          "동 단신에서는 추가적인 거시경제 지표나 유통시장 데이터가 공개되지 않았다."
+        ]
+      },
+      {
+        "id": "20261117112243379",
+        "published_at": "2026-11-17T11:22:42+09:00",
+        "source": "Infomax",
+        "title": "BOK 1-year and 3-year Monetary Stabilization Bonds early redemption awards 300 billion won out of 570 billion won bidded.",
+        "title_ko": "한국은행 1년·3년물 통안채 중도환매 3,000억원 낙찰… 응찰 5,700억원",
+        "summary": "The Bank of Korea conducted an early redemption auction for 1-year and 3-year Monetary Stabilization Bonds with a planned purchase amount of 300 billion won. Total bids submitted reached 570 billion won, while the final accepted auction amount stood at 300 billion won. For the 1-year Monetary Stabilization Bond maturing on May 1, 2027, bids reached 10 billion won, which was fully accepted at a yield of 3.275% with no partial allocation. For the 1-year Monetary Stabilization Bond maturing on July 1, 2027, bids totaled 60 billion won, and 50 billion won was accepted at yields ranging from 3.570% to 3.580% with no partial allocation. For the 3-year Monetary Stabilization Bond maturing on September 3, 2027, total bids reached 500 billion won, with 240 billion won accepted at yields between 3.650% and 3.680% and partial allocation rates ranging from 50% to 100%. The securities settlement and cash payment date for the early redemption auction is scheduled for November 19, 2026.",
+        "summary_ko": "한국은행은 매입 예정 금액 3,000억원 규모의 1년 및 3년 만기 통화안정증권 중도환매 입찰을 실시했다. 총 응찰액은 5,700억원을 기록했으며 최종 낙찰액은 3,000억원으로 결정됐다. 2027년 5월 1일 만기 도래하는 1년물 통화안정증권은 응찰액 10억원이 전액 낙찰되었으며, 낙찰금리는 3.275%로 부분 낙찰은 없었다. 2027년 7월 1일 만기 도래하는 1년물 통화안정증권은 응찰액 60억원 중 50억원이 낙찰되었고, 낙찰금리는 3.570~3.580%를 기록하며 부분 낙찰은 없었다. 2027년 9월 3일 만기 도래하는 3년물 통화안정증권은 응찰액 5,000억원 중 240억원이 낙찰되었으며, 낙찰금리는 3.650~3.680%, 부분 낙찰률은 50~100%였다. 해당 중도환매 입찰의 증권 인도 및 대금 결제일은 2026년 11월 19일 목요일로 예정되어 있다.",
+        "sentences": [
+          "The Bank of Korea conducted an early redemption auction for 1-year and 3-year Monetary Stabilization Bonds with a planned purchase amount of 300 billion won.",
+          "Total bids submitted reached 570 billion won, while the final accepted auction amount stood at 300 billion won.",
+          "For the 1-year Monetary Stabilization Bond maturing on May 1, 2027, bids reached 10 billion won, which was fully accepted at a yield of 3.275% with no partial allocation.",
+          "For the 1-year Monetary Stabilization Bond maturing on July 1, 2027, bids totaled 60 billion won, and 50 billion won was accepted at yields ranging from 3.570% to 3.580% with no partial allocation.",
+          "For the 3-year Monetary Stabilization Bond maturing on September 3, 2027, total bids reached 500 billion won, with 240 billion won accepted at yields between 3.650% and 3.680% and partial allocation rates ranging from 50% to 100%.",
+          "The securities settlement and cash payment date for the early redemption auction is scheduled for November 19, 2026."
+        ],
+        "sentences_ko": [
+          "한국은행은 매입 예정 금액 3,000억원 규모의 1년 및 3년 만기 통화안정증권 중도환매 입찰을 실시했다.",
+          "총 응찰액은 5,700억원을 기록했으며 최종 낙찰액은 3,000억원으로 결정됐다.",
+          "2027년 5월 1일 만기 도래하는 1년물 통화안정증권은 응찰액 10억원이 전액 낙찰되었으며, 낙찰금리는 3.275%로 부분 낙찰은 없었다.",
+          "2027년 7월 1일 만기 도래하는 1년물 통화안정증권은 응찰액 60억원 중 50억원이 낙찰되었고, 낙찰금리는 3.570~3.580%를 기록하며 부분 낙찰은 없었다.",
+          "2027년 9월 3일 만기 도래하는 3년물 통화안정증권은 응찰액 5,000억원 중 240억원이 낙찰되었으며, 낙찰금리는 3.650~3.680%, 부분 낙찰률은 50~100%였다.",
+          "해당 중도환매 입찰의 증권 인도 및 대금 결제일은 2026년 11월 19일 목요일로 예정되어 있다."
+        ]
+      },
+      {
+        "id": "20261117165923572",
+        "published_at": "2026-11-17T16:59:22+09:00",
+        "source": "Infomax",
+        "title": "Korea IRS Rates Fall Centered on Intermediate Tenors in Line with Cash Bonds",
+        "title_ko": "IRS 중단기 중심 하락…채권 현물 연동",
+        "summary": "Interest rate swap (IRS) rates in Seoul closed lower primarily across intermediate tenors on November 17, tracking movements in cash bonds according to the bond market. At 4:30 PM, the 1-year IRS rate rose by 1.5 bp from the previous business day to 3.6050 percent. The 3-year and 5-year IRS rates declined by 2.25 bp and 1.50 bp, respectively. A bond dealer at a securities firm noted that the market moved almost in tandem with cash bonds and showed no particularly notable activity in the IRS market. Cross-currency swap (CRS) rates also moved downward mainly in intermediate tenors. Both the 1-year and 3-year CRS rates dropped by 0.50 bp each, while the 5-year rate fell by 1.00 bp. The swap basis reversal gap, measured as the difference between CRS SOFR and IRS, showed mixed changes. The 1-year swap basis gap widened by 2.00 bp, whereas the 5-year gap narrowed by 0.50 bp.",
+        "summary_ko": "서울 채권시장에 따르면 17일 금리스와프(IRS) 금리는 채권 현물 움직임에 연동되며 중단기 구간을 중심으로 하락 마감했다. 오후 4시 30분 기준 1년 IRS 금리는 전 거래일 대비 1.5bp 상승한 3.6050%를 기록했다. 3년과 5년 IRS 금리는 각각 2.25bp와 1.50bp 하락했다. 증권사의 한 채권 딜러는 시장이 채권 현물과 거의 연동되어 움직였으며 IRS 시장에서 특별히 눈에 띄는 움직임은 없었다고 전했다. 통화스왑(CRS) 금리도 중단기 위주로 하락세를 나타냈다. 1년과 3년 CRS 금리는 각각 0.50bp씩 내렸고 5년물은 1.00bp 하락했다. CRS(SOFR)와 IRS의 차이를 나타내는 스와프 베이시스 역전 폭은 만기별로 엇갈린 움직임을 보였다. 1년물 스와프 베이시스 역전 폭은 2.00bp 확대되었고 5년물은 0.50bp 축소되었다.",
+        "sentences": [
+          "Interest rate swap (IRS) rates in Seoul closed lower primarily across intermediate tenors on November 17, tracking movements in cash bonds according to the bond market.",
+          "At 4:30 PM, the 1-year IRS rate rose by 1.5 bp from the previous business day to 3.6050 percent.",
+          "The 3-year and 5-year IRS rates declined by 2.25 bp and 1.50 bp, respectively.",
+          "A bond dealer at a securities firm noted that the market moved almost in tandem with cash bonds and showed no particularly notable activity in the IRS market.",
+          "Cross-currency swap (CRS) rates also moved downward mainly in intermediate tenors.",
+          "Both the 1-year and 3-year CRS rates dropped by 0.50 bp each, while the 5-year rate fell by 1.00 bp.",
+          "The swap basis reversal gap, measured as the difference between CRS SOFR and IRS, showed mixed changes.",
+          "The 1-year swap basis gap widened by 2.00 bp, whereas the 5-year gap narrowed by 0.50 bp."
+        ],
+        "sentences_ko": [
+          "서울 채권시장에 따르면 17일 금리스와프(IRS) 금리는 채권 현물 움직임에 연동되며 중단기 구간을 중심으로 하락 마감했다.",
+          "오후 4시 30분 기준 1년 IRS 금리는 전 거래일 대비 1.5bp 상승한 3.6050%를 기록했다.",
+          "3년과 5년 IRS 금리는 각각 2.25bp와 1.50bp 하락했다.",
+          "증권사의 한 채권 딜러는 시장이 채권 현물과 거의 연동되어 움직였으며 IRS 시장에서 특별히 눈에 띄는 움직임은 없었다고 전했다.",
+          "통화스왑(CRS) 금리도 중단기 위주로 하락세를 나타냈다.",
+          "1년과 3년 CRS 금리는 각각 0.50bp씩 내렸고 5년물은 1.00bp 하락했다.",
+          "CRS(SOFR)와 IRS의 차이를 나타내는 스와프 베이시스 역전 폭은 만기별로 엇갈린 움직임을 보였다.",
+          "1년물 스와프 베이시스 역전 폭은 2.00bp 확대되었고 5년물은 0.50bp 축소되었다."
+        ]
+      }
+    ]
+  },
   "kofia": {
     "date": "2026-11-17",
     "source": "KOFIA",
