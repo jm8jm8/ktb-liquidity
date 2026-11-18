@@ -2261,6 +2261,110 @@
     "sessions": 5,
     "ON_TN_change": "n.m."
   },
+  "news": {
+    "generated_at": "2026-11-19T04:33:19.061483+09:00",
+    "window_start": "2026-11-18T04:30:00+09:00",
+    "window_end": "2026-11-19T04:30:00+09:00",
+    "headline_coverage": "complete",
+    "items": [
+      {
+        "id": "20261118165132893",
+        "published_at": "2026-11-18T16:51:32+09:00",
+        "source": "Infomax",
+        "title": "Korea Treasury Bond Yields Rise as Kospi Rebounds Amid KDI Economic Outlook",
+        "title_ko": "국고채 금리, 코스피 반등 및 KDI 경제전망 속 상승",
+        "summary": "Korea Treasury bond yields rose alongside a Kospi recovery driven by Nvidia's strong earnings results. The benchmark three-year KTB yield settled 1.1 bp higher at 3.736% and the ten-year yield increased by 0.9 bp to 3.975%. Three-year and ten-year KTB futures declined by 8 ticks and 16 ticks to finish at 103.46 and 108.33 respectively. Foreign investors net-purchased 316 contracts of three-year KTB futures and 1,670 contracts of ten-year KTB futures. The Korea Development Institute projected economic growth rates of 3.8% for this year and 3.9% for next year during its economic outlook release. The Kospi closed up 1.99% at 5,067.44, reclaiming the 5,000 threshold after dropping below it in the previous session.",
+        "summary_ko": "엔비디아의 실적 호조에 따른 코스피 회복과 함께 국고채 금리가 상승했다. 지표물인 국고채 3년물 최종호가 수익률은 전장 대비 1.1bp 상승한 3.736%, 10년물은 0.9bp 오른 3.975%를 기록했다. 3년 국채선물은 8틱 내린 103.46, 10년 국채선물은 16틱 내린 108.33으로 마감했다. 외국인은 3년 국채선물을 316계약, 10년 국채선물을 1천670계약 순매수했다. 한국개발연구원은 하반기 경제전망을 통해 올해와 내년 경제성장률을 각각 3.8%와 3.9%로 전망했다. 코스피는 전장 대비 1.99% 오른 5,067.44에 마감하며 하루 만에 5천선을 회복했다.",
+        "sentences": [
+          "Korea Treasury bond yields rose alongside a Kospi recovery driven by Nvidia's strong earnings results.",
+          "The benchmark three-year KTB yield settled 1.1 bp higher at 3.736% and the ten-year yield increased by 0.9 bp to 3.975%.",
+          "Three-year and ten-year KTB futures declined by 8 ticks and 16 ticks to finish at 103.46 and 108.33 respectively.",
+          "Foreign investors net-purchased 316 contracts of three-year KTB futures and 1,670 contracts of ten-year KTB futures.",
+          "The Korea Development Institute projected economic growth rates of 3.8% for this year and 3.9% for next year during its economic outlook release.",
+          "The Kospi closed up 1.99% at 5,067.44, reclaiming the 5,000 threshold after dropping below it in the previous session."
+        ],
+        "sentences_ko": [
+          "엔비디아의 실적 호조에 따른 코스피 회복과 함께 국고채 금리가 상승했다.",
+          "지표물인 국고채 3년물 최종호가 수익률은 전장 대비 1.1bp 상승한 3.736%, 10년물은 0.9bp 오른 3.975%를 기록했다.",
+          "3년 국채선물은 8틱 내린 103.46, 10년 국채선물은 16틱 내린 108.33으로 마감했다.",
+          "외국인은 3년 국채선물을 316계약, 10년 국채선물을 1천670계약 순매수했다.",
+          "한국개발연구원은 하반기 경제전망을 통해 올해와 내년 경제성장률을 각각 3.8%와 3.9%로 전망했다.",
+          "코스피는 전장 대비 1.99% 오른 5,067.44에 마감하며 하루 만에 5천선을 회복했다."
+        ]
+      },
+      {
+        "id": "20261118113504527",
+        "published_at": "2026-11-18T11:35:04+09:00",
+        "source": "Infomax",
+        "title": "Korea Treasury Bond Buyback Totals 2.00 Trillion Won, Weighted Averages 3.590–3.690%",
+        "title_ko": "국고채 바이백 2.00조원…가중평균 3.590~3.690% 낙찰",
+        "summary": "An Infomax report dated November 18, 2026 states that a Korea Treasury bond (KTB) buyback was accepted for a total of 2.00 trillion won. The accepted weighted averages ranged from 3.590% to 3.690%. The source provides these figures in its headline; the body consists only of a reference PDF link. No conducting institution, individual maturities, or bidder details are stated in the supplied source. The report was published by Infomax at 11:35 on November 18, 2026.",
+        "summary_ko": "2026년 11월 18일 연합인포맥스 보도에 따르면 국고채 바이백이 총 2.00조원 규모로 낙찰되었다. 낙찰 가중평균 금리는 3.590%에서 3.690% 사이로 나타났다. 출처는 제목에서 이 수치를 제공하며, 본문은 참고용 PDF 링크로만 구성되어 있다. 제공된 출처에는 시행 기관, 개별 만기, 입찰자 세부 내용이 언급되어 있지 않다. 해당 보도는 2026년 11월 18일 11시 35분 연합인포맥스를 통해 게시되었다.",
+        "sentences": [
+          "An Infomax report dated November 18, 2026 states that a Korea Treasury bond (KTB) buyback was accepted for a total of 2.00 trillion won.",
+          "The accepted weighted averages ranged from 3.590% to 3.690%.",
+          "The source provides these figures in its headline; the body consists only of a reference PDF link.",
+          "No conducting institution, individual maturities, or bidder details are stated in the supplied source.",
+          "The report was published by Infomax at 11:35 on November 18, 2026."
+        ],
+        "sentences_ko": [
+          "2026년 11월 18일 연합인포맥스 보도에 따르면 국고채 바이백이 총 2.00조원 규모로 낙찰되었다.",
+          "낙찰 가중평균 금리는 3.590%에서 3.690% 사이로 나타났다.",
+          "출처는 제목에서 이 수치를 제공하며, 본문은 참고용 PDF 링크로만 구성되어 있다.",
+          "제공된 출처에는 시행 기관, 개별 만기, 입찰자 세부 내용이 언급되어 있지 않다.",
+          "해당 보도는 2026년 11월 18일 11시 35분 연합인포맥스를 통해 게시되었다."
+        ]
+      },
+      {
+        "id": "20261118104140313",
+        "published_at": "2026-11-18T10:41:39+09:00",
+        "source": "Infomax",
+        "title": "BOK 3-Year Monetary Stabilization Bonds Awarded at 3.810%",
+        "title_ko": "통안채 3년물 3.810%에 낙찰",
+        "summary": "The Bank of Korea held an auction on 2026-11-18 for 3-year Monetary Stabilization Bonds with an planned issuance amount of 0.80 trillion won. Total bids came to 1.24 trillion won from 19 institutions, with bid rates ranging from 2.500% to 3.840%. The full 0.80 trillion won was awarded to 17 institutions at an accepted yield of 3.810%. The partial acceptance rate ranged from 0% to 50%. The bond in the auction carried issue number 04150-2909-0306, and Infomax reported the results.",
+        "summary_ko": "한국은행은 2026년 11월 18일 3년물 통안채 입찰을 실시했으며 발행예정액은 0.80조원이다. 응찰액은 19개 기관에서 1.24조원이었고 응찰금리는 2.500~3.840%였다. 낙찰액은 17개 기관에 0.80조원 전액이며 낙찰수익률은 3.810%였다. 부분낙찰률은 0~50%였다. 입찰 대상 종목은 04150-2909-0306이며 연합인포맥스가 결과를 보도했다.",
+        "sentences": [
+          "The Bank of Korea held an auction on 2026-11-18 for 3-year Monetary Stabilization Bonds with an planned issuance amount of 0.80 trillion won.",
+          "Total bids came to 1.24 trillion won from 19 institutions, with bid rates ranging from 2.500% to 3.840%.",
+          "The full 0.80 trillion won was awarded to 17 institutions at an accepted yield of 3.810%.",
+          "The partial acceptance rate ranged from 0% to 50%.",
+          "The bond in the auction carried issue number 04150-2909-0306, and Infomax reported the results."
+        ],
+        "sentences_ko": [
+          "한국은행은 2026년 11월 18일 3년물 통안채 입찰을 실시했으며 발행예정액은 0.80조원이다.",
+          "응찰액은 19개 기관에서 1.24조원이었고 응찰금리는 2.500~3.840%였다.",
+          "낙찰액은 17개 기관에 0.80조원 전액이며 낙찰수익률은 3.810%였다.",
+          "부분낙찰률은 0~50%였다.",
+          "입찰 대상 종목은 04150-2909-0306이며 연합인포맥스가 결과를 보도했다."
+        ]
+      },
+      {
+        "id": "20261118120004081",
+        "published_at": "2026-11-18T12:00:03+09:00",
+        "source": "Infomax",
+        "title": "KDI Advises Maintaining Monetary Tightening as Core Inflation Is Projected to Exceed Target",
+        "title_ko": "KDI, 내년 근원물가 목표치 상회 전망에 통화긴축 기조 유지 제언",
+        "summary": "The Korea Development Institute (KDI) released its second-half economic outlook on November 18, 2026, advising that monetary policy maintain a tight stance. KDI projected that next year's core inflation rate will hover around 2.5%, significantly exceeding the 2% price stability target due to expanding demand pressures. The state-run institute noted that while supply-side petroleum pressures will ease on stabilized global oil prices, semiconductor export booms will drive private consumption. KDI recommended flexible fiscal execution to prevent spending expansions from exacerbating inflationary pressures, while also calling for strengthened project evaluations. KDI forecast next year's headline consumer price inflation at 2.4% and advised caution against permanently expanding expenditures based on uncertain corporate tax revenues. Kim Miru, head of macroeconomic and financial policy research at KDI, stated that the proposed 162 trillion won future response fund should be managed flexibly depending on bond market conditions.",
+        "summary_ko": "국책연구기관인 한국개발연구원(KDI)은 2026년 11월 18일 발표한 하반기 경제전망에서 통화정책 긴축 기조를 유지할 필요가 있다고 제언했다. KDI는 민간소비 개선에 따른 수요 압력 확대 여파로 내년 근원물가 상승률이 2.5% 안팎을 기록해 물가안정목표인 2%를 상당 폭 웃돌 것으로 전망했다. 국제유가 안정으로 공급 측 요인은 완화되는 반면 반도체 수출 호황이 민간소비 개선으로 확산하면서 수요 측 물가 압력이 커질 것이라고 KDI는 분석했다. KDI는 재정 지출 확대가 물가 상승 압력을 가하지 않도록 경기와 물가 추이에 따라 재정 집행을 탄력적으로 운용하고 성과평가를 강화할 것을 권고했다. KDI가 제시한 내년 소비자물가 상승률 전망치는 2.4%이며, 반도체 호황에 따른 법인세 수입 전제에 기반한 경직적 지출 확대에는 신중할 것을 당부했다. 김미루 KDI 거시·금융정책연구부장은 신설 추진 중인 162조원 규모의 미래대응기금과 관련해 국채시장 상황에 따라 유연하게 비축과 상환을 조절해야 한다는 의견을 밝혔다.",
+        "sentences": [
+          "The Korea Development Institute (KDI) released its second-half economic outlook on November 18, 2026, advising that monetary policy maintain a tight stance.",
+          "KDI projected that next year's core inflation rate will hover around 2.5%, significantly exceeding the 2% price stability target due to expanding demand pressures.",
+          "The state-run institute noted that while supply-side petroleum pressures will ease on stabilized global oil prices, semiconductor export booms will drive private consumption.",
+          "KDI recommended flexible fiscal execution to prevent spending expansions from exacerbating inflationary pressures, while also calling for strengthened project evaluations.",
+          "KDI forecast next year's headline consumer price inflation at 2.4% and advised caution against permanently expanding expenditures based on uncertain corporate tax revenues.",
+          "Kim Miru, head of macroeconomic and financial policy research at KDI, stated that the proposed 162 trillion won future response fund should be managed flexibly depending on bond market conditions."
+        ],
+        "sentences_ko": [
+          "국책연구기관인 한국개발연구원(KDI)은 2026년 11월 18일 발표한 하반기 경제전망에서 통화정책 긴축 기조를 유지할 필요가 있다고 제언했다.",
+          "KDI는 민간소비 개선에 따른 수요 압력 확대 여파로 내년 근원물가 상승률이 2.5% 안팎을 기록해 물가안정목표인 2%를 상당 폭 웃돌 것으로 전망했다.",
+          "국제유가 안정으로 공급 측 요인은 완화되는 반면 반도체 수출 호황이 민간소비 개선으로 확산하면서 수요 측 물가 압력이 커질 것이라고 KDI는 분석했다.",
+          "KDI는 재정 지출 확대가 물가 상승 압력을 가하지 않도록 경기와 물가 추이에 따라 재정 집행을 탄력적으로 운용하고 성과평가를 강화할 것을 권고했다.",
+          "KDI가 제시한 내년 소비자물가 상승률 전망치는 2.4%이며, 반도체 호황에 따른 법인세 수입 전제에 기반한 경직적 지출 확대에는 신중할 것을 당부했다.",
+          "김미루 KDI 거시·금융정책연구부장은 신설 추진 중인 162조원 규모의 미래대응기금과 관련해 국채시장 상황에 따라 유연하게 비축과 상환을 조절해야 한다는 의견을 밝혔다."
+        ]
+      }
+    ]
+  },
   "kofia": {
     "date": "2026-11-18",
     "source": "KOFIA",
