@@ -2261,6 +2261,118 @@
     "sessions": 5,
     "ON_TN_change": "n.m."
   },
+  "news": {
+    "generated_at": "2026-11-20T04:34:18.907551+09:00",
+    "window_start": "2026-11-19T04:30:00+09:00",
+    "window_end": "2026-11-20T04:30:00+09:00",
+    "headline_coverage": "complete",
+    "items": [
+      {
+        "id": "20261119174412444",
+        "published_at": "2026-11-19T17:44:11+09:00",
+        "source": "Infomax",
+        "title": "Korean Treasury Bond Yields Fall on Foreign Buying and Australian Rate Drop",
+        "title_ko": "국고채 금리, 외국인 순매수와 호주 금리 급락에 하락 마감",
+        "summary": "Korea Treasury bond yields fell across all tenors on November 19 as foreign investors heavily purchased KTB futures amid plunging international crude prices. The 3-year KTB yield settled 2.0bp lower at 3.716% and the 10-year yield dropped 3.3bp to 3.942%. Trading hours for KTB futures and spot transactions opened and closed one hour later due to the College Scholastic Ability Test. Australian government bond yields plummeted after Australia reported its unemployment rate rose to 4.9%, a five-year high. Foreign investors net-purchased 12,864 contracts of 3-year KTB futures and 5,724 contracts of 10-year KTB futures. MOTIR announced during the afternoon that South Korea achieved annual exports of 1 trillion dollars for the first time in history.",
+        "summary_ko": "19일 국고채 금리는 국제유가 급락 속 외국인 투자자의 대규모 국채선물 순매수에 힘입어 전 만기 구간에서 일제히 하락했다. 국고채 3년물 최종호가 수익률은 전장 대비 2.0bp 하락한 3.716%, 10년물은 3.3bp 내린 3.942%를 기록했다. 이날 국채선물과 국고채 장내거래는 대학수학능력시험일에 따라 개장과 폐장 시간이 각각 1시간씩 연기되었다. 호주 통계청이 발표한 실업률이 5년 만에 가장 높은 수준인 4.9%를 기록하면서 호주 국채금리는 급락했다. 외국인 투자자는 3년 국채선물을 1만2천864계약, 10년 국채선물을 5천724계약 각각 순매수했다. 산업통상부는 이날 오후 우리나라가 사상 처음으로 연간 수출 1조 달러를 달성했다고 발표했다.",
+        "sentences": [
+          "Korea Treasury bond yields fell across all tenors on November 19 as foreign investors heavily purchased KTB futures amid plunging international crude prices.",
+          "The 3-year KTB yield settled 2.0bp lower at 3.716% and the 10-year yield dropped 3.3bp to 3.942%.",
+          "Trading hours for KTB futures and spot transactions opened and closed one hour later due to the College Scholastic Ability Test.",
+          "Australian government bond yields plummeted after Australia reported its unemployment rate rose to 4.9%, a five-year high.",
+          "Foreign investors net-purchased 12,864 contracts of 3-year KTB futures and 5,724 contracts of 10-year KTB futures.",
+          "MOTIR announced during the afternoon that South Korea achieved annual exports of 1 trillion dollars for the first time in history."
+        ],
+        "sentences_ko": [
+          "19일 국고채 금리는 국제유가 급락 속 외국인 투자자의 대규모 국채선물 순매수에 힘입어 전 만기 구간에서 일제히 하락했다.",
+          "국고채 3년물 최종호가 수익률은 전장 대비 2.0bp 하락한 3.716%, 10년물은 3.3bp 내린 3.942%를 기록했다.",
+          "이날 국채선물과 국고채 장내거래는 대학수학능력시험일에 따라 개장과 폐장 시간이 각각 1시간씩 연기되었다.",
+          "호주 통계청이 발표한 실업률이 5년 만에 가장 높은 수준인 4.9%를 기록하면서 호주 국채금리는 급락했다.",
+          "외국인 투자자는 3년 국채선물을 1만2천864계약, 10년 국채선물을 5천724계약 각각 순매수했다.",
+          "산업통상부는 이날 오후 우리나라가 사상 처음으로 연간 수출 1조 달러를 달성했다고 발표했다."
+        ]
+      },
+      {
+        "id": "20261119170245257",
+        "published_at": "2026-11-19T17:02:44+09:00",
+        "source": "Infomax",
+        "title": "Ministry of Finance and Economy Skips Non-Competitive Auction Issuance of KTBs for November",
+        "title_ko": "재정경제부, 11월 국고채 모집방식 비경쟁인수 발행 미실시",
+        "summary": "The Ministry of Finance and Economy announced on November 19 that it will not conduct non-competitive auction issuance via the recruitment method for Korea Treasury bonds this month. The ministry stated that this decision took into account recent KTB issuance performance and overall supply-demand conditions in the market. Non-competitive bidding through the recruitment method involves issuing Korea Treasury bonds at pre-announced interest rates. Meanwhile, the issuance plan for Korea Treasury bonds for December will be separately announced on November 26 through the ministry's website. The announcement was reported by Infomax with reporting by Son Ji-hyun.",
+        "summary_ko": "재정경제부는 19일 이달에 모집 방식 국고채 발행을 하지 않는다고 밝혔다. 재경부는 최근 국고채 발행 실적과 수급 여건 등을 감안해 이같이 결정했다고 언급했다. 모집 방식 비경쟁 인수는 사전 공고된 금리로 국고채를 발행하는 방식이다. 한편 12월 국고채 발행 계획은 이달 26일 재경부 홈페이지를 통해 별도로 공지될 예정이다. 해당 내용은 손지현 기자가 속한 연합인포맥스를 통해 보도되었다.",
+        "sentences": [
+          "The Ministry of Finance and Economy announced on November 19 that it will not conduct non-competitive auction issuance via the recruitment method for Korea Treasury bonds this month.",
+          "The ministry stated that this decision took into account recent KTB issuance performance and overall supply-demand conditions in the market.",
+          "Non-competitive bidding through the recruitment method involves issuing Korea Treasury bonds at pre-announced interest rates.",
+          "Meanwhile, the issuance plan for Korea Treasury bonds for December will be separately announced on November 26 through the ministry's website.",
+          "The announcement was reported by Infomax with reporting by Son Ji-hyun."
+        ],
+        "sentences_ko": [
+          "재정경제부는 19일 이달에 모집 방식 국고채 발행을 하지 않는다고 밝혔다.",
+          "재경부는 최근 국고채 발행 실적과 수급 여건 등을 감안해 이같이 결정했다고 언급했다.",
+          "모집 방식 비경쟁 인수는 사전 공고된 금리로 국고채를 발행하는 방식이다.",
+          "한편 12월 국고채 발행 계획은 이달 26일 재경부 홈페이지를 통해 별도로 공지될 예정이다.",
+          "해당 내용은 손지현 기자가 속한 연합인포맥스를 통해 보도되었다."
+        ]
+      },
+      {
+        "id": "20261119174424626",
+        "published_at": "2026-11-19T17:44:23+09:00",
+        "source": "Infomax",
+        "title": "IRS Rates Fall Across the Curve on 19 November, Led by Longer Tenors",
+        "title_ko": "IRS 금리 전 구간 하락…장기물 위주 강세",
+        "summary": "Interest rate swap (IRS) rates fell across all tenors in the Seoul bond market on 19 November, with longer maturities showing the strongest gains. As of 5:27 pm, the 1-year IRS rate stood at 3.5975%, down 1.75bp from the previous trading day. The 2-year and 3-year rates fell 2.25bp and 3.00bp respectively, while the 5-year dropped 4.75bp to 3.7175% and the 10-year declined 5.50bp to 3.7500%. A bond dealer at a securities firm said swaps felt strong overall, noting that receivers in swaps are usually foreign investors, which appeared consistent with heavy foreign buying of KTB futures. Cross-currency swap (CRS) rates against SOFR rose at the short end but fell at medium and long tenors. The 1-year CRS rate rose 1.00bp to 3.3900%, while the 5-year fell 2.00bp to 3.2500% and the 10-year fell 2.00bp to 3.1250%. The inverted swap basis, the gap between CRS (SOFR) and IRS, narrowed across the curve, with the 1-year at -20.75bp and the 5-year at -46.75bp, both 2.75bp narrower.",
+        "summary_ko": "19일 서울 채권시장에서 금리스와프(IRS) 금리는 전 구간에서 하락하며 장기물이 특히 강세를 보였다. 오후 5시 27분 기준 1년 IRS 금리는 전 거래일 대비 1.75bp 하락한 3.5975%를 기록했다. 2년은 2.25bp, 3년은 3.00bp 내렸고 5년은 4.75bp 하락한 3.7175%, 10년은 5.50bp 하락한 3.7500%를 나타냈다. 증권사의 한 채권딜러는 전체적으로 스와프가 센 느낌이었다며, 스와프를 리시브하는 곳은 보통 외인이라 국채선물 외인 매수가 많았던 것과 일맥상통하는 것 같다고 설명했다. CRS(SOFR) 금리는 단기물은 상승했으나 중장기물은 하락세를 보였다. 1년 CRS 금리는 1.00bp 오른 3.3900%, 5년은 2.00bp 내린 3.2500%, 10년은 2.00bp 내린 3.1250%를 기록했다. CRS(SOFR)와 IRS 차이인 스왑 베이시스 역전 폭은 전 구간에서 축소돼 1년은 2.75bp 축소된 -20.75bp, 5년은 2.75bp 축소된 -46.75bp를 나타냈다.",
+        "sentences": [
+          "Interest rate swap (IRS) rates fell across all tenors in the Seoul bond market on 19 November, with longer maturities showing the strongest gains.",
+          "As of 5:27 pm, the 1-year IRS rate stood at 3.5975%, down 1.75bp from the previous trading day.",
+          "The 2-year and 3-year rates fell 2.25bp and 3.00bp respectively, while the 5-year dropped 4.75bp to 3.7175% and the 10-year declined 5.50bp to 3.7500%.",
+          "A bond dealer at a securities firm said swaps felt strong overall, noting that receivers in swaps are usually foreign investors, which appeared consistent with heavy foreign buying of KTB futures.",
+          "Cross-currency swap (CRS) rates against SOFR rose at the short end but fell at medium and long tenors.",
+          "The 1-year CRS rate rose 1.00bp to 3.3900%, while the 5-year fell 2.00bp to 3.2500% and the 10-year fell 2.00bp to 3.1250%.",
+          "The inverted swap basis, the gap between CRS (SOFR) and IRS, narrowed across the curve, with the 1-year at -20.75bp and the 5-year at -46.75bp, both 2.75bp narrower."
+        ],
+        "sentences_ko": [
+          "19일 서울 채권시장에서 금리스와프(IRS) 금리는 전 구간에서 하락하며 장기물이 특히 강세를 보였다.",
+          "오후 5시 27분 기준 1년 IRS 금리는 전 거래일 대비 1.75bp 하락한 3.5975%를 기록했다.",
+          "2년은 2.25bp, 3년은 3.00bp 내렸고 5년은 4.75bp 하락한 3.7175%, 10년은 5.50bp 하락한 3.7500%를 나타냈다.",
+          "증권사의 한 채권딜러는 전체적으로 스와프가 센 느낌이었다며, 스와프를 리시브하는 곳은 보통 외인이라 국채선물 외인 매수가 많았던 것과 일맥상통하는 것 같다고 설명했다.",
+          "CRS(SOFR) 금리는 단기물은 상승했으나 중장기물은 하락세를 보였다.",
+          "1년 CRS 금리는 1.00bp 오른 3.3900%, 5년은 2.00bp 내린 3.2500%, 10년은 2.00bp 내린 3.1250%를 기록했다.",
+          "CRS(SOFR)와 IRS 차이인 스왑 베이시스 역전 폭은 전 구간에서 축소돼 1년은 2.75bp 축소된 -20.75bp, 5년은 2.75bp 축소된 -46.75bp를 나타냈다."
+        ]
+      },
+      {
+        "id": "20261119082219327",
+        "published_at": "2026-11-19T08:22:18+09:00",
+        "source": "Infomax",
+        "title": "Foreign Investors Turn Net Sellers of KTBs as WGBI Inclusion Ends, Weakening Won-Support Flows",
+        "title_ko": "WGBI 편입 종료 후 외국인 국고채 순매도 전환…환율 하방 동력 약화 주목",
+        "summary": "After the phased inclusion of Korea Treasury bonds (KTBs) in the World Government Bond Index (WGBI) ended, foreign investors turned to net selling of KTBs, drawing attention to supply-and-demand changes in the Seoul foreign exchange market, Infomax reported on November 19. Foreigners sold a net around KRW 1.5 trillion of KTBs this month through the previous day, in contrast to net purchases of more than KRW 6.4 trillion in October. WGBI inclusion ran over eight months from April to November this year, with month-end rebalancing carried out eight times from end-March to end-October; during the inclusion period foreigners bought a net about KRW 50 trillion of KTBs, including over KRW 35 trillion from April to June. A dealer at a foreign bank said the month-end WGBI-related flows that had pushed the USD/KRW rate lower have weakened since inclusion effectively finished at end-October, and that with the 3-year KTB yield having fallen considerably, foreign cash bond buying could soften. An official said WGBI-related funds are expected to flow in even in November, noting bond investment flows affect FX supply and demand as much as equity flows. A dealer at a domestic commercial bank said WGBI-related flows continue to come steadily, mainly through major Japanese banks, making it hard to read the foreign net selling as passive-fund outflows. According to a State Street (SSBT) institutional investor survey, global institutions' equity allocation fell 0.1 percentage point m-m to 56.5% in October, with the risk appetite index at minus 0.09 for a second straight month, as they trimmed Korean and Taiwanese equity exposure, partly shifting proceeds into bonds. SSBT's Asia-Pacific macro strategist estimated the USD/KRW equilibrium level at about 1,330-1,350 and projected the rate to trade in a 1,285-1,425 range next year, rebounding gradually through year-end before falling in the first quarter on corporate tax-related dollar selling.",
+        "summary_ko": "세계국채지수(WGBI)에 대한 한국 국고채 단계적 편입이 마무리된 뒤 외국인이 국고채 순매도로 돌아서면서 서울 외환시장 수급 변화에 관심이 쏠린다고 연합인포맥스가 19일 보도했다. 외국인은 이달 들어 전일까지 국고채를 약 1조5천억원 순매도했으며, 지난 10월 6조4천억원 이상 순매수와 대조적이다. WGBI 편입은 올해 4월부터 11월까지 8개월간 진행됐고 지수 반영 월말 리밸런싱은 3월 말부터 10월 말까지 총 8차례 이뤄졌으며, 편입 기간 외국인 국고채 순매수는 약 50조원, 그중 4~6월에만 35조원 이상이었다. A외국계은행 딜러는 10월 말 편입이 사실상 마무리되며 월말마다 환율을 아래로 누르던 WGBI 관련 물량 동력이 약해졌고, 국고채 3년물 금리가 상당히 내려와 추가 하락 여력이 제한적이라는 인식도 있어 외국인 현물 채권 매수세가 약해질 가능성이 있다고 말했다. 당국 관계자는 11월에도 WGBI 자금 유입이 있을 것으로 보이며 채권자금이 주식자금 못지않게 환율 수급에 영향이 커 잘 살펴야 한다고 밝혔다. B시중은행 딜러는 WGBI 관련 자금이 주요 일본계 은행을 통해 지금도 꾸준히 나오고 있어 외국인 순매도를 패시브 자금 이탈로 해석하기 어렵다고 말했다. 스테이트스트리트(SSBT) 기관투자자 지표에 따르면 지난 10월 글로벌 기관투자자 주식 투자 비중은 전월 대비 0.1%포인트 하락한 56.5%였고 위험선호지수는 마이너스 0.09로 2개월 연속 음(-)권이며, 한국·대만 주식 비중을 줄이고 매도 자금 일부는 채권 등으로 이동한 것으로 분석됐다. SSBT 아시아·태평양 매크로 전략 최지욱 상무는 달러-원 환율 균형 수준을 1,330~1,350원으로 추정하고 내년 1,285~1,425원 범위를 예상하며, 연말까지 점진 반등 후 내년 1분기 법인세 관련 달러 매도로 하락할 것으로 전망했다.",
+        "sentences": [
+          "After the phased inclusion of Korea Treasury bonds (KTBs) in the World Government Bond Index (WGBI) ended, foreign investors turned to net selling of KTBs, drawing attention to supply-and-demand changes in the Seoul foreign exchange market, Infomax reported on November 19.",
+          "Foreigners sold a net around KRW 1.5 trillion of KTBs this month through the previous day, in contrast to net purchases of more than KRW 6.4 trillion in October.",
+          "WGBI inclusion ran over eight months from April to November this year, with month-end rebalancing carried out eight times from end-March to end-October; during the inclusion period foreigners bought a net about KRW 50 trillion of KTBs, including over KRW 35 trillion from April to June.",
+          "A dealer at a foreign bank said the month-end WGBI-related flows that had pushed the USD/KRW rate lower have weakened since inclusion effectively finished at end-October, and that with the 3-year KTB yield having fallen considerably, foreign cash bond buying could soften.",
+          "An official said WGBI-related funds are expected to flow in even in November, noting bond investment flows affect FX supply and demand as much as equity flows.",
+          "A dealer at a domestic commercial bank said WGBI-related flows continue to come steadily, mainly through major Japanese banks, making it hard to read the foreign net selling as passive-fund outflows.",
+          "According to a State Street (SSBT) institutional investor survey, global institutions' equity allocation fell 0.1 percentage point m-m to 56.5% in October, with the risk appetite index at minus 0.09 for a second straight month, as they trimmed Korean and Taiwanese equity exposure, partly shifting proceeds into bonds.",
+          "SSBT's Asia-Pacific macro strategist estimated the USD/KRW equilibrium level at about 1,330-1,350 and projected the rate to trade in a 1,285-1,425 range next year, rebounding gradually through year-end before falling in the first quarter on corporate tax-related dollar selling."
+        ],
+        "sentences_ko": [
+          "세계국채지수(WGBI)에 대한 한국 국고채 단계적 편입이 마무리된 뒤 외국인이 국고채 순매도로 돌아서면서 서울 외환시장 수급 변화에 관심이 쏠린다고 연합인포맥스가 19일 보도했다.",
+          "외국인은 이달 들어 전일까지 국고채를 약 1조5천억원 순매도했으며, 지난 10월 6조4천억원 이상 순매수와 대조적이다.",
+          "WGBI 편입은 올해 4월부터 11월까지 8개월간 진행됐고 지수 반영 월말 리밸런싱은 3월 말부터 10월 말까지 총 8차례 이뤄졌으며, 편입 기간 외국인 국고채 순매수는 약 50조원, 그중 4~6월에만 35조원 이상이었다.",
+          "A외국계은행 딜러는 10월 말 편입이 사실상 마무리되며 월말마다 환율을 아래로 누르던 WGBI 관련 물량 동력이 약해졌고, 국고채 3년물 금리가 상당히 내려와 추가 하락 여력이 제한적이라는 인식도 있어 외국인 현물 채권 매수세가 약해질 가능성이 있다고 말했다.",
+          "당국 관계자는 11월에도 WGBI 자금 유입이 있을 것으로 보이며 채권자금이 주식자금 못지않게 환율 수급에 영향이 커 잘 살펴야 한다고 밝혔다.",
+          "B시중은행 딜러는 WGBI 관련 자금이 주요 일본계 은행을 통해 지금도 꾸준히 나오고 있어 외국인 순매도를 패시브 자금 이탈로 해석하기 어렵다고 말했다.",
+          "스테이트스트리트(SSBT) 기관투자자 지표에 따르면 지난 10월 글로벌 기관투자자 주식 투자 비중은 전월 대비 0.1%포인트 하락한 56.5%였고 위험선호지수는 마이너스 0.09로 2개월 연속 음(-)권이며, 한국·대만 주식 비중을 줄이고 매도 자금 일부는 채권 등으로 이동한 것으로 분석됐다.",
+          "SSBT 아시아·태평양 매크로 전략 최지욱 상무는 달러-원 환율 균형 수준을 1,330~1,350원으로 추정하고 내년 1,285~1,425원 범위를 예상하며, 연말까지 점진 반등 후 내년 1분기 법인세 관련 달러 매도로 하락할 것으로 전망했다."
+        ]
+      }
+    ]
+  },
   "kofia": {
     "date": "2026-11-19",
     "source": "KOFIA",
