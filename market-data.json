@@ -2261,6 +2261,116 @@
     "sessions": 5,
     "ON_TN_change": "n.m."
   },
+  "news": {
+    "generated_at": "2026-11-21T04:34:09.066938+09:00",
+    "window_start": "2026-11-20T04:30:00+09:00",
+    "window_end": "2026-11-21T04:30:00+09:00",
+    "headline_coverage": "complete",
+    "items": [
+      {
+        "id": "20261120165542231",
+        "published_at": "2026-11-20T16:55:41+09:00",
+        "source": "Infomax",
+        "title": "Korea Treasury Bond yields plunge sharply as domestic equities drop on artificial intelligence investment concerns",
+        "title_ko": "인공지능 투자 우려에 따른 국내 주가 급락으로 국고채 금리 급락",
+        "summary": "Korea Treasury Bond yields plummeted on November 20 as domestic equities experienced steep downward adjustments driven by artificial intelligence investment concerns. The final quotation yield for three-year KTBs dropped 7.4 basis points to 3.642%, while the ten-year yield fell 8.5 basis points to 3.857%. Both the three-year and ten-year yields fell below the 3.70% and 3.90% thresholds respectively for the first time since November 10. In the futures market, three-year KTB futures jumped 24 ticks to 103.79 with foreigners net buying approximately 13,000 contracts, and ten-year KTB futures rose 73 ticks to 109.43. KTB yields opened slightly lower in the morning following risk-off sentiment in Wall Street and overnight declines in U.S. Treasury yields, later extending losses as domestic indices triggered sidecars amid sharp stock declines. During the session, the one-year foreign exchange stabilization bond was auctioned at 3.750% with 1.29 trillion won awarded out of 2.19 trillion won in bids.",
+        "summary_ko": "20일 인공지능 투자 우려로 국내 주가가 가파른 조정을 받으면서 국고채 금리가 급락했다. 국고채 3년물 최종호가수익률은 7.4bp 내려 3.642%를 기록했고, 10년물은 8.5bp 하락한 3.857%를 나타냈다. 3년물과 10년물 최종호가수익률이 각각 3.70%대와 3.90%대를 밑돌은 것은 지난 10일 이후 처음이다. 선물 시장에서는 3년 국채선물이 24틱 오른 103.79를 기록했고 외국인이 약 1만3천계약을 순매수했으며, 10년 국채선물은 73틱 높아진 109.43을 기록했다. 뉴욕증시 위험회피 심리와 미국 국채 금리 하락을 반영해 약보합세로 출발한 국고채 금리는 주가 급락으로 양시장 사이드카가 발동되면서 장중 낙폭을 확대했다. 장중 원화 외평채 1년물은 2조1천900억원이 응찰한 가운데 3.750%에 1조2천900억원이 낙찰됐다.",
+        "sentences": [
+          "Korea Treasury Bond yields plummeted on November 20 as domestic equities experienced steep downward adjustments driven by artificial intelligence investment concerns.",
+          "The final quotation yield for three-year KTBs dropped 7.4 basis points to 3.642%, while the ten-year yield fell 8.5 basis points to 3.857%.",
+          "Both the three-year and ten-year yields fell below the 3.70% and 3.90% thresholds respectively for the first time since November 10.",
+          "In the futures market, three-year KTB futures jumped 24 ticks to 103.79 with foreigners net buying approximately 13,000 contracts, and ten-year KTB futures rose 73 ticks to 109.43.",
+          "KTB yields opened slightly lower in the morning following risk-off sentiment in Wall Street and overnight declines in U.S. Treasury yields, later extending losses as domestic indices triggered sidecars amid sharp stock declines.",
+          "During the session, the one-year foreign exchange stabilization bond was auctioned at 3.750% with 1.29 trillion won awarded out of 2.19 trillion won in bids."
+        ],
+        "sentences_ko": [
+          "20일 인공지능 투자 우려로 국내 주가가 가파른 조정을 받으면서 국고채 금리가 급락했다.",
+          "국고채 3년물 최종호가수익률은 7.4bp 내려 3.642%를 기록했고, 10년물은 8.5bp 하락한 3.857%를 나타냈다.",
+          "3년물과 10년물 최종호가수익률이 각각 3.70%대와 3.90%대를 밑돌은 것은 지난 10일 이후 처음이다.",
+          "선물 시장에서는 3년 국채선물이 24틱 오른 103.79를 기록했고 외국인이 약 1만3천계약을 순매수했으며, 10년 국채선물은 73틱 높아진 109.43을 기록했다.",
+          "뉴욕증시 위험회피 심리와 미국 국채 금리 하락을 반영해 약보합세로 출발한 국고채 금리는 주가 급락으로 양시장 사이드카가 발동되면서 장중 낙폭을 확대했다.",
+          "장중 원화 외평채 1년물은 2조1천900억원이 응찰한 가운데 3.750%에 1조2천900억원이 낙찰됐다."
+        ]
+      },
+      {
+        "id": "20261120135519513",
+        "published_at": "2026-11-20T13:55:18+09:00",
+        "source": "Infomax",
+        "title": "10-year KTB futures surge nearly 60 ticks amid equity plunge and sell sidecars",
+        "title_ko": "10년 국채선물 60틱 가까이 급등…코스피 급락에 매도 사이드카",
+        "summary": "Korea Treasury bond (KTB) futures and cash yields rallied sharply during the intraday session as domestic equities plummeted and triggered sell sidecars on both the Kospi and Kosdaq markets. At 1:50 PM, 3-year KTB futures rose 18 ticks to 103.73 while 10-year KTB futures climbed 57 ticks to 109.27 according to Infomax data. Foreign investors net-purchased 10,024 contracts of 3-year KTB futures and 178 contracts of 10-year KTB futures. The on-the-run 3-year KTB yield fell 6.1 bps to 3.655% while the 10-year yield dropped nearly 7 bps as the Kospi and Kosdaq indexes both extended their losses to over 5%. A bank bond dealer noted that the market remains closely linked to equities, with growing doubts over the speed and breadth of the semiconductor boom's economic spillover amid shrinking consumer capacity. The same dealer added that sentiment could persist ahead of the upcoming Bank of Korea Monetary Policy Board meeting next week, supported by solid credit supply and reduced issuance, targeting a short-term 3-year yield floor of 3.55% to 3.60%.",
+        "summary_ko": "국내 증시가 급락하고 코스피와 코스닥 시장 모두에서 매도 사이드카가 발동되면서 장중 국고채 선물과 현물 금리가 큰 폭으로 강세 전환했다. 연합인포맥스에 따르면 오후 1시 50분 기준 3년 국채선물은 18틱 오른 103.73, 10년 국채선물은 57틱 상승한 109.27에 거래됐다. 외국인 투자자는 3년 국채선물 1만24계약, 10년 국채선물 178계약을 각각 순매수했다. 코스피와 코스닥 지수가 5%대 낙폭을 기록함에 따라 3년 지표물 금리는 6.1bp 하락한 3.655%, 10년물 금리는 7bp 가까이 하락했다. 한 은행 채권딜러는 최근 시장이 증시와 연동되어 움직이고 있으며, 주가 급락과 소비 여력 축소 속에서 반도체 호황의 경제적 파급 효과에 대한 의구심이 커지고 있다고 전했다. 해당 딜러는 크레디트 수급이 양호하고 발행이 줄어든 가운데 다음 주 금융통화위원회까지 이러한 흐름이 이어질 것으로 보이며, 단기적으로 3년물 금리 하방을 3.55~3.60% 수준으로 보고 있다고 덧붙였다.",
+        "sentences": [
+          "Korea Treasury bond (KTB) futures and cash yields rallied sharply during the intraday session as domestic equities plummeted and triggered sell sidecars on both the Kospi and Kosdaq markets.",
+          "At 1:50 PM, 3-year KTB futures rose 18 ticks to 103.73 while 10-year KTB futures climbed 57 ticks to 109.27 according to Infomax data.",
+          "Foreign investors net-purchased 10,024 contracts of 3-year KTB futures and 178 contracts of 10-year KTB futures.",
+          "The on-the-run 3-year KTB yield fell 6.1 bps to 3.655% while the 10-year yield dropped nearly 7 bps as the Kospi and Kosdaq indexes both extended their losses to over 5%.",
+          "A bank bond dealer noted that the market remains closely linked to equities, with growing doubts over the speed and breadth of the semiconductor boom's economic spillover amid shrinking consumer capacity.",
+          "The same dealer added that sentiment could persist ahead of the upcoming Bank of Korea Monetary Policy Board meeting next week, supported by solid credit supply and reduced issuance, targeting a short-term 3-year yield floor of 3.55% to 3.60%."
+        ],
+        "sentences_ko": [
+          "국내 증시가 급락하고 코스피와 코스닥 시장 모두에서 매도 사이드카가 발동되면서 장중 국고채 선물과 현물 금리가 큰 폭으로 강세 전환했다.",
+          "연합인포맥스에 따르면 오후 1시 50분 기준 3년 국채선물은 18틱 오른 103.73, 10년 국채선물은 57틱 상승한 109.27에 거래됐다.",
+          "외국인 투자자는 3년 국채선물 1만24계약, 10년 국채선물 178계약을 각각 순매수했다.",
+          "코스피와 코스닥 지수가 5%대 낙폭을 기록함에 따라 3년 지표물 금리는 6.1bp 하락한 3.655%, 10년물 금리는 7bp 가까이 하락했다.",
+          "한 은행 채권딜러는 최근 시장이 증시와 연동되어 움직이고 있으며, 주가 급락과 소비 여력 축소 속에서 반도체 호황의 경제적 파급 효과에 대한 의구심이 커지고 있다고 전했다.",
+          "해당 딜러는 크레디트 수급이 양호하고 발행이 줄어든 가운데 다음 주 금융통화위원회까지 이러한 흐름이 이어질 것으로 보이며, 단기적으로 3년물 금리 하방을 3.55~3.60% 수준으로 보고 있다고 덧붙였다."
+        ]
+      },
+      {
+        "id": "20261120080003293",
+        "published_at": "2026-11-20T08:00:02+09:00",
+        "source": "Infomax",
+        "title": "Most Experts Surveyed by Infomax Expect BOK to Raise Base Rate to 3.25% in November",
+        "title_ko": "인포맥스 설문조사: 전문가 대다수 11월 금통위 기준금리 3.25% 인상 전망",
+        "summary": "A survey of 19 macroeconomic experts conducted by Infomax showed that 18 expect the Bank of Korea to raise the base rate to 3.25% at its upcoming monetary policy meeting. Park Seok-gil of JPMorgan stated that the tightening stance will likely continue until there is confidence inflation will stabilize at target levels. Gong Dong-rak of Daishin Securities cited real economic conditions and inflation still exceeding targets as reasons for an expected rate hike. Kim Sung-soo of Hanwha Investment & Securities pointed to potential upward inflation risks from public utility adjustments alongside unfavorable metropolitan housing prices and household debt. Lee Jae-hyung of Yuanta Securities presented a dissenting view, predicting a rate freeze due to heightened financial market volatility and macroeconomic uncertainty. Regarding the path following November, 15 of the 19 surveyed experts projected the base rate would rise further to 3.50% in the first quarter of next year. Park Jun-woo of Hana Securities estimated the median of the upcoming dot plot for the next six months would stand at 3.5%.",
+        "summary_ko": "연합인포맥스가 국내외 거시경제 전문가 19명을 대상으로 실시한 설문조사 결과, 18명은 한국은행이 다가올 금융통화위원회에서 기준금리를 3.25%로 인상할 것으로 예상했다. 박석길 JP모건 연구원은 인플레이션이 목표 수준에 안정될 것이라는 확신이 들 때까지 긴축 기조가 유지될 것이라고 밝혔다. 공동락 대신증권 연구원은 실물 경제 여건과 여전히 목표치를 웃도는 물가 여건을 금리 인상 예상의 근거로 꼽았다. 김성수 한화투자증권 연구원은 수도권 부동산 가격과 가계대출 상황이 여전히 비우호적인 가운데 공공요금 조정 등이 잠재적 물가 상승 리스크라고 지적했다. 이재형 유안타증권 연구원은 금융시장 변동성과 거시경제 불확실성 확대 등을 이유로 금리 동결 의견을 제시했다. 11월 이후의 경로와 관련해서는 설문 응답자 19명 중 15명이 내년 1분기 기준금리가 3.50%로 추가 인상될 것으로 전망했다. 박준우 하나증권 연구원은 향후 6개월 점도표의 중앙값이 3.5%를 기록할 것으로 예상했다.",
+        "sentences": [
+          "A survey of 19 macroeconomic experts conducted by Infomax showed that 18 expect the Bank of Korea to raise the base rate to 3.25% at its upcoming monetary policy meeting.",
+          "Park Seok-gil of JPMorgan stated that the tightening stance will likely continue until there is confidence inflation will stabilize at target levels.",
+          "Gong Dong-rak of Daishin Securities cited real economic conditions and inflation still exceeding targets as reasons for an expected rate hike.",
+          "Kim Sung-soo of Hanwha Investment & Securities pointed to potential upward inflation risks from public utility adjustments alongside unfavorable metropolitan housing prices and household debt.",
+          "Lee Jae-hyung of Yuanta Securities presented a dissenting view, predicting a rate freeze due to heightened financial market volatility and macroeconomic uncertainty.",
+          "Regarding the path following November, 15 of the 19 surveyed experts projected the base rate would rise further to 3.50% in the first quarter of next year.",
+          "Park Jun-woo of Hana Securities estimated the median of the upcoming dot plot for the next six months would stand at 3.5%."
+        ],
+        "sentences_ko": [
+          "연합인포맥스가 국내외 거시경제 전문가 19명을 대상으로 실시한 설문조사 결과, 18명은 한국은행이 다가올 금융통화위원회에서 기준금리를 3.25%로 인상할 것으로 예상했다.",
+          "박석길 JP모건 연구원은 인플레이션이 목표 수준에 안정될 것이라는 확신이 들 때까지 긴축 기조가 유지될 것이라고 밝혔다.",
+          "공동락 대신증권 연구원은 실물 경제 여건과 여전히 목표치를 웃도는 물가 여건을 금리 인상 예상의 근거로 꼽았다.",
+          "김성수 한화투자증권 연구원은 수도권 부동산 가격과 가계대출 상황이 여전히 비우호적인 가운데 공공요금 조정 등이 잠재적 물가 상승 리스크라고 지적했다.",
+          "이재형 유안타증권 연구원은 금융시장 변동성과 거시경제 불확실성 확대 등을 이유로 금리 동결 의견을 제시했다.",
+          "11월 이후의 경로와 관련해서는 설문 응답자 19명 중 15명이 내년 1분기 기준금리가 3.50%로 추가 인상될 것으로 전망했다.",
+          "박준우 하나증권 연구원은 향후 6개월 점도표의 중앙값이 3.5%를 기록할 것으로 예상했다."
+        ]
+      },
+      {
+        "id": "20261120060011096",
+        "published_at": "2026-11-20T06:00:10+09:00",
+        "source": "Infomax",
+        "title": "South Korea's October Producer Price Index Falls 0.1% M-m on Agricultural Drops",
+        "title_ko": "한국 10월 생산자물가, 농림수산품 하락에 전월비 0.1% 하락",
+        "summary": "The Bank of Korea reported that South Korea's producer price index for October fell 0.1% from the previous month, reversing after increases in August and September. On a y-y basis, the producer price index rose 7.2%, decelerating from the 7.6% increase recorded in September due to higher chemical and petroleum product prices. The drop was primarily driven by an 8.3% m-m decline in agricultural, forestry, and marine products, with agricultural goods dropping 11.8% and livestock falling 7.3%. Manufactured goods rose 0.3% m-m, while electric power, gas, water, and waste services increased by 0.2%. The domestic supply price index rose 0.7% m-m, supported by a 7.3% surge in imported raw material prices affected by delayed reflections of September international oil price gains. The Bank of Korea noted that if agricultural, forestry, and marine product prices had remained flat, the producer price index would have risen 0.2% m-m, driven mainly by raw material cost pass-throughs into manufactured goods.",
+        "summary_ko": "한국은행은 10월 생산자물가지수가 전월 대비 0.1% 하락해 8월과 9월의 상승세에서 다시 하락세로 돌아섰다고 발표했다. 전년 동월 대비 생산자물가지수는 7.2% 상승하여, 화학 및 석유제품 가격 상승의 영향으로 9월의 7.6% 상승보다 상승세가 둔화했다. 이번 하락은 주로 농림수산품이 전월 대비 8.3% 하락한 데 기인하며, 농산물이 11.8%, 축산물이 7.3% 내렸다. 공산품은 전월 대비 0.3% 올랐고 전력, 가스, 수도 및 폐기물 서비스는 0.2% 상승했다. 국내공급물가지수는 9월 국제유가 상승분이 시차를 두고 반영된 수입 원재료 가격의 7.3% 급등에 힘입어 전월 대비 0.7% 상승했다. 한국은행은 농림수산물 가격 변동이 없었다고 가정할 경우 주로 원자재 가격 상승분이 공산품에 반영되면서 생산자물가가 전월 대비 0.2% 상승했을 것이라고 설명했다.",
+        "sentences": [
+          "The Bank of Korea reported that South Korea's producer price index for October fell 0.1% from the previous month, reversing after increases in August and September.",
+          "On a y-y basis, the producer price index rose 7.2%, decelerating from the 7.6% increase recorded in September due to higher chemical and petroleum product prices.",
+          "The drop was primarily driven by an 8.3% m-m decline in agricultural, forestry, and marine products, with agricultural goods dropping 11.8% and livestock falling 7.3%.",
+          "Manufactured goods rose 0.3% m-m, while electric power, gas, water, and waste services increased by 0.2%.",
+          "The domestic supply price index rose 0.7% m-m, supported by a 7.3% surge in imported raw material prices affected by delayed reflections of September international oil price gains.",
+          "The Bank of Korea noted that if agricultural, forestry, and marine product prices had remained flat, the producer price index would have risen 0.2% m-m, driven mainly by raw material cost pass-throughs into manufactured goods."
+        ],
+        "sentences_ko": [
+          "한국은행은 10월 생산자물가지수가 전월 대비 0.1% 하락해 8월과 9월의 상승세에서 다시 하락세로 돌아섰다고 발표했다.",
+          "전년 동월 대비 생산자물가지수는 7.2% 상승하여, 화학 및 석유제품 가격 상승의 영향으로 9월의 7.6% 상승보다 상승세가 둔화했다.",
+          "이번 하락은 주로 농림수산품이 전월 대비 8.3% 하락한 데 기인하며, 농산물이 11.8%, 축산물이 7.3% 내렸다.",
+          "공산품은 전월 대비 0.3% 올랐고 전력, 가스, 수도 및 폐기물 서비스는 0.2% 상승했다.",
+          "국내공급물가지수는 9월 국제유가 상승분이 시차를 두고 반영된 수입 원재료 가격의 7.3% 급등에 힘입어 전월 대비 0.7% 상승했다.",
+          "한국은행은 농림수산물 가격 변동이 없었다고 가정할 경우 주로 원자재 가격 상승분이 공산품에 반영되면서 생산자물가가 전월 대비 0.2% 상승했을 것이라고 설명했다."
+        ]
+      }
+    ]
+  },
   "kofia": {
     "date": "2026-11-20",
     "source": "KOFIA",
