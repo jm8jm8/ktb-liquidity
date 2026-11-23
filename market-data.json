@@ -2261,6 +2261,151 @@
     "sessions": 5,
     "ON_TN_change": "n.m."
   },
+  "news": {
+    "generated_at": "2026-11-24T04:36:05.342588+09:00",
+    "window_start": "2026-11-23T04:30:00+09:00",
+    "window_end": "2026-11-24T04:30:00+09:00",
+    "headline_coverage": "complete",
+    "items": [
+      {
+        "id": "20261123170006585",
+        "published_at": "2026-11-23T17:00:05+09:00",
+        "source": "Infomax",
+        "title": "Korean Treasury Yields Fall as AI-Investment Worry Extends Stock Declines",
+        "title_ko": "AI 투자 우려에 주가 조정 지속, 국고채 금리 하락",
+        "summary": "On November 23, Korea Treasury bond yields closed lower as risk aversion driven by artificial intelligence investment concerns continued to weigh on semiconductor share prices. The final quoted yield on the 3-year KTB fell 1.9bp to 3.623%, while the 10-year KTB yield declined 3.0bp to 3.827%. The 3-year KTB futures rose 6 ticks to 103.85, with foreigners net buying about 8,400 contracts and securities firms selling around 8,800 contracts. The 10-year KTB futures gained 29 ticks to 109.72, with banks buying about 5,200 contracts and securities firms selling around 5,700 contracts. The prior session's sharp US equity slide boosted safe-asset demand: the Dow Jones Industrial Average fell 1.93%, the S&P 500 dropped 3.70%, the Nasdaq Composite plunged 5.28%, and the Philadelphia Semiconductor Index tumbled nearly 11%, while US 2- and 10-year yields fell 11.70bp and 10.20bp. Japan's bond market was closed for Labor Thanksgiving Day, so US Treasury yields were little moved in Asian trading, and US index futures rebounded, limiting the rally in Korean bonds. Customs data showed exports of $77.4 billion for November 1-20, up 101.5% year on year and a record for the period. Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il told a press briefing in Sejong that growth in the high-3% range appears possible this year if current trends continue.",
+        "summary_ko": "23일 국고채 금리는 인공지능(AI) 투자 우려에 따른 반도체 주가 조정이 이어지면서 위험 회피 심리 속에 마감에서 하락했다. 국고채 3년물 최종호가 수익률은 전장 대비 1.9bp 하락한 3.623%였고, 10년물은 3.0bp 내린 3.827%를 나타냈다. 3년 국채선물은 6틱 상승한 103.85를 기록했으며, 외국인이 약 8천400계약 순매수하고 금융투자가 8천800여 계약을 팔았다. 10년 국채선물은 29틱 오른 109.72였으며, 은행이 약 5천200계약을 사들이고 금융투자가 약 5천700계약을 팔았다. 전 거래일 뉴욕증시 급락이 안전자산 선호를 강화했다: 다우존스30산업평균지수는 1.93%, S&P500지수는 3.70%, 나스닥 종합지수는 5.28% 하락했고 필라델피아 반도체지수는 11% 가까이 폭락했으며, 미국 2년·10년 금리는 각각 11.70bp와 10.20bp 급락했다. 일본 채권시장은 근로 감사의 날로 휴장해 아시아장에서 미 국채 금리는 움직이지 않았고, 미국 주가지수 선물 반등으로 한국 채권시장의 강세 폭은 제한됐다. 관세청 집계에 따르면 이달 1~20일 수출은 774억달러로 전년 동기 대비 101.5% 증가하며 역대 같은 기준 최대 규모였다. 이형일 부총리 겸 재정경제부 장관은 정부세종청사 기자간담회에서 올해 성장률과 관련 \"현재 추세라면 3%대 후반 성장도 가능할 것으로 보인다\"고 말했다.",
+        "sentences": [
+          "On November 23, Korea Treasury bond yields closed lower as risk aversion driven by artificial intelligence investment concerns continued to weigh on semiconductor share prices.",
+          "The final quoted yield on the 3-year KTB fell 1.9bp to 3.623%, while the 10-year KTB yield declined 3.0bp to 3.827%.",
+          "The 3-year KTB futures rose 6 ticks to 103.85, with foreigners net buying about 8,400 contracts and securities firms selling around 8,800 contracts.",
+          "The 10-year KTB futures gained 29 ticks to 109.72, with banks buying about 5,200 contracts and securities firms selling around 5,700 contracts.",
+          "The prior session's sharp US equity slide boosted safe-asset demand: the Dow Jones Industrial Average fell 1.93%, the S&P 500 dropped 3.70%, the Nasdaq Composite plunged 5.28%, and the Philadelphia Semiconductor Index tumbled nearly 11%, while US 2- and 10-year yields fell 11.70bp and 10.20bp.",
+          "Japan's bond market was closed for Labor Thanksgiving Day, so US Treasury yields were little moved in Asian trading, and US index futures rebounded, limiting the rally in Korean bonds.",
+          "Customs data showed exports of $77.4 billion for November 1-20, up 101.5% year on year and a record for the period.",
+          "Deputy Prime Minister and Minister of Finance and Economy Lee Hyung-il told a press briefing in Sejong that growth in the high-3% range appears possible this year if current trends continue."
+        ],
+        "sentences_ko": [
+          "23일 국고채 금리는 인공지능(AI) 투자 우려에 따른 반도체 주가 조정이 이어지면서 위험 회피 심리 속에 마감에서 하락했다.",
+          "국고채 3년물 최종호가 수익률은 전장 대비 1.9bp 하락한 3.623%였고, 10년물은 3.0bp 내린 3.827%를 나타냈다.",
+          "3년 국채선물은 6틱 상승한 103.85를 기록했으며, 외국인이 약 8천400계약 순매수하고 금융투자가 8천800여 계약을 팔았다.",
+          "10년 국채선물은 29틱 오른 109.72였으며, 은행이 약 5천200계약을 사들이고 금융투자가 약 5천700계약을 팔았다.",
+          "전 거래일 뉴욕증시 급락이 안전자산 선호를 강화했다: 다우존스30산업평균지수는 1.93%, S&P500지수는 3.70%, 나스닥 종합지수는 5.28% 하락했고 필라델피아 반도체지수는 11% 가까이 폭락했으며, 미국 2년·10년 금리는 각각 11.70bp와 10.20bp 급락했다.",
+          "일본 채권시장은 근로 감사의 날로 휴장해 아시아장에서 미 국채 금리는 움직이지 않았고, 미국 주가지수 선물 반등으로 한국 채권시장의 강세 폭은 제한됐다.",
+          "관세청 집계에 따르면 이달 1~20일 수출은 774억달러로 전년 동기 대비 101.5% 증가하며 역대 같은 기준 최대 규모였다.",
+          "이형일 부총리 겸 재정경제부 장관은 정부세종청사 기자간담회에서 올해 성장률과 관련 \"현재 추세라면 3%대 후반 성장도 가능할 것으로 보인다\"고 말했다."
+        ]
+      },
+      {
+        "id": "20261123113837022",
+        "published_at": "2026-11-23T11:38:36+09:00",
+        "source": "Infomax",
+        "title": "5-Year KTB Auction Draws 6.859 Trillion Won in Bids, 2.300 Trillion Won Sold at 3.715%",
+        "title_ko": "국고 5년 3.715%에 2조3000억원 낙찰…응찰 6조8590억원",
+        "summary": "At an auction on 23 November 2026, 2.300 trillion won of 5-year Korea Treasury bonds (KTBs) were sold, Infomax reported. The 5-year line KTB04125-3109 carried an issue date of 10 September 2026. Bidding took place between 10:40 and 11:00 on 23 November 2026. Total bids reached 6.859 trillion won, a bid-to-cover ratio of 298.2%, with tendered yields ranging from 3.685% to 3.755%. The lowest, highest and weighted-average accepted yields were all 3.715%. The partial acceptance rate was 18.1%. The source does not name the authority conducting the auction.",
+        "summary_ko": "연합인포맥스 보도에 따르면 2026년 11월 23일 입찰에서 5년물 국고채(KTB) 2조3000억원이 낙찰됐다. 낙찰 종목은 국고04125-3109로 발행일은 2026년 9월 10일이다. 입찰은 2026년 11월 23일 10시 40분부터 11시까지 진행됐다. 총 응찰금액은 6조8590억원으로 응찰률은 298.2%였고, 응찰금리는 3.685%~3.755%였다. 최저낙찰금리, 최고낙찰금리, 가중평균낙찰금리는 모두 3.715%였다. 부분낙찰률은 18.1%였다. 출처는 입찰 주관 기관을 명시하지 않는다.",
+        "sentences": [
+          "At an auction on 23 November 2026, 2.300 trillion won of 5-year Korea Treasury bonds (KTBs) were sold, Infomax reported.",
+          "The 5-year line KTB04125-3109 carried an issue date of 10 September 2026.",
+          "Bidding took place between 10:40 and 11:00 on 23 November 2026.",
+          "Total bids reached 6.859 trillion won, a bid-to-cover ratio of 298.2%, with tendered yields ranging from 3.685% to 3.755%.",
+          "The lowest, highest and weighted-average accepted yields were all 3.715%.",
+          "The partial acceptance rate was 18.1%.",
+          "The source does not name the authority conducting the auction."
+        ],
+        "sentences_ko": [
+          "연합인포맥스 보도에 따르면 2026년 11월 23일 입찰에서 5년물 국고채(KTB) 2조3000억원이 낙찰됐다.",
+          "낙찰 종목은 국고04125-3109로 발행일은 2026년 9월 10일이다.",
+          "입찰은 2026년 11월 23일 10시 40분부터 11시까지 진행됐다.",
+          "총 응찰금액은 6조8590억원으로 응찰률은 298.2%였고, 응찰금리는 3.685%~3.755%였다.",
+          "최저낙찰금리, 최고낙찰금리, 가중평균낙찰금리는 모두 3.715%였다.",
+          "부분낙찰률은 18.1%였다.",
+          "출처는 입찰 주관 기관을 명시하지 않는다."
+        ]
+      },
+      {
+        "id": "20261123170049970",
+        "published_at": "2026-11-23T17:00:49+09:00",
+        "source": "Infomax",
+        "title": "IRS rates fall as caution prevails ahead of BOK rate decision",
+        "title_ko": "금통위 앞두고 신중한 분위기 속 IRS 금리 하락",
+        "summary": "Interest rate swap (IRS) rates fell in Seoul on 23 November, with the 1-year IRS rate at 3.5450% as of 4:30 pm, down 1.00bp from the previous trading day. The 3-year and 5-year IRS rates declined by 2.75bp and 3.25bp respectively. A participant at a foreign institution described the market as quiet, saying foreigners were inclined to hold some bond positions on AI investment concerns but were not adding further, citing level burden. Cross-currency swap (CRS) rates also fell, with the 1-year down 1.50bp and the 3-year, 5-year and 10-year each down 6.00bp. The inversion width of the swap basis, the gap between CRS(SOFR) and IRS, widened, increasing 0.50bp for the 1-year and 2.75bp for the 5-year. The moves came ahead of a Bank of Korea Monetary Policy Committee meeting, with market participants cautious.",
+        "summary_ko": "23일 서울 채권시장에서 금리스왑(IRS) 금리가 하락했으며, 오후 4시 30분 기준 1년물 IRS 금리는 전 거래일 대비 1.00bp 내린 3.5450%를 기록했다. 3년물과 5년물 IRS 금리는 각각 2.75bp, 3.25bp 하락했다. 외국계 기관의 한 참가자는 시장이 조용했다며, AI 투자 우려에 외국인이 채권을 어느 정도 보유하려는 분위기이지만 레벨 부담 때문에 포지션을 더 늘리지 않고 있다고 말했다. 통화스왑(CRS) 금리도 내려 1년물은 1.50bp 하락했고 3년물, 5년물, 10년물은 각각 6.00bp씩 내렸다. CRS(SOFR)와 IRS 차이인 스왑 베이시스 역전 폭은 확대되어 1년물은 0.50bp, 5년물은 2.75bp 커졌다. 이러한 움직임은 한국은행 금통위를 앞두고 시장 참가자들이 신중한 가운데 나타났다.",
+        "sentences": [
+          "Interest rate swap (IRS) rates fell in Seoul on 23 November, with the 1-year IRS rate at 3.5450% as of 4:30 pm, down 1.00bp from the previous trading day.",
+          "The 3-year and 5-year IRS rates declined by 2.75bp and 3.25bp respectively.",
+          "A participant at a foreign institution described the market as quiet, saying foreigners were inclined to hold some bond positions on AI investment concerns but were not adding further, citing level burden.",
+          "Cross-currency swap (CRS) rates also fell, with the 1-year down 1.50bp and the 3-year, 5-year and 10-year each down 6.00bp.",
+          "The inversion width of the swap basis, the gap between CRS(SOFR) and IRS, widened, increasing 0.50bp for the 1-year and 2.75bp for the 5-year.",
+          "The moves came ahead of a Bank of Korea Monetary Policy Committee meeting, with market participants cautious."
+        ],
+        "sentences_ko": [
+          "23일 서울 채권시장에서 금리스왑(IRS) 금리가 하락했으며, 오후 4시 30분 기준 1년물 IRS 금리는 전 거래일 대비 1.00bp 내린 3.5450%를 기록했다.",
+          "3년물과 5년물 IRS 금리는 각각 2.75bp, 3.25bp 하락했다.",
+          "외국계 기관의 한 참가자는 시장이 조용했다며, AI 투자 우려에 외국인이 채권을 어느 정도 보유하려는 분위기이지만 레벨 부담 때문에 포지션을 더 늘리지 않고 있다고 말했다.",
+          "통화스왑(CRS) 금리도 내려 1년물은 1.50bp 하락했고 3년물, 5년물, 10년물은 각각 6.00bp씩 내렸다.",
+          "CRS(SOFR)와 IRS 차이인 스왑 베이시스 역전 폭은 확대되어 1년물은 0.50bp, 5년물은 2.75bp 커졌다.",
+          "이러한 움직임은 한국은행 금통위를 앞두고 시장 참가자들이 신중한 가운데 나타났다."
+        ]
+      },
+      {
+        "id": "20261123173108360",
+        "published_at": "2026-11-23T17:31:07+09:00",
+        "source": "Infomax",
+        "title": "HUG-Guaranteed Hub REITs Bonds Fully Covered at Bookbuilding on AAA Ratings",
+        "title_ko": "'HUG 보증' 허브리츠 공모채 수요예측 완판…AAA 등급에 보증 프리미엄 더해져",
+        "summary": "Hub REITs bonds guaranteed by the Korea Housing & Urban Guarantee Corporation (HUG) were fully covered at bookbuilding on 23 November, drawing a combined KRW 440 billion in orders, according to investment banking industry sources. KB Securities arranged the sale for issuers Newsstay Hub 1 and 2 and Private Rental Hub 4 and 5, subsidiaries established by a parent REIT to fund public-support private rental housing projects. Newsstay Hub 1 drew KRW 90 billion of demand for a KRW 45 billion three-year offering, while Newsstay Hub 2 attracted KRW 210 billion against a KRW 115 billion three-year issue. Private Rental Hub 4 received KRW 40 billion of demand for a KRW 30 billion two-year deal, and Private Rental Hub 5 drew KRW 100 billion against KRW 60 billion sought. Spreads over same-maturity Korea Treasury bond yields were set at 60bp, 65bp, 61bp and 61bp respectively for the four issuers. HUG's private assessments on the prior day were 35.7bp above the three-year Treasury and 36.5bp above the two-year Treasury, implying guarantee premiums of roughly 24.3-29.3bp for the three-year bonds and about 24.5bp for the two-year bonds. The wish pricing band had been set at up to 70bp over Treasuries, and all the bonds carry HUG guarantees with top 'AAA (stable)' credit ratings. An investment banking source said guaranteed paper has the limitation of lower market liquidity but that paying an appropriate guarantee premium highlighted the yield advantage, calling the result not bad given recent market conditions.",
+        "summary_ko": "주택도시보증공사(HUG) 보증 허브리츠 채권이 23일 수요예측에서 총 4천400억원의 주문을 모아 완판됐다고 투자은행(IB) 업계가 밝혔다. KB증권이 주관했으며, 발행 주체는 공공지원민간임대주택 사업 자(子)리츠 출자를 위해 설립된 모(母)리츠 산하 뉴스테이허브1호·2호와 민간임대허브 4호·5호다. 뉴스테이허브1호는 3년물 450억원 모집에 900억원, 뉴스테이허브2호는 3년물 1천150억원 발행에 2천100억원의 수요가 각각 유입됐다. 민간임대허브4호는 2년물 300억원 모집에 400억원, 민간임대허브5호는 2년물 600억원 모집에 1천억원이 몰렸다. 가산금리는 동일 만기 국고채 금리에 대해 네 종목이 각각 60bp, 65bp, 61bp, 61bp를 더한 수준이다. 전일 HUG의 민평금리는 3년물이 국고채 대비 35.7bp, 2년물이 36.5bp 높아, 사실상 3년물은 24.3~29.3bp, 2년물은 24.5bp 수준의 보증 프리미엄이 형성된 셈이다. 희망 금리밴드는 국고채 대비 최대 70bp 가산 수준으로 제시됐으며, 해당 채권은 모두 HUG 보증으로 최고 신용등급인 'AAA(안정적)'를 받았다. IB 관계자는 보증물은 시장 유동성이 떨어지는 한계가 있지만 적정 보증 프리미엄을 지불하며 금리 메리트가 부각됐고, 최근 시장 환경을 고려할 때 나쁘지 않은 결과라고 말했다.",
+        "sentences": [
+          "Hub REITs bonds guaranteed by the Korea Housing & Urban Guarantee Corporation (HUG) were fully covered at bookbuilding on 23 November, drawing a combined KRW 440 billion in orders, according to investment banking industry sources.",
+          "KB Securities arranged the sale for issuers Newsstay Hub 1 and 2 and Private Rental Hub 4 and 5, subsidiaries established by a parent REIT to fund public-support private rental housing projects.",
+          "Newsstay Hub 1 drew KRW 90 billion of demand for a KRW 45 billion three-year offering, while Newsstay Hub 2 attracted KRW 210 billion against a KRW 115 billion three-year issue.",
+          "Private Rental Hub 4 received KRW 40 billion of demand for a KRW 30 billion two-year deal, and Private Rental Hub 5 drew KRW 100 billion against KRW 60 billion sought.",
+          "Spreads over same-maturity Korea Treasury bond yields were set at 60bp, 65bp, 61bp and 61bp respectively for the four issuers.",
+          "HUG's private assessments on the prior day were 35.7bp above the three-year Treasury and 36.5bp above the two-year Treasury, implying guarantee premiums of roughly 24.3-29.3bp for the three-year bonds and about 24.5bp for the two-year bonds.",
+          "The wish pricing band had been set at up to 70bp over Treasuries, and all the bonds carry HUG guarantees with top 'AAA (stable)' credit ratings.",
+          "An investment banking source said guaranteed paper has the limitation of lower market liquidity but that paying an appropriate guarantee premium highlighted the yield advantage, calling the result not bad given recent market conditions."
+        ],
+        "sentences_ko": [
+          "주택도시보증공사(HUG) 보증 허브리츠 채권이 23일 수요예측에서 총 4천400억원의 주문을 모아 완판됐다고 투자은행(IB) 업계가 밝혔다.",
+          "KB증권이 주관했으며, 발행 주체는 공공지원민간임대주택 사업 자(子)리츠 출자를 위해 설립된 모(母)리츠 산하 뉴스테이허브1호·2호와 민간임대허브 4호·5호다.",
+          "뉴스테이허브1호는 3년물 450억원 모집에 900억원, 뉴스테이허브2호는 3년물 1천150억원 발행에 2천100억원의 수요가 각각 유입됐다.",
+          "민간임대허브4호는 2년물 300억원 모집에 400억원, 민간임대허브5호는 2년물 600억원 모집에 1천억원이 몰렸다.",
+          "가산금리는 동일 만기 국고채 금리에 대해 네 종목이 각각 60bp, 65bp, 61bp, 61bp를 더한 수준이다.",
+          "전일 HUG의 민평금리는 3년물이 국고채 대비 35.7bp, 2년물이 36.5bp 높아, 사실상 3년물은 24.3~29.3bp, 2년물은 24.5bp 수준의 보증 프리미엄이 형성된 셈이다.",
+          "희망 금리밴드는 국고채 대비 최대 70bp 가산 수준으로 제시됐으며, 해당 채권은 모두 HUG 보증으로 최고 신용등급인 'AAA(안정적)'를 받았다.",
+          "IB 관계자는 보증물은 시장 유동성이 떨어지는 한계가 있지만 적정 보증 프리미엄을 지불하며 금리 메리트가 부각됐고, 최근 시장 환경을 고려할 때 나쁘지 않은 결과라고 말했다."
+        ]
+      },
+      {
+        "id": "20261123091014718",
+        "published_at": "2026-11-23T09:10:13+09:00",
+        "source": "Infomax",
+        "title": "Korea's Nov 1-20 Exports Surge 101.5% to Record on Semiconductor Boom",
+        "title_ko": "11월 1~20일 수출 101.5% 증가 '역대 최대'…반도체 주도",
+        "summary": "Korea's exports for November 1-20 rose 101.5% year on year to USD 77.4 billion, a record for the period, according to the Korea Customs Service on the 23rd. Working days totaled 16.0, up 0.5 from a year earlier, and average daily exports rose 95.2% to USD 4.84 billion. Semiconductor exports jumped 294.4%, lifting their share of total exports to 49.7%, up 24.3 percentage points. Petroleum products rose 91.9% and computer peripherals 330.6%, while passenger cars fell 5.6%. By destination, exports increased to China (145.6%), the United States (142.7%), Vietnam (85.8%), Taiwan (149.7%) and the EU (25.7%), with the top three markets taking 55.5% of exports. Imports for the period rose 39.4% to USD 50.3 billion, led by semiconductors, crude oil, gas and machinery, with energy imports up 78.5%. The trade balance for November 1-20 showed a surplus of USD 27.1 billion.",
+        "summary_ko": "관세청에 따르면 23일 발표 기준, 11월 1~20일 수출은 전년 동기 대비 101.5% 증가한 774억 달러로 같은 기간 기준 역대 최대를 기록했다. 조업일수는 16.0일로 전년 동기보다 0.5일 많았고, 일평균 수출액은 48억4천만 달러로 95.2% 증가했다. 반도체 수출은 294.4% 폭증했으며 전체 수출에서 차지하는 비중은 24.3%포인트 상승한 49.7%였다. 석유제품은 91.9%, 컴퓨터 주변기기는 330.6% 늘었고 승용차는 5.6% 감소했다. 국가별로는 중국(145.6%), 미국(142.7%), 베트남(85.8%), 대만(149.7%), 유럽연합(25.7%) 등으로 수출이 늘었고 수출 상위 3국의 비중은 55.5%였다. 같은 기간 수입은 39.4% 증가한 503억 달러로, 반도체, 원유, 가스, 기계류 중심이었으며 에너지 수입은 78.5% 늘었다. 11월 1~20일 무역수지는 271억 달러 흑자로 집계됐다.",
+        "sentences": [
+          "Korea's exports for November 1-20 rose 101.5% year on year to USD 77.4 billion, a record for the period, according to the Korea Customs Service on the 23rd.",
+          "Working days totaled 16.0, up 0.5 from a year earlier, and average daily exports rose 95.2% to USD 4.84 billion.",
+          "Semiconductor exports jumped 294.4%, lifting their share of total exports to 49.7%, up 24.3 percentage points.",
+          "Petroleum products rose 91.9% and computer peripherals 330.6%, while passenger cars fell 5.6%.",
+          "By destination, exports increased to China (145.6%), the United States (142.7%), Vietnam (85.8%), Taiwan (149.7%) and the EU (25.7%), with the top three markets taking 55.5% of exports.",
+          "Imports for the period rose 39.4% to USD 50.3 billion, led by semiconductors, crude oil, gas and machinery, with energy imports up 78.5%.",
+          "The trade balance for November 1-20 showed a surplus of USD 27.1 billion."
+        ],
+        "sentences_ko": [
+          "관세청에 따르면 23일 발표 기준, 11월 1~20일 수출은 전년 동기 대비 101.5% 증가한 774억 달러로 같은 기간 기준 역대 최대를 기록했다.",
+          "조업일수는 16.0일로 전년 동기보다 0.5일 많았고, 일평균 수출액은 48억4천만 달러로 95.2% 증가했다.",
+          "반도체 수출은 294.4% 폭증했으며 전체 수출에서 차지하는 비중은 24.3%포인트 상승한 49.7%였다.",
+          "석유제품은 91.9%, 컴퓨터 주변기기는 330.6% 늘었고 승용차는 5.6% 감소했다.",
+          "국가별로는 중국(145.6%), 미국(142.7%), 베트남(85.8%), 대만(149.7%), 유럽연합(25.7%) 등으로 수출이 늘었고 수출 상위 3국의 비중은 55.5%였다.",
+          "같은 기간 수입은 39.4% 증가한 503억 달러로, 반도체, 원유, 가스, 기계류 중심이었으며 에너지 수입은 78.5% 늘었다.",
+          "11월 1~20일 무역수지는 271억 달러 흑자로 집계됐다."
+        ]
+      }
+    ]
+  },
   "kofia": {
     "date": "2026-11-23",
     "source": "KOFIA",
