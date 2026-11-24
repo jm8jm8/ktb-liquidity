@@ -2261,6 +2261,147 @@
     "sessions": 5,
     "ON_TN_change": "n.m."
   },
+  "news": {
+    "generated_at": "2026-11-25T04:36:43.218829+09:00",
+    "window_start": "2026-11-24T04:30:00+09:00",
+    "window_end": "2026-11-25T04:30:00+09:00",
+    "headline_coverage": "complete",
+    "items": [
+      {
+        "id": "20261124164300219",
+        "published_at": "2026-11-24T16:42:59+09:00",
+        "source": "Infomax",
+        "title": "Korea Treasury Yields Mixed as Foreign Buying of KTB Futures Caps Stock Rally Pressure",
+        "title_ko": "국고채 금리 혼조…주가 급등에도 외국인 국채선물 매수에 방향성 제한",
+        "summary": "On 24 November 2026, Korea Treasury bond (KTB) yields closed mixed, with some intermediate maturities rising while long-term yields fell, flattening the curve. The 3-year KTB final quoted yield rose 1.7 bp to 3.640%, while the 10-year yield fell 0.8 bp to 3.819%; the 10-year yield touched 3.782% intraday, its lowest level since late April. The 3-year KTB futures contract fell 4 ticks to 103.81, with foreign investors net buying 14,681 contracts and financial investment firms net selling 9,741 contracts, while the 10-year futures rose 2 ticks to 109.74, with foreigners buying 13,018 contracts and financial investment firms selling 9,000 contracts. Domestic and US equity markets rallied after Nvidia's board reinstated Jensen Huang as CEO by unanimous decision, sending Nvidia shares up 31.48%, the S&P 500 up 4.73% and the Nasdaq Composite up 6.51%, but clear direction in the bond market was limited by foreign buying of KTB futures. US Treasury 2-year yields rose 4.70 bp overnight while the 10-year was unchanged, as wagers on a Federal Reserve hold in December faded; Asian markets showed moves of less than 1 bp. The KOSPI closed 6.32% higher at 5,006.03, while WTI January crude fell 3.88% on the prior trading day on oversupply expectations, with further weakness during the day. Participants said sentiment was unsettled ahead of the BOK Monetary Policy Committee meeting, as yields had already fallen substantially, and one broker said some in the market believed that even if rates were raised at this meeting, conditions could differ next year. President Lee Jae-myung said at a cabinet meeting at Cheongwadae, regarding the Fair Trade Commission's sanctions for KTB bid collusion, that while many say the fine is excessive, in some ways it is a normal level.",
+        "summary_ko": "24일 국고채 금리는 혼조세로 마감했으며, 중단기 금리는 일부 상승하고 장기 금리는 하락해 커브 플래트닝이 나타났다. 국고채 3년물 최종호가 수익률은 전장 대비 1.7bp 상승한 3.640%였고 10년물은 0.8bp 하락한 3.819%를 기록했으며, 국고 10년 금리는 장중 3.782%까지 하락하며 지난 4월 말 이후 최저 수준을 기록했다. 3년 국채선물은 4틱 하락한 103.81을 나타냈고 외국인이 1만4천681계약 순매수, 금융투자가 9천741계약 순매도했으며, 10년 국채선물은 2틱 오른 109.74에서 외국인이 1만3천18계약 매수하고 금융투자가 9천계약 매도했다. 엔비디아 이사회가 젠슨 황 CEO 복귀를 만장일치로 결정하면서 엔비디아 주식이 31.48% 폭등하고 S&P 500지수가 4.73%, 나스닥 종합지수가 6.51% 급등했으나, 외국인의 국채선물 매수 등으로 채권시장은 뚜렷한 방향성을 보이지 못했다. 다음달 12월 연준 동결 베팅이 사그라들면서 간밤 미 국채 2년 금리는 4.70bp 상승했고 10년 금리는 변동이 없었으며, 아시아 시장은 1bp 미만의 움직임을 보였다. 코스피는 6.32% 상승한 5,006.03으로 마감했고, 국제유가는 과잉공급 전망으로 전거래일 WTI 1월물이 3.88% 하락한 데 이어 이날도 일부 추가 하락했다. 참가자들은 금통위를 앞두고 금리가 이미 상당 폭 하락한 상황에서 심리가 분분하다고 했으며, 한 채권 중개역은 이번 금통위에서 인상하더라도 내년에는 상황이 다를 것으로 보는 시각이 있다고 전했다. 이재명 대통령은 청와대 국무회의에서 공정거래위원회의 국고채 입찰 담합 제재와 관련해 과징금이 과도하다는 얘기가 많지만 어떻게 보면 정상적인 규모라고 평가했다.",
+        "sentences": [
+          "On 24 November 2026, Korea Treasury bond (KTB) yields closed mixed, with some intermediate maturities rising while long-term yields fell, flattening the curve.",
+          "The 3-year KTB final quoted yield rose 1.7 bp to 3.640%, while the 10-year yield fell 0.8 bp to 3.819%; the 10-year yield touched 3.782% intraday, its lowest level since late April.",
+          "The 3-year KTB futures contract fell 4 ticks to 103.81, with foreign investors net buying 14,681 contracts and financial investment firms net selling 9,741 contracts, while the 10-year futures rose 2 ticks to 109.74, with foreigners buying 13,018 contracts and financial investment firms selling 9,000 contracts.",
+          "Domestic and US equity markets rallied after Nvidia's board reinstated Jensen Huang as CEO by unanimous decision, sending Nvidia shares up 31.48%, the S&P 500 up 4.73% and the Nasdaq Composite up 6.51%, but clear direction in the bond market was limited by foreign buying of KTB futures.",
+          "US Treasury 2-year yields rose 4.70 bp overnight while the 10-year was unchanged, as wagers on a Federal Reserve hold in December faded; Asian markets showed moves of less than 1 bp.",
+          "The KOSPI closed 6.32% higher at 5,006.03, while WTI January crude fell 3.88% on the prior trading day on oversupply expectations, with further weakness during the day.",
+          "Participants said sentiment was unsettled ahead of the BOK Monetary Policy Committee meeting, as yields had already fallen substantially, and one broker said some in the market believed that even if rates were raised at this meeting, conditions could differ next year.",
+          "President Lee Jae-myung said at a cabinet meeting at Cheongwadae, regarding the Fair Trade Commission's sanctions for KTB bid collusion, that while many say the fine is excessive, in some ways it is a normal level."
+        ],
+        "sentences_ko": [
+          "24일 국고채 금리는 혼조세로 마감했으며, 중단기 금리는 일부 상승하고 장기 금리는 하락해 커브 플래트닝이 나타났다.",
+          "국고채 3년물 최종호가 수익률은 전장 대비 1.7bp 상승한 3.640%였고 10년물은 0.8bp 하락한 3.819%를 기록했으며, 국고 10년 금리는 장중 3.782%까지 하락하며 지난 4월 말 이후 최저 수준을 기록했다.",
+          "3년 국채선물은 4틱 하락한 103.81을 나타냈고 외국인이 1만4천681계약 순매수, 금융투자가 9천741계약 순매도했으며, 10년 국채선물은 2틱 오른 109.74에서 외국인이 1만3천18계약 매수하고 금융투자가 9천계약 매도했다.",
+          "엔비디아 이사회가 젠슨 황 CEO 복귀를 만장일치로 결정하면서 엔비디아 주식이 31.48% 폭등하고 S&P 500지수가 4.73%, 나스닥 종합지수가 6.51% 급등했으나, 외국인의 국채선물 매수 등으로 채권시장은 뚜렷한 방향성을 보이지 못했다.",
+          "다음달 12월 연준 동결 베팅이 사그라들면서 간밤 미 국채 2년 금리는 4.70bp 상승했고 10년 금리는 변동이 없었으며, 아시아 시장은 1bp 미만의 움직임을 보였다.",
+          "코스피는 6.32% 상승한 5,006.03으로 마감했고, 국제유가는 과잉공급 전망으로 전거래일 WTI 1월물이 3.88% 하락한 데 이어 이날도 일부 추가 하락했다.",
+          "참가자들은 금통위를 앞두고 금리가 이미 상당 폭 하락한 상황에서 심리가 분분하다고 했으며, 한 채권 중개역은 이번 금통위에서 인상하더라도 내년에는 상황이 다를 것으로 보는 시각이 있다고 전했다.",
+          "이재명 대통령은 청와대 국무회의에서 공정거래위원회의 국고채 입찰 담합 제재와 관련해 과징금이 과도하다는 얘기가 많지만 어떻게 보면 정상적인 규모라고 평가했다."
+        ]
+      },
+      {
+        "id": "20261124113112148",
+        "published_at": "2026-11-24T11:31:11+09:00",
+        "source": "Infomax",
+        "title": "Korea Awards KRW 800 Billion of 20-Year KTBs at 4.000% Yield",
+        "title_ko": "국고 20년물 8,000억원 낙찰…낙찰금리 4.000%",
+        "summary": "An auction for 20-year Korea Treasury bonds (KTBs) took place on 24 November 2026, with bidding from 10:40 to 11:00. The auction notice listed the issue date as 10 September 2026 and the offering amount as KRW 800.0 billion. Bids totaled KRW 1,902.0 billion, giving a bid-to-cover ratio of 237.8%. Bid yields ranged from 3.975% to 4.045%. The full KRW 800.0 billion was awarded, with the lowest, highest and weighted-average accepted yields all at 4.000%. The partial acceptance rate was 7.1%. Infomax reported the results from Seoul on 24 November 2026.",
+        "summary_ko": "국고채 20년물 입찰은 2026년 11월 24일 오전 10시 40분부터 11시까지 진행됐다. 입찰 공고에 기재된 발행일은 2026년 9월 10일이며, 입찰금액은 8,000억원이었다. 응찰금액은 1조 9,020억원으로, 응찰률은 237.8%였다. 응찰금리는 3.975%에서 4.045% 범위였다. 입찰금액 전액인 8,000억원이 낙찰됐으며, 최저·최고·가중평균 낙찰금리는 모두 4.000%였다. 부분낙찰률은 7.1%였다. 인포맥스는 2026년 11월 24일 서울에서 해당 결과를 보도했다.",
+        "sentences": [
+          "An auction for 20-year Korea Treasury bonds (KTBs) took place on 24 November 2026, with bidding from 10:40 to 11:00.",
+          "The auction notice listed the issue date as 10 September 2026 and the offering amount as KRW 800.0 billion.",
+          "Bids totaled KRW 1,902.0 billion, giving a bid-to-cover ratio of 237.8%.",
+          "Bid yields ranged from 3.975% to 4.045%.",
+          "The full KRW 800.0 billion was awarded, with the lowest, highest and weighted-average accepted yields all at 4.000%.",
+          "The partial acceptance rate was 7.1%.",
+          "Infomax reported the results from Seoul on 24 November 2026."
+        ],
+        "sentences_ko": [
+          "국고채 20년물 입찰은 2026년 11월 24일 오전 10시 40분부터 11시까지 진행됐다.",
+          "입찰 공고에 기재된 발행일은 2026년 9월 10일이며, 입찰금액은 8,000억원이었다.",
+          "응찰금액은 1조 9,020억원으로, 응찰률은 237.8%였다.",
+          "응찰금리는 3.975%에서 4.045% 범위였다.",
+          "입찰금액 전액인 8,000억원이 낙찰됐으며, 최저·최고·가중평균 낙찰금리는 모두 4.000%였다.",
+          "부분낙찰률은 7.1%였다.",
+          "인포맥스는 2026년 11월 24일 서울에서 해당 결과를 보도했다."
+        ]
+      },
+      {
+        "id": "20261124113204021",
+        "published_at": "2026-11-24T11:32:03+09:00",
+        "source": "Infomax",
+        "title": "10-year on-the-run KTB yield falls below 3.8% intraday amid foreign futures buying",
+        "title_ko": "외국인 선물 매수에 국고채 10년 지표물 금리 장중 3.8% 하회",
+        "summary": "On 24 November 2026, the 10-year on-the-run Korea Treasury bond (KTB) yield fell below 3.8% intraday on the exchange, apparently driven by foreign investors' net purchases of KTB futures. At 11:28 a.m., the 3-year on-the-run KTB yield was 3.624%, up 0.4bp from the previous day's average assessed yield. The 10-year on-the-run KTB yield was down 2.7bp at 3.798%, after touching 3.797% intraday, its lowest level since 27 April, when it reached 3.781% intraday. The 30-year on-the-run KTB yield was down 1.8bp at 3.957%. Foreign investors bought 10,000 contracts each of 3-year and 10-year KTB futures during the morning alone. A bond dealer at a securities firm described foreign futures buying as intense and suggested that the pace could amount to 20,000 contracts for the day.",
+        "summary_ko": "2026년 11월 24일 국고채 10년 지표물 금리는 외국인의 국채선물 순매수에 이끌린 것으로 보이는 흐름 속에 장내에서 장중 3.8%를 하회했다. 오전 11시 28분 현재 국고채 3년 지표물 금리는 전일 민평 대비 0.4bp 오른 3.624%였다. 국고채 10년 지표물 금리는 2.7bp 내린 3.798%였으며, 장중 한때 3.797%까지 하락해 장중 3.781%를 기록한 4월 27일 이후 최저 수준에 도달했다. 국고채 30년 지표물 금리는 1.8bp 내린 3.957%였다. 외국인은 오전 중에만 3년 및 10년 국채선물을 각각 1만계약 사들였다. 한 증권사 채권 딜러는 외국인의 국채선물 매수세가 매섭다며 하루 2만계약 매수에 이를 수 있는 속도라고 추정했다.",
+        "sentences": [
+          "On 24 November 2026, the 10-year on-the-run Korea Treasury bond (KTB) yield fell below 3.8% intraday on the exchange, apparently driven by foreign investors' net purchases of KTB futures.",
+          "At 11:28 a.m., the 3-year on-the-run KTB yield was 3.624%, up 0.4bp from the previous day's average assessed yield.",
+          "The 10-year on-the-run KTB yield was down 2.7bp at 3.798%, after touching 3.797% intraday, its lowest level since 27 April, when it reached 3.781% intraday.",
+          "The 30-year on-the-run KTB yield was down 1.8bp at 3.957%.",
+          "Foreign investors bought 10,000 contracts each of 3-year and 10-year KTB futures during the morning alone.",
+          "A bond dealer at a securities firm described foreign futures buying as intense and suggested that the pace could amount to 20,000 contracts for the day."
+        ],
+        "sentences_ko": [
+          "2026년 11월 24일 국고채 10년 지표물 금리는 외국인의 국채선물 순매수에 이끌린 것으로 보이는 흐름 속에 장내에서 장중 3.8%를 하회했다.",
+          "오전 11시 28분 현재 국고채 3년 지표물 금리는 전일 민평 대비 0.4bp 오른 3.624%였다.",
+          "국고채 10년 지표물 금리는 2.7bp 내린 3.798%였으며, 장중 한때 3.797%까지 하락해 장중 3.781%를 기록한 4월 27일 이후 최저 수준에 도달했다.",
+          "국고채 30년 지표물 금리는 1.8bp 내린 3.957%였다.",
+          "외국인은 오전 중에만 3년 및 10년 국채선물을 각각 1만계약 사들였다.",
+          "한 증권사 채권 딜러는 외국인의 국채선물 매수세가 매섭다며 하루 2만계약 매수에 이를 수 있는 속도라고 추정했다."
+        ]
+      },
+      {
+        "id": "20261124164854560",
+        "published_at": "2026-11-24T16:48:53+09:00",
+        "source": "Infomax",
+        "title": "Korean IRS Rates Edge Higher, Curve Flattens as Late-Day Selling Reverses Decline",
+        "title_ko": "IRS 금리 소폭 상승·플래트닝…장 막판 매도로 하락 되돌려",
+        "summary": "On November 24 in the Seoul bond market, IRS rates rose slightly, led by the short end, and the curve flattened. As of 4:28 p.m., the 1-year IRS rate was 3.5575%, up 1.25bp from the previous trading day, with 2-year and 3-year rates also up 1.25bp each. The 5-year IRS rate rose 0.75bp to 3.6050%, while the 10-year was unchanged at 3.6200%. A dealer at a securities firm said foreign investors kept offering (buying) amid sharply reduced trading liquidity, but securities firms' paying (selling) near the close, centered on the short end, reversed the rate decline. CRS (SOFR) rates rose across all tenors, with the 1-year up 7.00bp at 3.3950%, the 5-year up 0.50bp at 3.1150%, and the 10-year up 1.50bp at 3.0000%. The inverted swap basis, the gap between CRS (SOFR) and IRS, was mixed by tenor, narrowing at the short end. The 1-year inversion narrowed by 5.75bp to -16.25bp, while the 5-year inversion widened by 0.25bp to -49.00bp.",
+        "summary_ko": "24일 서울 채권시장에서 IRS 금리는 단기 구간을 중심으로 소폭 상승했고 수익률곡선은 완만해졌다. 오후 4시 28분 기준 1년 IRS 금리는 전 거래일 대비 1.25bp 오른 3.5575%를 기록했으며 2년과 3년도 각 1.25bp 상승했다. 5년 IRS 금리는 0.75bp 오른 3.6050%였고 10년은 전일과 동일한 3.6200%였다. 한 증권사 딜러는 최근 거래 유동성이 급격히 줄어든 가운데 외국인의 오퍼(매수)가 지속적으로 나타났으나 종가 즈음 단기 구간 중심으로 증권사들의 페이(매도)가 나타나며 금리 하락을 되돌렸다고 말했다. CRS(SOFR) 금리는 전 구간에서 상승해 1년은 7.00bp 오른 3.3950%, 5년은 0.50bp 오른 3.1150%, 10년은 1.50bp 오른 3.0000%를 기록했다. CRS(SOFR)와 IRS 차이인 스와프 베이시스 역전 폭은 구간별로 엇갈렸으나 단기 구간에서는 축소됐다. 1년 역전 폭은 5.75bp 축소된 -16.25bp, 5년 역전 폭은 0.25bp 확대된 -49.00bp를 나타냈다.",
+        "sentences": [
+          "On November 24 in the Seoul bond market, IRS rates rose slightly, led by the short end, and the curve flattened.",
+          "As of 4:28 p.m., the 1-year IRS rate was 3.5575%, up 1.25bp from the previous trading day, with 2-year and 3-year rates also up 1.25bp each.",
+          "The 5-year IRS rate rose 0.75bp to 3.6050%, while the 10-year was unchanged at 3.6200%.",
+          "A dealer at a securities firm said foreign investors kept offering (buying) amid sharply reduced trading liquidity, but securities firms' paying (selling) near the close, centered on the short end, reversed the rate decline.",
+          "CRS (SOFR) rates rose across all tenors, with the 1-year up 7.00bp at 3.3950%, the 5-year up 0.50bp at 3.1150%, and the 10-year up 1.50bp at 3.0000%.",
+          "The inverted swap basis, the gap between CRS (SOFR) and IRS, was mixed by tenor, narrowing at the short end.",
+          "The 1-year inversion narrowed by 5.75bp to -16.25bp, while the 5-year inversion widened by 0.25bp to -49.00bp."
+        ],
+        "sentences_ko": [
+          "24일 서울 채권시장에서 IRS 금리는 단기 구간을 중심으로 소폭 상승했고 수익률곡선은 완만해졌다.",
+          "오후 4시 28분 기준 1년 IRS 금리는 전 거래일 대비 1.25bp 오른 3.5575%를 기록했으며 2년과 3년도 각 1.25bp 상승했다.",
+          "5년 IRS 금리는 0.75bp 오른 3.6050%였고 10년은 전일과 동일한 3.6200%였다.",
+          "한 증권사 딜러는 최근 거래 유동성이 급격히 줄어든 가운데 외국인의 오퍼(매수)가 지속적으로 나타났으나 종가 즈음 단기 구간 중심으로 증권사들의 페이(매도)가 나타나며 금리 하락을 되돌렸다고 말했다.",
+          "CRS(SOFR) 금리는 전 구간에서 상승해 1년은 7.00bp 오른 3.3950%, 5년은 0.50bp 오른 3.1150%, 10년은 1.50bp 오른 3.0000%를 기록했다.",
+          "CRS(SOFR)와 IRS 차이인 스와프 베이시스 역전 폭은 구간별로 엇갈렸으나 단기 구간에서는 축소됐다.",
+          "1년 역전 폭은 5.75bp 축소된 -16.25bp, 5년 역전 폭은 0.25bp 확대된 -49.00bp를 나타냈다."
+        ]
+      },
+      {
+        "id": "20261124103641839",
+        "published_at": "2026-11-24T10:36:41+09:00",
+        "source": "Infomax",
+        "title": "South Korean President Defends Fine on Korea Treasury Bond Auction Collusion",
+        "title_ko": "이 대통령, 국고채 입찰 담합 과징금 \"과하지 않다\" 옹호",
+        "summary": "On November 24, 2026, President Lee Jae-myung stated at a Cabinet meeting that fines imposed on Korea Treasury bond (KTB) auction collusion were not excessive, arguing that past sanctions had been too weak relative to gains. The remarks followed a November 11 decision by the Fair Trade Commission to fine 15 banks and securities firms a combined 1.626575 trillion won for colluding or sharing information across 150 competitive KTB auctions between January 2020 and June 2023. The Fair Trade Commission also decided to refer seven financial institutions to prosecution regarding the competitive KTB auction rigging. Affected financial institutions have questioned the fine calculation method and Primary Dealer market-making obligations while considering legal action. Fair Trade Commission Chairman Joo Byung-ki said during the meeting that the fine levels are close to standards in advanced economies. President Lee additionally directed Financial Services Commission Chairman Lee Eok-won to speed up capital market reform efforts to address depressed valuation ratios and major shareholder practices.",
+        "summary_ko": "이재명 대통령은 2026년 11월 24일 국무회의에서 국고채(KTB) 입찰 담합에 부과된 과징금이 과도하지 않으며 그동안의 제재가 얻은 이익에 비해 너무 약했던 것이라고 밝혔다. 이는 공정거래위원회가 2020년 1월부터 2023년 6월까지 150건의 국고채 경쟁입찰에서 담합하거나 정보를 공유한 15개 은행 및 증권사에 총 1조 6,265억 7,500만 원의 과징금을 부과하기로 11월 11일 결정한 데 따른 것이다. 공정거래위원회는 국고채 경쟁입찰 담합과 관련해 7개 금융기관을 고발하기로 결정했다. 제재 대상 금융회사들은 과징금 산정 방식과 국고채전문딜러(PD)의 시장조성 업무 특성을 문제 삼으며 법적 대응을 검토하고 있다. 주병기 공정거래위원장은 회의에서 부과된 과징금 수준이 선진국 표준에 가깝다고 설명했다. 이 대통령은 또한 이억원 금융위원장에게 낮은 밸류에이션 비율 방치와 대주주 행태를 바로잡기 위해 자본시장 개혁 속도를 높일 것을 지시했다.",
+        "sentences": [
+          "On November 24, 2026, President Lee Jae-myung stated at a Cabinet meeting that fines imposed on Korea Treasury bond (KTB) auction collusion were not excessive, arguing that past sanctions had been too weak relative to gains.",
+          "The remarks followed a November 11 decision by the Fair Trade Commission to fine 15 banks and securities firms a combined 1.626575 trillion won for colluding or sharing information across 150 competitive KTB auctions between January 2020 and June 2023.",
+          "The Fair Trade Commission also decided to refer seven financial institutions to prosecution regarding the competitive KTB auction rigging.",
+          "Affected financial institutions have questioned the fine calculation method and Primary Dealer market-making obligations while considering legal action.",
+          "Fair Trade Commission Chairman Joo Byung-ki said during the meeting that the fine levels are close to standards in advanced economies.",
+          "President Lee additionally directed Financial Services Commission Chairman Lee Eok-won to speed up capital market reform efforts to address depressed valuation ratios and major shareholder practices."
+        ],
+        "sentences_ko": [
+          "이재명 대통령은 2026년 11월 24일 국무회의에서 국고채(KTB) 입찰 담합에 부과된 과징금이 과도하지 않으며 그동안의 제재가 얻은 이익에 비해 너무 약했던 것이라고 밝혔다.",
+          "이는 공정거래위원회가 2020년 1월부터 2023년 6월까지 150건의 국고채 경쟁입찰에서 담합하거나 정보를 공유한 15개 은행 및 증권사에 총 1조 6,265억 7,500만 원의 과징금을 부과하기로 11월 11일 결정한 데 따른 것이다.",
+          "공정거래위원회는 국고채 경쟁입찰 담합과 관련해 7개 금융기관을 고발하기로 결정했다.",
+          "제재 대상 금융회사들은 과징금 산정 방식과 국고채전문딜러(PD)의 시장조성 업무 특성을 문제 삼으며 법적 대응을 검토하고 있다.",
+          "주병기 공정거래위원장은 회의에서 부과된 과징금 수준이 선진국 표준에 가깝다고 설명했다.",
+          "이 대통령은 또한 이억원 금융위원장에게 낮은 밸류에이션 비율 방치와 대주주 행태를 바로잡기 위해 자본시장 개혁 속도를 높일 것을 지시했다."
+        ]
+      }
+    ]
+  },
   "kofia": {
     "date": "2026-11-24",
     "source": "KOFIA",
