@@ -2261,6 +2261,118 @@
     "sessions": 5,
     "ON_TN_change": "n.m."
   },
+  "news": {
+    "generated_at": "2026-11-27T04:34:10.151694+09:00",
+    "window_start": "2026-11-26T04:30:00+09:00",
+    "window_end": "2026-11-27T04:30:00+09:00",
+    "headline_coverage": "complete",
+    "items": [
+      {
+        "id": "20261126095012267",
+        "published_at": "2026-11-26T09:50:11+09:00",
+        "source": "Infomax",
+        "title": "Bank of Korea raises base rate by 25bp to 3.25% amid rapid growth and demand-pull inflation concerns",
+        "title_ko": "한국은행 금통위, 기준금리 3.25%로 25bp 인상… 가파른 성장 속 수요 압력 우려",
+        "summary": "The Bank of Korea Monetary Policy Board held a regular meeting on November 26 and raised the base rate by 25bp to 3.25% per annum. This rate hike follows a freeze in October after consecutive increases in July and August, matching bond market expectations where 18 out of 19 surveyed experts projected a hike. The decision was driven by domestic economic growth paired with continued high inflation, with October consumer price inflation slowing slightly to 2.8% year-on-year from September's 2.9% but remaining above the 2% target. Semiconductor exports showed robust performance, recording USD 56.44 billion in October up 259.4% year-on-year, while the October export volume index posted a record high growth rate of 43.9% year-on-year according to the Bank of Korea. Policymakers noted that strong semiconductor exports could spread to corporate income, facility investment, wages, performance bonuses, and consumption, thereby increasing demand-side price pressures. Housing market concerns also supported tightening, as Seoul apartment price growth slowed while Gyeonggi province's increase widened, with nationwide apartment price trends from the Korea Real Estate Board showing Seoul down from 0.74% in September to 0.54% in October, and Gyeonggi up from 0.82% to 0.87%. Bank household lending expanded by KRW 5.0 trillion in October according to financial market trends, accelerating from a 0.5 trillion won increase in September due to larger mortgage loan growth and a shift in other loans to an increase.",
+        "summary_ko": "한국은행 금융통화위원회는 26일 정례회의를 열고 기준금리를 연 3.25%로 25bp 인상했다. 이번 금리 인상은 지난 7월과 8월 연속 인상 이후 10월 동결을 거쳐 단행된 것으로, 설문 전문가 19명 중 18명이 인상을 전망했던 채권시장 예상에 부합했다. 국내 경제의 가파른 성장세와 높은 수준의 인플레이션이 추가 긴축의 논거로 작용했으며, 10월 소비자물가 상승률은 전년 동월 대비 2.8%로 9월(2.9%)보다 둔화했으나 2% 물가 목표를 웃돌았다. 한국은행에 따르면 10월 반도체 수출은 564억4천만 달러로 전년 동월 대비 259.4% 증가했고, 수출물량지수도 전년 동월 대비 43.9% 상승해 역대 최고 증가율을 기록했다. 통화당국은 반도체 수출 호조가 기업소득, 설비투자, 임금, 성과급 및 소비로 파급되어 수요측 물가 압력을 키울 수 있다고 평가했다. 주택시장 우려도 긴축 논거로 꼽혀 한국부동산원 조사 결과 10월 아파트 가격 상승률은 서울이 9월 0.74%에서 10월 0.54%로 둔화한 반면 경기는 0.82%에서 0.87%로 확대됐다. 10월 금융시장 동향에 따르면 은행 가계대출은 주택담보대출 증가 폭 확대와 기타 대출의 증가 전환으로 9월 5천억원에서 지난달 5조원으로 증가 폭이 커졌다.",
+        "sentences": [
+          "The Bank of Korea Monetary Policy Board held a regular meeting on November 26 and raised the base rate by 25bp to 3.25% per annum.",
+          "This rate hike follows a freeze in October after consecutive increases in July and August, matching bond market expectations where 18 out of 19 surveyed experts projected a hike.",
+          "The decision was driven by domestic economic growth paired with continued high inflation, with October consumer price inflation slowing slightly to 2.8% year-on-year from September's 2.9% but remaining above the 2% target.",
+          "Semiconductor exports showed robust performance, recording USD 56.44 billion in October up 259.4% year-on-year, while the October export volume index posted a record high growth rate of 43.9% year-on-year according to the Bank of Korea.",
+          "Policymakers noted that strong semiconductor exports could spread to corporate income, facility investment, wages, performance bonuses, and consumption, thereby increasing demand-side price pressures.",
+          "Housing market concerns also supported tightening, as Seoul apartment price growth slowed while Gyeonggi province's increase widened, with nationwide apartment price trends from the Korea Real Estate Board showing Seoul down from 0.74% in September to 0.54% in October, and Gyeonggi up from 0.82% to 0.87%.",
+          "Bank household lending expanded by KRW 5.0 trillion in October according to financial market trends, accelerating from a 0.5 trillion won increase in September due to larger mortgage loan growth and a shift in other loans to an increase."
+        ],
+        "sentences_ko": [
+          "한국은행 금융통화위원회는 26일 정례회의를 열고 기준금리를 연 3.25%로 25bp 인상했다.",
+          "이번 금리 인상은 지난 7월과 8월 연속 인상 이후 10월 동결을 거쳐 단행된 것으로, 설문 전문가 19명 중 18명이 인상을 전망했던 채권시장 예상에 부합했다.",
+          "국내 경제의 가파른 성장세와 높은 수준의 인플레이션이 추가 긴축의 논거로 작용했으며, 10월 소비자물가 상승률은 전년 동월 대비 2.8%로 9월(2.9%)보다 둔화했으나 2% 물가 목표를 웃돌았다.",
+          "한국은행에 따르면 10월 반도체 수출은 564억4천만 달러로 전년 동월 대비 259.4% 증가했고, 수출물량지수도 전년 동월 대비 43.9% 상승해 역대 최고 증가율을 기록했다.",
+          "통화당국은 반도체 수출 호조가 기업소득, 설비투자, 임금, 성과급 및 소비로 파급되어 수요측 물가 압력을 키울 수 있다고 평가했다.",
+          "주택시장 우려도 긴축 논거로 꼽혀 한국부동산원 조사 결과 10월 아파트 가격 상승률은 서울이 9월 0.74%에서 10월 0.54%로 둔화한 반면 경기는 0.82%에서 0.87%로 확대됐다.",
+          "10월 금융시장 동향에 따르면 은행 가계대출은 주택담보대출 증가 폭 확대와 기타 대출의 증가 전환으로 9월 5천억원에서 지난달 5조원으로 증가 폭이 커졌다."
+        ]
+      },
+      {
+        "id": "20261126170908921",
+        "published_at": "2026-11-26T17:09:08+09:00",
+        "source": "Infomax",
+        "title": "Ministry of Finance and Economy Announces 2.2 Trillion Won KTB Competitive Issuance for December",
+        "title_ko": "재정경제부, 12월 국고채 경쟁입찰 2조 2천억 원 발행 발표",
+        "summary": "The Ministry of Finance and Economy (MOFE) announced on November 26 that it will issue 2.2 trillion won worth of Korea Treasury bonds (KTBs) through competitive bidding next month. The issuance volume reflects a significant absorption of non-competitive purchase options that were exercised extensively recently. By maturity, the December competitive auction comprises 200 billion won for 2-year KTBs, 500 billion won for 3-year KTBs, 200 billion won for 5-year KTBs, 400 billion won for 10-year KTBs, 150 billion won for 20-year KTBs, 600 billion won for 30-year KTBs, and 150 billion won for 50-year KTBs. A buyback of maturing KTBs is planned for a total scale of around 200 billion won across 2-year, 3-year, and 5-year seasoned issues in a single operation. MOFE plans not to implement non-competitive purchase options at the competitive bidding yields of each maturity next month, in order to finalize annual issuance volumes. Denominated in Korean won, Foreign Exchange Equalization Fund Bonds are planned to be issued at 500 billion won, marking a 700 billion won decrease from the previous month. No Treasury bills will be issued, with zero current balances for Treasury bills and Bank of Korea temporary borrowing as of the announcement date, against annual average balances of 8.7 trillion won and 2.5 trillion won respectively.",
+        "summary_ko": "재정경제부는 26일 다음 달 국고채를 경쟁입찰 방식으로 2조 2천억 원 규모로 발행한다고 밝혔다. 이번 발행 물량은 최근 대거 풀린 비경쟁인수 옵션 물량이 상당 부분 채워진 영향으로 나타났다. 만기별 발행 계획은 2년물 2천억 원, 3년물 5천억 원, 5년물 2천억 원, 10년물 4천억 원, 20년물 1천 500억 원, 30년물 6천억 원, 50년물 1천 500억 원이다. 2년물, 3년물, 5년물 경과종목을 대상으로 만기 도래 전 국고채 매입(바이백)을 총 2천억 원 수준으로 1차례 실시할 예정이다. 재정경제부는 연간 발행량 확정을 위해 다음 달에는 각 연물별 경쟁입찰 당시 낙찰금리로 일정 금액을 비경쟁 인수하는 옵션을 시행하지 않을 계획이다. 원화 표시 외국환평형기금채권은 5천억 원 규모로 발행할 계획이며, 전월 대비 7천억 원 감소했다. 재정증권은 발행하지 않으며, 이날 기준 재정증권 발행 잔액과 한국은행 일시차입은 없고 연간 평잔 기준 각각 8조 7천억 원과 2조 5천억 원이다.",
+        "sentences": [
+          "The Ministry of Finance and Economy (MOFE) announced on November 26 that it will issue 2.2 trillion won worth of Korea Treasury bonds (KTBs) through competitive bidding next month.",
+          "The issuance volume reflects a significant absorption of non-competitive purchase options that were exercised extensively recently.",
+          "By maturity, the December competitive auction comprises 200 billion won for 2-year KTBs, 500 billion won for 3-year KTBs, 200 billion won for 5-year KTBs, 400 billion won for 10-year KTBs, 150 billion won for 20-year KTBs, 600 billion won for 30-year KTBs, and 150 billion won for 50-year KTBs.",
+          "A buyback of maturing KTBs is planned for a total scale of around 200 billion won across 2-year, 3-year, and 5-year seasoned issues in a single operation.",
+          "MOFE plans not to implement non-competitive purchase options at the competitive bidding yields of each maturity next month, in order to finalize annual issuance volumes.",
+          "Denominated in Korean won, Foreign Exchange Equalization Fund Bonds are planned to be issued at 500 billion won, marking a 700 billion won decrease from the previous month.",
+          "No Treasury bills will be issued, with zero current balances for Treasury bills and Bank of Korea temporary borrowing as of the announcement date, against annual average balances of 8.7 trillion won and 2.5 trillion won respectively."
+        ],
+        "sentences_ko": [
+          "재정경제부는 26일 다음 달 국고채를 경쟁입찰 방식으로 2조 2천억 원 규모로 발행한다고 밝혔다.",
+          "이번 발행 물량은 최근 대거 풀린 비경쟁인수 옵션 물량이 상당 부분 채워진 영향으로 나타났다.",
+          "만기별 발행 계획은 2년물 2천억 원, 3년물 5천억 원, 5년물 2천억 원, 10년물 4천억 원, 20년물 1천 500억 원, 30년물 6천억 원, 50년물 1천 500억 원이다.",
+          "2년물, 3년물, 5년물 경과종목을 대상으로 만기 도래 전 국고채 매입(바이백)을 총 2천억 원 수준으로 1차례 실시할 예정이다.",
+          "재정경제부는 연간 발행량 확정을 위해 다음 달에는 각 연물별 경쟁입찰 당시 낙찰금리로 일정 금액을 비경쟁 인수하는 옵션을 시행하지 않을 계획이다.",
+          "원화 표시 외국환평형기금채권은 5천억 원 규모로 발행할 계획이며, 전월 대비 7천억 원 감소했다.",
+          "재정증권은 발행하지 않으며, 이날 기준 재정증권 발행 잔액과 한국은행 일시차입은 없고 연간 평잔 기준 각각 8조 7천억 원과 2조 5천억 원이다."
+        ]
+      },
+      {
+        "id": "20261126100009744",
+        "published_at": "2026-11-26T10:00:08+09:00",
+        "source": "Infomax",
+        "title": "Ministry of Finance and Economy Cancels December Issuance of Individual-Investor KTBs",
+        "title_ko": "재정경제부, 12월 개인투자용 국채 발행 미실시",
+        "summary": "The Ministry of Finance and Economy (MOFE) announced on November 26 that it will not issue individual-investor Korea Treasury bonds (KTBs) in December, taking into account fiscal conditions and other factors. Investors can apply for early redemption of individual-investor KTBs issued from June 2024 through November of last year during the month of December, up to a total limit of KRW 1.4992 trillion. Those who request early redemption will receive only their principal and interest calculated at the coupon rate applied at the time of purchase. Such early redemption excludes additional compound interest based on added spreads and tax separation benefits on interest income. The early redemption application period runs from December 10 to December 16, with operating hours from 9 a.m. to 4 p.m. on business days. Applications can be submitted by visiting branches of dedicated account sales agencies or through online channels including websites and mobile applications.",
+        "summary_ko": "재정경제부는 재정 여건 등을 고려해 내달 개인투자용 국채를 발행하지 않는다고 26일 밝혔다. 12월에는 2024년 6월부터 작년 11월까지 발행된 개인 투자용 국채에 대해 총 1조4천992억원 한도로 중도 환매를 신청할 수 있다. 중도환매 시 원금과 매입 당시 적용된 표면금리에 따른 이자만 돌려받을 수 있다. 가산금리를 더한 복리이자나 이자소득 분리과세 혜택 등은 받을 수 없다. 중도환매 신청 기간은 다음달 10일부터 16일까지이며, 시간은 영업일 오전 9시부터 오후 4시까지다. 해당 기간 전용계좌 판매대행기관 영업점 방문이나 온라인 홈페이지 및 모바일 앱을 통해 신청할 수 있다.",
+        "sentences": [
+          "The Ministry of Finance and Economy (MOFE) announced on November 26 that it will not issue individual-investor Korea Treasury bonds (KTBs) in December, taking into account fiscal conditions and other factors.",
+          "Investors can apply for early redemption of individual-investor KTBs issued from June 2024 through November of last year during the month of December, up to a total limit of KRW 1.4992 trillion.",
+          "Those who request early redemption will receive only their principal and interest calculated at the coupon rate applied at the time of purchase.",
+          "Such early redemption excludes additional compound interest based on added spreads and tax separation benefits on interest income.",
+          "The early redemption application period runs from December 10 to December 16, with operating hours from 9 a.m. to 4 p.m. on business days.",
+          "Applications can be submitted by visiting branches of dedicated account sales agencies or through online channels including websites and mobile applications."
+        ],
+        "sentences_ko": [
+          "재정경제부는 재정 여건 등을 고려해 내달 개인투자용 국채를 발행하지 않는다고 26일 밝혔다.",
+          "12월에는 2024년 6월부터 작년 11월까지 발행된 개인 투자용 국채에 대해 총 1조4천992억원 한도로 중도 환매를 신청할 수 있다.",
+          "중도환매 시 원금과 매입 당시 적용된 표면금리에 따른 이자만 돌려받을 수 있다.",
+          "가산금리를 더한 복리이자나 이자소득 분리과세 혜택 등은 받을 수 없다.",
+          "중도환매 신청 기간은 다음달 10일부터 16일까지이며, 시간은 영업일 오전 9시부터 오후 4시까지다.",
+          "해당 기간 전용계좌 판매대행기관 영업점 방문이나 온라인 홈페이지 및 모바일 앱을 통해 신청할 수 있다."
+        ]
+      },
+      {
+        "id": "20261126170806394",
+        "published_at": "2026-11-26T17:08:05+09:00",
+        "source": "Infomax",
+        "title": "BOK to issue up to KRW 5.7tr of MSBs in December",
+        "title_ko": "한국은행, 12월 5.7조원 규모 통안채 발행 계획",
+        "summary": "The Bank of Korea announced on November 26 that it plans to issue up to KRW 5.7 trillion worth of Monetary Stabilization Bonds next month. The planned issuance through competitive bidding is set at KRW 5.1 trillion. The auction allocation via public offering is scheduled between KRW 500 billion and KRW 600 billion. For coupon bonds issued this month, the one-year maturity will be a newly introduced benchmark issue. The two-year and three-year maturities will be issued by consolidating into existing benchmark issues. The central bank also plans to conduct an early redemption totaling KRW 1 trillion, split into KRW 700 billion for early redemption I and KRW 300 billion for early redemption II.",
+        "summary_ko": "한국은행은 26일 다음 달에 최대 5조7천억원 규모의 통화안정증권을 발행할 계획이라고 밝혔다. 경쟁입찰을 통한 발행 예정액은 5조1천억원으로 설정됐다. 모집 발행 예정액은 5천억원에서 6천억원 사이로 계획됐다. 이번 달 발행되는 이표채 중 1년물은 신규 지표 종목으로 발행될 예정이다. 2년물과 3년물은 기존 지표 종목에 통합하여 발행할 계획이다. 한국은행은 또한 총 1조원 규모의 중도환매를 실시할 예정이며, 이는 중도환매Ⅰ 7천억원과 중도환매Ⅱ 3천억원으로 나누어 진행된다.",
+        "sentences": [
+          "The Bank of Korea announced on November 26 that it plans to issue up to KRW 5.7 trillion worth of Monetary Stabilization Bonds next month.",
+          "The planned issuance through competitive bidding is set at KRW 5.1 trillion.",
+          "The auction allocation via public offering is scheduled between KRW 500 billion and KRW 600 billion.",
+          "For coupon bonds issued this month, the one-year maturity will be a newly introduced benchmark issue.",
+          "The two-year and three-year maturities will be issued by consolidating into existing benchmark issues.",
+          "The central bank also plans to conduct an early redemption totaling KRW 1 trillion, split into KRW 700 billion for early redemption I and KRW 300 billion for early redemption II."
+        ],
+        "sentences_ko": [
+          "한국은행은 26일 다음 달에 최대 5조7천억원 규모의 통화안정증권을 발행할 계획이라고 밝혔다.",
+          "경쟁입찰을 통한 발행 예정액은 5조1천억원으로 설정됐다.",
+          "모집 발행 예정액은 5천억원에서 6천억원 사이로 계획됐다.",
+          "이번 달 발행되는 이표채 중 1년물은 신규 지표 종목으로 발행될 예정이다.",
+          "2년물과 3년물은 기존 지표 종목에 통합하여 발행할 계획이다.",
+          "한국은행은 또한 총 1조원 규모의 중도환매를 실시할 예정이며, 이는 중도환매Ⅰ 7천억원과 중도환매Ⅱ 3천억원으로 나누어 진행된다."
+        ]
+      }
+    ]
+  },
   "kofia": {
     "date": "2026-11-26",
     "source": "KOFIA",
